@@ -1,0 +1,1983 @@
+{
+ "closures": [
+  {
+   "activity": "fishing",
+   "detail": "The retention of sturgeon is closed . Catch-and-release fishing is allowed except in the sanctuary closure areas during May 1 - August 31.",
+   "effective": "Columbia River Mainstem and Reservoirs, Buoy 10 to McNary Dam‌",
+   "effective_from": null,
+   "effective_to": null,
+   "id": "odfw-6b415dc63e61b1ba",
+   "scope_review": false,
+   "species": [
+    "sturgeon"
+   ],
+   "title": "Columbia River - Columbia River Mainstem and Reservoirs, Buoy 10 to McNary Dam‌",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "No minimum or maximum size limits,\nNo daily or possession limits for rainbow trout and bass,\nHarvest will be allowed by hand, dip net, or angling and,\nA person with a valid Two-Rod Validation may use any number of rods.",
+   "effective": "Effective June 1, 2026, through September 30, 2026",
+   "effective_from": "2026-06-01",
+   "effective_to": "2026-09-30",
+   "id": "odfw-f008b676a258ad9c",
+   "scope_review": false,
+   "species": [
+    "trout",
+    "bass"
+   ],
+   "title": "Thief Reservoir, Wolf Creek Reservoir, and Pilcher Creek Reservoir - Effective June 1, 2026, through September 30, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "southeast/thief-valley-reservoir"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Area definition: From the Buoy 10 line upstream to a line at the west end of Puget Island extending from green navigation marker #39 on the Washington shore to green navigation marker #41, then to red navigation marker #42, and terminating at red navigation marker #44A on the Oregon shore.\nBetween Buoy 10 and the Tongue Point/Rocky Point line, from August 1 – September 30, the adult coho minimum size is 16-inches.",
+   "effective": "Buoy 10 upstream to west Puget Island: August 1 – September 30",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-09-30",
+   "id": "odfw-91c84a47bb43462d",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Columbia River - Buoy 10 upstream to west Puget Island: August 1 – September 30",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Area definition: From the Buoy 10 line upstream to a line at the west end of Puget Island extending from green navigation marker #39 on the Washington shore to green navigation marker #41, then to red navigation marker #42, and terminating at red navigation marker #44A on the Oregon shore.\nBetween Buoy 10 and the Tongue Point/Rocky Point line, retention of jack salmon is prohibited through September 30. Permanent regulations regarding adult and jack length definitions are in effect, with the exception of the adult coho minimum size as referenced above for this section of the Buoy 10 fishing area.",
+   "effective": "Buoy 10 upstream to west Puget Island: August 1 through September 30",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-09-30",
+   "id": "odfw-1d0166009af21cfc",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Columbia River - Buoy 10 upstream to west Puget Island: August 1 through September 30",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Area definition: From a line at the west end of Puget Island extending from green navigation marker #39 on the Washington shore to green navigation marker #41, then to red navigation marker #42, and terminating at red navigation marker #44A on the Oregon shore upstream to a line projected from the Warrior Rock lighthouse on the Oregon shore to the marker atop the piling dolphin located at the downstream end of Bachelor Island on the Washington shore. Note: the definition of the Warrior Rock/Bachelor Island line changed beginning in 2025.\nSeptember 3–30: Salmon/steelhead angling prohibited.",
+   "effective": "West Puget Island upstream to Warrior Rock/Bachelor Island: September 3–30",
+   "effective_from": "2026-09-03",
+   "effective_to": "2026-09-30",
+   "id": "odfw-dbdfe96102636d18",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye",
+    "steelhead"
+   ],
+   "title": "Columbia River - West Puget Island upstream to Warrior Rock/Bachelor Island: September 3–30",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Area definition: From a line projected from the Warrior Rock lighthouse on the Oregon shore to the marker atop the piling dolphin located at the downstream end of Bachelor Island on the Washington shore upstream to Bonneville Dam. Note: the definition of the Warrior Rock/Bachelor Island line changed beginning in 2025.\nSeptember 16–30: Salmon/steelhead angling prohibited.",
+   "effective": "Warrior Rock/Bachelor Island upstream to Bonneville Dam: September 16–30",
+   "effective_from": "2026-09-16",
+   "effective_to": "2026-09-30",
+   "id": "odfw-f41b90322460f71c",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye",
+    "steelhead"
+   ],
+   "title": "Columbia River - Warrior Rock/Bachelor Island upstream to Bonneville Dam: September 16–30",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "September 16–30: Salmon/steelhead angling prohibited.",
+   "effective": "Bonneville Dam upstream to The Dalles Dam a: September 16–30",
+   "effective_from": "2026-09-16",
+   "effective_to": "2026-09-30",
+   "id": "odfw-c8406692072362f0",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye",
+    "steelhead"
+   ],
+   "title": "Columbia River - Bonneville Dam upstream to The Dalles Dam a: September 16–30",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "September 16–30: Salmon/steelhead angling prohibited.",
+   "effective": "The Dalles Dam upstream to the Oregon/Washington border (upstream of McNary Dam) a: September 16–30",
+   "effective_from": "2026-09-16",
+   "effective_to": "2026-09-30",
+   "id": "odfw-5b79548ce27f2642",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye",
+    "steelhead"
+   ],
+   "title": "Columbia River - The Dalles Dam upstream to the Oregon/Washington border (upstream of McNary Dam) a: September 16–30",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "August 8 through September 30, seven days per week, or until the quota is caught\nDaily bag limit: 1 Pacific halibut",
+   "effective": "All-Depth Season: August 8 through September 30",
+   "effective_from": "2026-08-08",
+   "effective_to": "2026-09-30",
+   "id": "odfw-b2909fc3ba52e840",
+   "scope_review": true,
+   "species": [
+    "halibut"
+   ],
+   "title": "Pacific halibut — Columbia River Subarea (Cape Falcon, OR to Leadbetter Point, WA) - All-Depth Season: August 8 through September 30",
+   "units": [],
+   "url": "https://myodfw.com/pacific-halibut-sport-regulations",
+   "water_ids": [],
+   "zones": [
+    "marine"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Siletz River and Bay up to the marker sign approximately 1200 feet above the Ojalla Bridge and from the marker sign approximately 1200 feet above the Ojalla Bridge to Illahee boat ramp, Drift Creek (Siletz Basin, Lincoln Co.), and Schooner Creek from the mouth to Erickson Creek\nCoho retention is allowed from the Siletz River and Bay up to the marker sign approx. 1200 feet above the Ojalla Bridge, Drift Creek (Siletz Basin, Lincoln Co.) from the mouth to the steel bridge entering Mennonite Camp, and Schooner Creek from the mouth to Erickson Creek.",
+   "effective": "Effective September 19 through October 6, 2026",
+   "effective_from": "2026-09-19",
+   "effective_to": "2026-10-06",
+   "id": "odfw-6d6028734704cc78",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Siletz River and Bay, Drift Creek (Lincoln County), and Schooner Creek - Effective September 19 through October 6, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/drift-creek-alsea-basin-lincoln-co",
+    "northwest/drift-creek-siletz-basin-lincoln-co",
+    "northwest/schooner-creek",
+    "northwest/siletz-river-and-bay"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Siuslaw River (Mainstem) and Bay up to Lake Creek, North Fork Siuslaw River from the mouth to Meadows Bridge at MP 11, and Sweet Creek from the mouth to head of tidewater\nThe daily adult wild coho salmon bag limit is one fish in aggregate;\nNo more than three adult wild coho salmon may be retained for the period in aggregate; and\nThe daily jack wild coho salmon bag limit is one fish in aggregate.",
+   "effective": "Effective September 19 through October 13, 2026",
+   "effective_from": "2026-09-19",
+   "effective_to": "2026-10-13",
+   "id": "odfw-d4a9126a6f726021",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Siuslaw River (Mainstem) and Bay, North Fork Siuslaw, Sweet Creek - Effective September 19 through October 13, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/siuslaw-river-mainstem-and-bay",
+    "northwest/siuslaw-river-north-fork",
+    "northwest/sweet-creek"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Area definition: From a line at the west end of Puget Island extending from green navigation marker #39 on the Washington shore to green navigation marker #41, then to red navigation marker #42, and terminating at red navigation marker #44A on the Oregon shore upstream to a line projected from the Warrior Rock lighthouse on the Oregon shore to the marker atop the piling dolphin located at the downstream end of Bachelor Island on the Washington shore. Note: the definition of the Warrior Rock/Bachelor Island line changed beginning in 2025.\nOctober 1–15: Retention of coho allowed; all Chinook must be released. The daily adult bag limit is two coho.",
+   "effective": "West Puget Island upstream to Warrior Rock/Bachelor Island: October 1–15",
+   "effective_from": "2026-10-01",
+   "effective_to": "2026-10-15",
+   "id": "odfw-9ad7548a26312ce2",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho"
+   ],
+   "title": "Columbia River - West Puget Island upstream to Warrior Rock/Bachelor Island: October 1–15",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Area definition: From a line projected from the Warrior Rock lighthouse on the Oregon shore to the marker atop the piling dolphin located at the downstream end of Bachelor Island on the Washington shore upstream to Bonneville Dam. Note: the definition of the Warrior Rock/Bachelor Island line changed beginning in 2025.\nOctober 1–15: Retention of coho allowed; all Chinook must be released. The daily adult bag limit is two coho.",
+   "effective": "Warrior Rock/Bachelor Island upstream to Bonneville Dam: October 1–15",
+   "effective_from": "2026-10-01",
+   "effective_to": "2026-10-15",
+   "id": "odfw-c5ea2088cafdfe30",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho"
+   ],
+   "title": "Columbia River - Warrior Rock/Bachelor Island upstream to Bonneville Dam: October 1–15",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Coquille River (Mainstem) from Highway 101 bridge upstream to the Highway 42S bridge at Sturdivant Park\nThe daily adult wild coho salmon bag limit is one fish;\nNo more than three adult wild coho salmon may be retained for the period;\nThe daily wild jack coho salmon bag limit is one fish; and\nThe retention of hatchery Chinook salmon is allowed.",
+   "effective": "Effective September 19 through October 18, 2026",
+   "effective_from": "2026-09-19",
+   "effective_to": "2026-10-18",
+   "id": "odfw-913d2b0a41089457",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho"
+   ],
+   "title": "Coquille River ( Mainstem ) - Effective September 19 through October 18, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "southwest/coquille-river-east-fork",
+    "southwest/coquille-river-mainstem",
+    "southwest/coquille-river-middle-fork",
+    "southwest/coquille-river-north-fork",
+    "southwest/coquille-river-south-fork",
+    "southwest/coquille-valley-wildlife-area"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Coos River and Bay from the visible tips of jetties upstream to the head of tide or other landmarks including: Larson Slough upstream to Sullivan Cr; Palouse Cr to Elliot Forest Boundary; Catching Slough to Sumner Rd Bridge; Kentuck, North, Isthmus, Coalbank and Davis sloughs to their tidegates; Shinglehouse Slough; and Pony Slough to Newmark Ave, South Fork Coos River (Mouth to head of tide at Dellwood), and Millicoma River (Mainstem) in aggregate\nThe daily adult wild coho salmon bag limit is one fish in aggregate,\nNo more than three adult wild coho salmon may be retained for the period in aggregate;\nThe daily wild jack coho salmon bag limit is one fish in aggregate; and\nThe daily adult salmon bag limit is three fish in aggregate of which no more than two may be wild.",
+   "effective": "Effective September 19 through October 18, 2026",
+   "effective_from": "2026-09-19",
+   "effective_to": "2026-10-18",
+   "id": "odfw-c12c5fca02db4c3e",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Coos Bay - Coos River (Mainstem), South-Fork Coos River, and Millicoma River - Effective September 19 through October 18, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "southwest/coos-bay",
+    "southwest/coos-river-mainstem",
+    "southwest/coos-river-south-fork",
+    "southwest/millicoma-river-mainstem"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Yaquina River and Bay from the visible ends of jetty tips to Simpson Creek and Big Elk Creek from the mouth to Bear Creek\nThe daily adult wild coho salmon bag limit is one fish in aggregate;\nNo more than three adult wild coho salmon may be retained for the period in aggregate; and\nThe daily jack wild coho salmon bag limit is one fish in aggregate.",
+   "effective": "Effective September 19 through October 25 and November 1 through November 7, 2026",
+   "effective_from": "2026-09-19",
+   "effective_to": "2026-10-25",
+   "id": "odfw-a8e7cdbcc556291d",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Yaquina River and Bay, Big Elk Creek - Effective September 19 through October 25 and November 1 through November 7, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/big-elk-creek",
+    "northwest/yaquina-river-and-bay"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Nehalem River (mainstem) and Bay from the tips of the jetties upstream to the Miami-Foley Road Bridge and in the North Fork Nehalem River from the mouth upstream to the North Fork Road Bridge at Aldervale\nThe daily adult wild coho salmon bag limit is one fish in aggregate;\nNo more than three adult wild coho salmon may be retained for the period in aggregate; and\nThe daily jack wild coho salmon bag limit is one fish in aggregate",
+   "effective": "Effective September 9 through October 28, 2026, on Wednesdays, Saturdays, and Sundays",
+   "effective_from": "2026-09-09",
+   "effective_to": "2026-10-28",
+   "id": "odfw-74ffb9607fa38217",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Nehalem River (Mainstem), Bay, and North Fork - Effective September 9 through October 28, 2026, on Wednesdays, Saturdays, and Sundays",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/nehalem-river-mainstem-and-bay",
+    "northwest/nehalem-river-north-fork"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Tillamook Bay from the tips of the jetties upstream to the Highway 101 bridges on the Miami, Kilchis, Wilson, and Trask Rivers and upstream to the Burton Bridge on the Tillamook River\nThe daily adult wild coho salmon bag limit is one fish in aggregate;\nNo more than three adult wild coho salmon may be retained for the period in aggregate; and\nThe daily jack wild coho salmon bag limit is one fish in aggregate.",
+   "effective": "Effective September 9 through October 28, 2026, on Wednesday, Saturdays, and Sundays",
+   "effective_from": "2026-09-09",
+   "effective_to": "2026-10-28",
+   "id": "odfw-8de5f0e6d2f4314c",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Tillamook Bay - Miami, Kilchis, Wilson, Trask, and Tillamook Rivers - Effective September 9 through October 28, 2026, on Wednesday, Saturdays, and Sundays",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/kilchis-river",
+    "northwest/miami-river",
+    "northwest/tillamook-bay",
+    "northwest/tillamook-river",
+    "northwest/trask-river-mainstem",
+    "northwest/wilson-river-mainstem"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Nestucca River and Bay upstream to the Cloverdale Bridge and in the Little Nestucca River from the Nestucca Bay upstream to the Highway 130 Bridge (MP 1.2):\nThe daily adult wild coho salmon bag limit is one fish in aggregate;\nNo more than three adult wild coho salmon may be retained for the period in aggregate; and\nThe daily jack wild coho salmon bag limit is one fish in aggregate.",
+   "effective": "Effective September 9 through October 28, 2026, on Wednesdays, Saturdays, and Sundays",
+   "effective_from": "2026-09-09",
+   "effective_to": "2026-10-28",
+   "id": "odfw-812bfde11b1ded09",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Nestucca River & Bay, Little Nestucca River, and Three Rivers - Effective September 9 through October 28, 2026, on Wednesdays, Saturdays, and Sundays",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/little-nestucca-river",
+    "northwest/nestucca-river-and-bay",
+    "northwest/three-rivers"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Spears and spear guns may be used to harvest smallmouth bass.\nUse of bait is allowed all year .",
+   "effective": "Effective June 1 through October 31, 2026",
+   "effective_from": "2026-06-01",
+   "effective_to": "2026-10-31",
+   "id": "odfw-348a8ad3ef0f0348",
+   "scope_review": false,
+   "species": [
+    "bass"
+   ],
+   "title": "Coquille River (Mainstem) East Fork Coquille River, Middle Fork Coquille River, North Fork Coquille River, and in the South Fork Coquille River from the mouth to the USFS boundary near Powers - Effective June 1 through October 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "southwest/coquille-river-east-fork",
+    "southwest/coquille-river-mainstem",
+    "southwest/coquille-river-middle-fork",
+    "southwest/coquille-river-north-fork",
+    "southwest/coquille-river-south-fork",
+    "southwest/coquille-valley-wildlife-area"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Catch-and-release for rainbow trout and,\nFlies and artificial lures only for all species.\nAll other permanent rules for Southeast Zone, as stated in the current Oregon Sport Fishing Regulations, remain in effect.",
+   "effective": "Effective June 15, 2026 through October 31, 2026",
+   "effective_from": "2026-06-15",
+   "effective_to": "2026-10-31",
+   "id": "odfw-90b730f92952fb57",
+   "scope_review": false,
+   "species": [
+    "trout"
+   ],
+   "title": "Crystal Creek, Fourmile Creek, Fourmile Canal, Harriman Creek, Klamath Lake, Odessa Creek, Recreation Creek, Short Creek, and Thomason Creek - Effective June 15, 2026 through October 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "southeast/crystal-creek",
+    "southeast/fourmile-creek",
+    "southeast/harriman-creek",
+    "southeast/klamath-lake",
+    "southeast/odessa-creek",
+    "southeast/recreation-creek",
+    "southeast/short-creek",
+    "southeast/thomason-creek"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Snake River from the Oregon/Washington state border, upstream to the boundary 400 ft below Hells Canyon dam\nThe bag limit for adult Chinook salmon is 3 per day, of which only one may be wild.\nAll other permanent rules for the Snake River Zone, as stated in the current annual Oregon Sport Fishing Regulations, remain in effect.",
+   "effective": "Effective August 18, 2026 through October 31, 2026",
+   "effective_from": "2026-08-18",
+   "effective_to": "2026-10-31",
+   "id": "odfw-25d63a160a028bfb",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Snake River - Effective August 18, 2026 through October 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "snake-river/snake-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Area definition: From the Buoy 10 line upstream to a line at the west end of Puget Island extending from green navigation marker #39 on the Washington shore to green navigation marker #41, then to red navigation marker #42, and terminating at red navigation marker #44A on the Oregon shore.\nAll steelhead must be released August 1 – October 31.",
+   "effective": "Buoy 10 upstream to west Puget Island: August 1 – October 31",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-10-31",
+   "id": "odfw-b1b69ba5d1cf4785",
+   "scope_review": false,
+   "species": [
+    "steelhead"
+   ],
+   "title": "Columbia River - Buoy 10 upstream to west Puget Island: August 1 – October 31",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Area definition: From the Buoy 10 line upstream to a line at the west end of Puget Island extending from green navigation marker #39 on the Washington shore to green navigation marker #41, then to red navigation marker #42, and terminating at red navigation marker #44A on the Oregon shore.\nSeptember 12 – October 31: Retention of hatchery coho allowed; all Chinook must be released. The daily adult bag limit is three hatchery coho.",
+   "effective": "Buoy 10 upstream to west Puget Island: September 12 – October 31",
+   "effective_from": "2026-09-12",
+   "effective_to": "2026-10-31",
+   "id": "odfw-8e80569c98919925",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho"
+   ],
+   "title": "Columbia River - Buoy 10 upstream to west Puget Island: September 12 – October 31",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Area definition: From a line at the west end of Puget Island extending from green navigation marker #39 on the Washington shore to green navigation marker #41, then to red navigation marker #42, and terminating at red navigation marker #44A on the Oregon shore upstream to a line projected from the Warrior Rock lighthouse on the Oregon shore to the marker atop the piling dolphin located at the downstream end of Bachelor Island on the Washington shore. Note: the definition of the Warrior Rock/Bachelor Island line changed beginning in 2025.\nAll steelhead must be released August 1 – October 31.",
+   "effective": "West Puget Island upstream to Warrior Rock/Bachelor Island: August 1 – October 31",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-10-31",
+   "id": "odfw-9d76f341e638b377",
+   "scope_review": false,
+   "species": [
+    "steelhead"
+   ],
+   "title": "Columbia River - West Puget Island upstream to Warrior Rock/Bachelor Island: August 1 – October 31",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Area definition: From a line at the west end of Puget Island extending from green navigation marker #39 on the Washington shore to green navigation marker #41, then to red navigation marker #42, and terminating at red navigation marker #44A on the Oregon shore upstream to a line projected from the Warrior Rock lighthouse on the Oregon shore to the marker atop the piling dolphin located at the downstream end of Bachelor Island on the Washington shore. Note: the definition of the Warrior Rock/Bachelor Island line changed beginning in 2025.\nOctober 16–31: Retention of hatchery coho allowed; all Chinook must be released. The daily adult bag limit is two hatchery coho.",
+   "effective": "West Puget Island upstream to Warrior Rock/Bachelor Island: October 16–31",
+   "effective_from": "2026-10-16",
+   "effective_to": "2026-10-31",
+   "id": "odfw-ca32a6016b7b9a19",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho"
+   ],
+   "title": "Columbia River - West Puget Island upstream to Warrior Rock/Bachelor Island: October 16–31",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Area definition: From a line projected from the Warrior Rock lighthouse on the Oregon shore to the marker atop the piling dolphin located at the downstream end of Bachelor Island on the Washington shore upstream to Bonneville Dam. Note: the definition of the Warrior Rock/Bachelor Island line changed beginning in 2025.\nAll steelhead must be released August 1 – October 31.",
+   "effective": "Warrior Rock/Bachelor Island upstream to Bonneville Dam: August 1 – October 31",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-10-31",
+   "id": "odfw-033ad2d183cd78f2",
+   "scope_review": false,
+   "species": [
+    "steelhead"
+   ],
+   "title": "Columbia River - Warrior Rock/Bachelor Island upstream to Bonneville Dam: August 1 – October 31",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Area definition: From a line projected from the Warrior Rock lighthouse on the Oregon shore to the marker atop the piling dolphin located at the downstream end of Bachelor Island on the Washington shore upstream to Bonneville Dam. Note: the definition of the Warrior Rock/Bachelor Island line changed beginning in 2025.\nOctober 16–31: Retention of hatchery coho allowed; all Chinook must be released. The daily adult bag limit is two hatchery coho.",
+   "effective": "Warrior Rock/Bachelor Island upstream to Bonneville Dam: October 16–31",
+   "effective_from": "2026-10-16",
+   "effective_to": "2026-10-31",
+   "id": "odfw-8ec583dde075d340",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho"
+   ],
+   "title": "Columbia River - Warrior Rock/Bachelor Island upstream to Bonneville Dam: October 16–31",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "All steelhead must be released August 1 – October 31.",
+   "effective": "Bonneville Dam upstream to The Dalles Dam a: August 1 – October 31",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-10-31",
+   "id": "odfw-c3bb1bd7f3afe17d",
+   "scope_review": false,
+   "species": [
+    "steelhead"
+   ],
+   "title": "Columbia River - Bonneville Dam upstream to The Dalles Dam a: August 1 – October 31",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "October 1–31: The retention of coho is allowed; all Chinook must be released. The daily adult bag limit is two coho.",
+   "effective": "Bonneville Dam upstream to The Dalles Dam a: October 1–31",
+   "effective_from": "2026-10-01",
+   "effective_to": "2026-10-31",
+   "id": "odfw-07449dc3c53f1f2e",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho"
+   ],
+   "title": "Columbia River - Bonneville Dam upstream to The Dalles Dam a: October 1–31",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "August 1 through October 31, seven days per week, or until the quota is caught\nDaily bag limit: 2 Pacific halibut",
+   "effective": "Summer All-Depth Season: August 1 through October 31",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-10-31",
+   "id": "odfw-ecfd6b03111a6336",
+   "scope_review": true,
+   "species": [
+    "halibut"
+   ],
+   "title": "Pacific halibut — Central Oregon Coast Subarea (Humbug Mountain to Cape Falcon) - Summer All-Depth Season: August 1 through October 31",
+   "units": [],
+   "url": "https://myodfw.com/pacific-halibut-sport-regulations",
+   "water_ids": [],
+   "zones": [
+    "marine"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "May 1 through October 31, seven days per week, or until the quota is caught\nDaily bag limit: 2 Pacific halibut",
+   "effective": "Nearshore Season: May 1 through October 31",
+   "effective_from": "2026-05-01",
+   "effective_to": "2026-10-31",
+   "id": "odfw-d0af4ffd8ab7adeb",
+   "scope_review": true,
+   "species": [
+    "halibut"
+   ],
+   "title": "Pacific halibut — Central Oregon Coast Subarea (Humbug Mountain to Cape Falcon) - Nearshore Season: May 1 through October 31",
+   "units": [],
+   "url": "https://myodfw.com/pacific-halibut-sport-regulations",
+   "water_ids": [],
+   "zones": [
+    "marine"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "May 1 through October 31, seven days per week, or until the quota is caught\nDaily bag limit: 2 Pacific halibut",
+   "effective": "May 1 through October 31",
+   "effective_from": "2026-05-01",
+   "effective_to": "2026-10-31",
+   "id": "odfw-822d00282e0360d4",
+   "scope_review": true,
+   "species": [
+    "halibut"
+   ],
+   "title": "Pacific halibut — Southern Oregon Subarea (OR/CA Border to Humbug Mountain) - May 1 through October 31",
+   "units": [],
+   "url": "https://myodfw.com/pacific-halibut-sport-regulations",
+   "water_ids": [],
+   "zones": [
+    "marine"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Cape Falcon to Humbug Mountain\nThe earlier of September 1 through October 31, except as described below during the non-mark-selective coho season.\nOpen for all salmon except coho, two salmon per day.",
+   "effective": "All Salmon Except Coho Season—Cape Falcon to Humbug Mountain: 2026-09-01 to 2026-10-31",
+   "effective_from": "2026-09-01",
+   "effective_to": "2026-10-31",
+   "id": "odfw-4a005c610f6a0189",
+   "scope_review": true,
+   "species": [
+    "chinook",
+    "pink",
+    "chum",
+    "sockeye"
+   ],
+   "title": "Ocean salmon — Cape Falcon to Humbug Mountain - All Salmon Except Coho Season—Cape Falcon to Humbug Mountain: 2026-09-01 to 2026-10-31",
+   "units": [],
+   "url": "https://www.dfw.state.or.us/mrp/salmon/Regulations/docs/2026_Ocean_Sport_Salmon_Map.pdf",
+   "water_ids": [],
+   "zones": [
+    "marine"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Siletz River and Bay up to the marker sign approximately 1200 feet above the Ojalla Bridge and from the marker sign approximately 1200 feet above the Ojalla Bridge to Illahee boat ramp, Drift Creek (Siletz Basin, Lincoln Co.), and Schooner Creek from the mouth to Erickson Creek\nThe daily adult wild coho salmon bag limit is one fish in aggregate;\nNo more than three adult wild coho salmon may be retained for the period in aggregate; and\nThe daily jack wild coho salmon bag limit is one fish in aggregate.",
+   "effective": "Effective September 19 through November 7, 2026",
+   "effective_from": "2026-09-19",
+   "effective_to": "2026-11-07",
+   "id": "odfw-4b8133cf25047aca",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Siletz River and Bay, Drift Creek (Lincoln County), and Schooner Creek - Effective September 19 through November 7, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/drift-creek-alsea-basin-lincoln-co",
+    "northwest/drift-creek-siletz-basin-lincoln-co",
+    "northwest/schooner-creek",
+    "northwest/siletz-river-and-bay"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Siletz River and Bay up to the marker sign approximately 1200 feet above the Ojalla Bridge and from the marker sign approximately 1200 feet above the Ojalla Bridge to Illahee boat ramp, Drift Creek (Siletz Basin, Lincoln Co.), and Schooner Creek from the mouth to Erickson Creek\nCoho retention is allowed from the Siletz River and Bay up to the marker sign approx. 1200 feet above the Ojalla Bridge and from the marker sign approx. 1200 ft above the Ojalla Bridge to Illahee boat ramp, Drift Creek (Siletz Basin, Lincoln Co.) from the mouth to the steel bridge entering Mennonite Camp, and Schooner Creek from the mouth to Erickson Creek..",
+   "effective": "Effective October 7 through November 7, 2026",
+   "effective_from": "2026-10-07",
+   "effective_to": "2026-11-07",
+   "id": "odfw-93cad1bb1ce0cc38",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Siletz River and Bay, Drift Creek (Lincoln County), and Schooner Creek - Effective October 7 through November 7, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/drift-creek-alsea-basin-lincoln-co",
+    "northwest/drift-creek-siletz-basin-lincoln-co",
+    "northwest/schooner-creek",
+    "northwest/siletz-river-and-bay"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Yaquina River and Bay from the visible ends of jetty tips to Simpson Creek and Big Elk Creek from the mouth to Bear Creek\nThe daily adult wild coho salmon bag limit is one fish in aggregate;\nNo more than three adult wild coho salmon may be retained for the period in aggregate; and\nThe daily jack wild coho salmon bag limit is one fish in aggregate.",
+   "effective": "Effective September 19 through October 25 and November 1 through November 7, 2026",
+   "effective_from": "2026-11-01",
+   "effective_to": "2026-11-07",
+   "id": "odfw-1be993ac4802454f",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Yaquina River and Bay, Big Elk Creek - Effective September 19 through October 25 and November 1 through November 7, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/big-elk-creek",
+    "northwest/yaquina-river-and-bay"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "The daily limit of kokanee is 10 per day with no size limit.",
+   "effective": "Effective May 12 through November 7,2026",
+   "effective_from": "2026-05-12",
+   "effective_to": "2026-11-07",
+   "id": "odfw-290d3ded9f2a17dc",
+   "scope_review": true,
+   "species": [
+    "kokanee"
+   ],
+   "title": "Lemolo Reservoir and Hemlock Lake - Effective May 12 through November 7,2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [],
+   "zones": [
+    "southwest"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Necanicum River from the mouth to Hwy 53 bridge at Necanicum Jct including Neawanna Cr tidewater below 12 th Ave Bridge\nThe daily adult wild Chinook salmon bag limit is one fish; and\nNo more than five adult wild Chinook salmon may be retained for the period.",
+   "effective": "Effective August 1 through November 30, 2026",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-11-30",
+   "id": "odfw-7b9bedfb004da577",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Necanicum River - Effective August 1 through November 30, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/necanicum-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Nehalem River up to Foss Rd (CC) Bridge (RM 15.1) and in the North Fork Nehalem River from the mouth to Hwy 53 bridge\nThe daily adult wild Chinook salmon bag limit is one fish; and\nNo more than five adult wild Chinook salmon may be retained in aggregate for the period.",
+   "effective": "Effective July 1 through November 30, 2026",
+   "effective_from": "2026-07-01",
+   "effective_to": "2026-11-30",
+   "id": "odfw-eb9d58cbeb9a0673",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Nehalem River (Mainstem), Bay, and North Fork - Effective July 1 through November 30, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/nehalem-river-mainstem-and-bay",
+    "northwest/nehalem-river-north-fork"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Tillamook Bay from the tips of the jetties upstream to Hwy 101 bridges on Kilchis, Miami, Wilson, and Trask Rivers, and Burton Bridge on the Tillamook River, Tillamook River above Burton Bridge, Wilson River (Mainstem) from Hwy 101 bridge to Jordan Creek, Trask River (Mainstem) from Hwy 101 bridge to confluence of North and South Forks, Kilchis River from Hwy 101 bridge to Tilden Bluff Rd Bridge (RM 11), and Miami River above Hwy 101 bridge\nThe daily adult wild Chinook salmon bag limit is one fish in aggregate; and\nNo more than five adult wild Chinook salmon may be retained for the period in aggregate.",
+   "effective": "Effective August 1 through November 30, 2026",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-11-30",
+   "id": "odfw-88dafa49e69cf651",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Tillamook Bay - Miami, Kilchis, Wilson, Trask, and Tillamook Rivers - Effective August 1 through November 30, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/kilchis-river",
+    "northwest/miami-river",
+    "northwest/tillamook-bay",
+    "northwest/tillamook-river",
+    "northwest/trask-river-mainstem",
+    "northwest/wilson-river-mainstem"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Nestucca River and Bay up to First Bridge (near Beaver), the Little Nestucca River from Hwy 101 to USFS bridge at Dolph, and Three Rivers from the mouth to hatchery deadline and above the hatchery weir:\nThe daily adult wild Chinook salmon bag limit is one fish in aggregate; and\nNo more than two adult wild Chinook salmon may be retained for the period in aggregate.",
+   "effective": "Effective August 1 through November 30, 2026",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-11-30",
+   "id": "odfw-01ceb7d4c40106c8",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Nestucca River & Bay, Little Nestucca River, and Three Rivers - Effective August 1 through November 30, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/little-nestucca-river",
+    "northwest/nestucca-river-and-bay",
+    "northwest/three-rivers"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Three Rivers from the mouth to hatchery deadline:\nThe daily adult wild Chinook salmon bag limit is one fish in aggregate; and\nNo more than two adult wild Chinook salmon may be retained for the period in aggregate.",
+   "effective": "Effective October 1 through November 30, 2026",
+   "effective_from": "2026-10-01",
+   "effective_to": "2026-11-30",
+   "id": "odfw-deed1ed86ea753fd",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Nestucca River & Bay, Little Nestucca River, and Three Rivers - Effective October 1 through November 30, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/little-nestucca-river",
+    "northwest/nestucca-river-and-bay",
+    "northwest/three-rivers"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In Beaver Creek (Lincoln County) from the walking bridge at Ona Beach State Park upstream to the confluence of Beaver Creek and South Fork Beaver Creek\nThe daily adult wild coho salmon bag limit is one fish;\nNo more than three adult wild coho salmon may be retained for the period; and\nThe daily jack wild coho salmon bag limit is one fish in aggregate.",
+   "effective": "Effective November 1 through November 30, 2026",
+   "effective_from": "2026-11-01",
+   "effective_to": "2026-11-30",
+   "id": "odfw-97de51c9d38e2188",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Beaver Creek (Lincoln Co.) - Effective November 1 through November 30, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/beaver-creek-columbia-co",
+    "northwest/beaver-creek-lincoln-co",
+    "northwest/beaver-creek-nestucca-basin-tillamook-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Umpqua River (Mainstem) from the visible tips of the jetties to the North and South Umpqua confluence, Mainstem Smith River (Douglas Co.) from the mouth to Spencer Creek, and North Fork Smith River (Douglas Co.) from the mouth to Johnson Creek\nThe daily adult wild Chinook salmon bag limit is one fish in aggregate; and\nNo more than five adult wild Chinook salmon may be retained for the period in aggregate.",
+   "effective": "Effective July 1 through November 30, 2026",
+   "effective_from": "2026-07-01",
+   "effective_to": "2026-11-30",
+   "id": "odfw-a89f54827c33abe0",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Umpqua River (Mainstem), Smith River (Douglas Co.), North Fork Smith River (Douglas Co.) - Effective July 1 through November 30, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "southwest/north-umpqua-river",
+    "southwest/smith-river-mainstem-douglas-co",
+    "southwest/south-umpqua-river",
+    "southwest/umpqua-river-mainstem"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the North Umpqua River from the mouth to the marker below Soda Springs Dam\nAngling for and retention of steelhead is closed\nAll other permanent rules for the Southwest Zone, as stated in the current annual Oregon Sport Fishing Regulations, remain in effect",
+   "effective": "Effective August 10 through November 30, 2026",
+   "effective_from": "2026-08-10",
+   "effective_to": "2026-11-30",
+   "id": "odfw-7bbe01dd75f1f4c8",
+   "scope_review": false,
+   "species": [
+    "steelhead"
+   ],
+   "title": "North Umpqua River - Effective August 10 through November 30, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "southwest/north-umpqua-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Area definition : East of the peninsula, from the mainline railroad bridge downstream to markers at mouth. Note: The Youth and Disabled Angling Area west of the peninsula is not covered here; see permanent regulations for this area.\nSeptember 16 – November 30 : Closed to salmon and steelhead angling/retention.",
+   "effective": "Herman Creek: September 16 – November 30",
+   "effective_from": "2026-09-16",
+   "effective_to": "2026-11-30",
+   "id": "odfw-7770b7f6c48ca4d6",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye",
+    "steelhead"
+   ],
+   "title": "Columbia River - Herman Creek: September 16 – November 30",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river",
+    "columbia-river/herman-creek"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Nehalem River up to Foss Rd (CC) Bridge (RM 15.1) and in the North Fork Nehalem River from the mouth to Hwy 53 bridge\nAngling for, and retention of, all Chinook salmon is closed.",
+   "effective": "Effective December 1 through December 31",
+   "effective_from": "2026-12-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-64eca08d3a891059",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Nehalem River (Mainstem), Bay, and North Fork - Effective December 1 through December 31",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/nehalem-river-mainstem-and-bay",
+    "northwest/nehalem-river-north-fork"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Tillamook Bay from the tips of the jetties upstream to Hwy 101 bridges on Kilchis, Miami, Wilson, and Trask Rivers, and Burton Bridge on the Tillamook River, Tillamook River above Burton Bridge, Wilson River (Mainstem) from Hwy 101 bridge to Jordan Creek, Trask River (Mainstem) from Hwy 101 bridge to confluence of North and South Forks, Kilchis River from Hwy 101 bridge to Tilden Bluff Rd Bridge (RM 11), and Miami River above Hwy 101 bridge\nAngling for, and retention of all Chinook salmon is closed.",
+   "effective": "Effective December 1 through December 31, 2026",
+   "effective_from": "2026-12-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-4bfcd595f07d77d7",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Tillamook Bay - Miami, Kilchis, Wilson, Trask, and Tillamook Rivers - Effective December 1 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/kilchis-river",
+    "northwest/miami-river",
+    "northwest/tillamook-bay",
+    "northwest/tillamook-river",
+    "northwest/trask-river-mainstem",
+    "northwest/wilson-river-mainstem"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Three Rivers from the mouth to hatchery deadline:\nAngling for, and retention of, all Chinook salmon is closed.",
+   "effective": "Effective December 1 through December 31, 2026",
+   "effective_from": "2026-12-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-89dd4ff736b25ed0",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Nestucca River & Bay, Little Nestucca River, and Three Rivers - Effective December 1 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/little-nestucca-river",
+    "northwest/nestucca-river-and-bay",
+    "northwest/three-rivers"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Salmon River from the mouth to Knight Park boat ramp and from Knight Park boat ramp to the bridge near MP 9 on Hwy 18:\nNo more than ten adult wild Chinook salmon may be retained for the period",
+   "effective": "Effective August 1 through December 31, 2026",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-c7c859cc09f4b8c9",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Salmon River - Effective August 1 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/salmon-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Siletz River and Bay up to the marker sign approximately 1200 feet above Ojalla Bridge and from the marker sign approximately 1200 feet above the Ojalla Bridge to Illahee boat ramp, Drift Creek (Siletz Basin, Lincoln Co.) from the mouth to the steel bridge entering Mennonite Camp, and Schooner Creek from the mouth to Erickson Creek\nNo more than ten adult wild Chinook salmon may be retained for the period in aggregate.",
+   "effective": "Effective August 1 through December 31, 2026",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-feea7bd71f2617c2",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Siletz River and Bay, Drift Creek (Lincoln County), and Schooner Creek - Effective August 1 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/drift-creek-alsea-basin-lincoln-co",
+    "northwest/drift-creek-siletz-basin-lincoln-co",
+    "northwest/schooner-creek",
+    "northwest/siletz-river-and-bay"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Siletz River and Bay up to the marker sign approximately 1200 feet above Ojalla Bridge and from the marker sign approximately 1200 feet above the Ojalla Bridge to Illahee boat ramp, Drift Creek (Siletz Basin, Lincoln Co.) from the mouth to the steel bridge entering Mennonite Camp, and Schooner Creek from the mouth to Erickson Creek\nChinook retention is allowed from the Siletz River and Bay up to the marker sign approx. 1200 feet above the Ojalla Bridge, Drift Creek (Siletz Basin, Lincoln Co.) from the mouth to steel bridge entering Mennonite Camp, and Schooner Creek from the mouth to Erickson Creek.",
+   "effective": "Effective August 1 though December 31, 2026",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-d012e6896d294fcd",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Siletz River and Bay, Drift Creek (Lincoln County), and Schooner Creek - Effective August 1 though December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/drift-creek-alsea-basin-lincoln-co",
+    "northwest/drift-creek-siletz-basin-lincoln-co",
+    "northwest/schooner-creek",
+    "northwest/siletz-river-and-bay"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Siletz River and Bay up to the marker sign approximately 1200 feet above Ojalla Bridge and from the marker sign approximately 1200 feet above the Ojalla Bridge to Illahee boat ramp, Drift Creek (Siletz Basin, Lincoln Co.) from the mouth to the steel bridge entering Mennonite Camp, and Schooner Creek from the mouth to Erickson Creek\nChinook retention is allowed from the Siletz River and Bay up to the marker sign approx. 1200 feet above the Ojalla Bridge and from the marker sign approx. 1200 feet above the Ojalla Bridge to Illahee boat ramp, Drift Creek (Siletz Basin, Lincoln Co.) from the mouth to the steel bridge entering Mennonite Camp, and Schooner Creek from the mouth to Erickson Creek.",
+   "effective": "Effective October 7 through December 31, 2026",
+   "effective_from": "2026-10-07",
+   "effective_to": "2026-12-31",
+   "id": "odfw-549f4da2db6b1c37",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Siletz River and Bay, Drift Creek (Lincoln County), and Schooner Creek - Effective October 7 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/drift-creek-alsea-basin-lincoln-co",
+    "northwest/drift-creek-siletz-basin-lincoln-co",
+    "northwest/schooner-creek",
+    "northwest/siletz-river-and-bay"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Yaquina River and Bay from the visible ends of jetty tips to Simpson Creek and Big Elk Creek from the mouth to Bear Creek\nNo more than ten adult wild Chinook salmon may be retained for the period in aggregate.",
+   "effective": "Effective August 1 through December 31, 2026",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-39626cb675a38f5c",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Yaquina River and Bay, Big Elk Creek - Effective August 1 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/big-elk-creek",
+    "northwest/yaquina-river-and-bay"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Alsea River (Mainstem) and Bay up to the USFS River Edge Boat Landing and Drift Creek (Alsea Basin, Lincoln Co.) from the mouth to lower Wilderness Boundary (RM 10)\nNo more than ten adult wild Chinook salmon may be retained for the period in aggregate.",
+   "effective": "Effective August 1 through December 31, 2026",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-16190d6caadaeac9",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Alsea River (Mainstem) and Bay, Drift Creek - Effective August 1 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/alsea-river-mainstem-and-bay",
+    "northwest/alsea-river-north-fork",
+    "northwest/alsea-river-south-fork",
+    "northwest/drift-creek-alsea-basin-lincoln-co",
+    "northwest/drift-creek-siletz-basin-lincoln-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Yachats River from the mouth to North Fork Yachats River\nThe daily adult wild Chinook salmon bag limit is one fish; and\nNo more than two adult wild Chinook salmon may be retained for the period.",
+   "effective": "Effective August 1 through December 31, 2026",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-b6f1104ea11b09c2",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Yachats River - Effective August 1 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/yachats-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Siuslaw River (Mainstem) and Bay up to Lake Creek, North Fork Siuslaw River from the mouth to Meadows Bridge at MP 11, and Sweet Creek from the mouth to head of tidewater\nThe daily adult wild Chinook salmon bag limit is one fish in aggregate; and\nNo more than five adult wild Chinook salmon may be retained for the period in aggregate.",
+   "effective": "Effective August 1 through December 31",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-60d6ef8e0c3eb53b",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Siuslaw River (Mainstem) and Bay, North Fork Siuslaw, Sweet Creek - Effective August 1 through December 31",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/siuslaw-river-mainstem-and-bay",
+    "northwest/siuslaw-river-north-fork",
+    "northwest/sweet-creek"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Coos River and Bay from the visible tips of jetties upstream to the head of tide or other landmarks including: Larson Slough upstream to Sullivan Cr; Palouse Cr to Elliot Forest Boundary; Catching Slough to Sumner Rd Bridge; Kentuck, North, Isthmus, Coalbank and Davis sloughs to their tidegates; Shinglehouse Slough; and Pony Slough to Newmark Ave, South Fork Coos River (Mouth to head of tide at Dellwood), and Millicoma River (Mainstem) in aggregate\nNo more than ten adult wild Chinook salmon may be retained for the period in aggregate.",
+   "effective": "Effective July 1 through December 31, 2026",
+   "effective_from": "2026-07-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-c3b2322a2eb9ac38",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Coos Bay - Coos River (Mainstem), South-Fork Coos River, and Millicoma River - Effective July 1 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "southwest/coos-bay",
+    "southwest/coos-river-mainstem",
+    "southwest/coos-river-south-fork",
+    "southwest/millicoma-river-mainstem"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Coos River and Bay from the visible tips of jetties upstream to the head of tide or other landmarks including: Larson Slough upstream to Sullivan Cr; Palouse Cr to Elliot Forest Boundary; Catching Slough to Sumner Rd Bridge; Kentuck, North, Isthmus, Coalbank and Davis sloughs to their tidegates; Shinglehouse Slough; and Pony Slough to Newmark Ave, South Fork Coos River (Mouth to head of tide at Dellwood), and Millicoma River (Mainstem) in aggregate\nThe daily adult salmon bag limit is three fish in aggregate of which no more than two may be wild Chinook salmon.",
+   "effective": "Effective July 1 through September 18 and October 19 through December 31, 2026",
+   "effective_from": "2026-10-19",
+   "effective_to": "2026-12-31",
+   "id": "odfw-fd0ca2a097bcfd41",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Coos Bay - Coos River (Mainstem), South-Fork Coos River, and Millicoma River - Effective July 1 through September 18 and October 19 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "southwest/coos-bay",
+    "southwest/coos-river-mainstem",
+    "southwest/coos-river-south-fork",
+    "southwest/millicoma-river-mainstem"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Sixes River from the mouth to Edson Creek\nThe daily adult wild Chinook salmon bag limit is one fish; and\nNo more than ten adult wild Chinook salmon may be retained for the period.",
+   "effective": "Effective July 1 through December 31, 2026",
+   "effective_from": "2026-07-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-6e63caf7bb5e73dc",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Sixes River - Effective July 1 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "southwest/sixes-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In Floras Creek and New River from the mouth to bridge at MP 1.5 on Floras Creek Rd.\nThe daily adult wild Chinook salmon bag limit is one fish in aggregate; and\nNo more than two adult wild Chinook salmon may be retained for the period in aggregate.",
+   "effective": "Effective August 1 through December 31, 2026",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-2534c2c3f1075d39",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Floras Creek and New River - Effective August 1 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "southwest/floras-creek-and-new-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In Floras Creek and New River from the BLM boat ramp at Storm Ranch upstream to the confluence of Floras Creek and Floras Lake outlet\nThe daily adult wild coho salmon bag limit is one fish in aggregate;\nNo more than three adult wild coho salmon may be retained for the period in aggregate; and\nThe daily wild jack coho salmon bag limit is one fish in aggregate.",
+   "effective": "Effective November 1 through December 31, 2026",
+   "effective_from": "2026-11-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-e22c23ae456981cb",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Floras Creek and New River - Effective November 1 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "southwest/floras-creek-and-new-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In Hunter Creek from the mouth to Mateer\nThe daily adult wild Chinook salmon bag limit is one fish; and\nNo more than two adult wild Chinook salmon may be retained for the period.",
+   "effective": "Effective October 1 through December 31, 2026",
+   "effective_from": "2026-10-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-d14a9283de0ed300",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Hunter Creek - Effective October 1 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "southwest/hunter-creek"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Chetco River From the mouth to Nook Creek, Pistol River from the mouth to Deep Creek, and Winchuck River from the mouth to Wheeler Creek\nThe daily adult wild Chinook salmon bag limit is one fish; and\nNo more than five adult wild Chinook salmon may be retained for the period.",
+   "effective": "Effective September 1 through December 31, 2026",
+   "effective_from": "2026-09-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-6d40af073095b693",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Chetco River, Pistol River, and Winchuck River - Effective September 1 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "southwest/chetco-river",
+    "southwest/pistol-river",
+    "southwest/winchuck-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In all areas of the Willamette River upstream of Willamette Falls open to coho salmon retention, including tributaries and flowing waters\nAnglers with a valid 2026 Two-Rod Validation may use up to two fishing rods except when angling for sturgeon.\nSpecies: applies to all game and non-game fish (except sturgeon).",
+   "effective": "Effective August 1, 2026 through December 31, 2026",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-04916c3b4b92056a",
+   "scope_review": false,
+   "species": [
+    "coho",
+    "sturgeon"
+   ],
+   "title": "Willamette River - Effective August 1, 2026 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "willamette/willamette-river-coast-fork-and-tributaries",
+    "willamette/willamette-river-mainstem",
+    "willamette/willamette-river-middle-fork-and-tributaries",
+    "willamette/willamette-river-north-fork-middle-fork-and-tributaries"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "From the mouth at the west bound Interstate 84 Bridge upstream to the upper railroad trestle three miles downstream of Sherars Falls:\nClosed to angling for and retention of salmon and steelhead",
+   "effective": "Effective August 15, 2026 through December 31, 2026",
+   "effective_from": "2026-08-15",
+   "effective_to": "2026-12-31",
+   "id": "odfw-c1d7236c4a6595aa",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye",
+    "steelhead"
+   ],
+   "title": "Deschutes River - Effective August 15, 2026 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "central/deschutes-river",
+    "central/deschutes-river#0p"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "From the upper railroad trestle three miles downstream of Sherars Falls upstream to Sherars Falls:\nClosed to angling for and retention of steelhead",
+   "effective": "Effective August 15, 2026 through December 31, 2026",
+   "effective_from": "2026-08-15",
+   "effective_to": "2026-12-31",
+   "id": "odfw-74d5c18e26bb32d5",
+   "scope_review": false,
+   "species": [
+    "steelhead"
+   ],
+   "title": "Deschutes River - Effective August 15, 2026 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "central/deschutes-river",
+    "central/deschutes-river#0p"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "From Sherars Falls upstream to the Pelton Reregulating Reservoir:\nClosed to angling for and retention of steelhead and coho salmon",
+   "effective": "Effective August 15, 2026 through December 31, 2026",
+   "effective_from": "2026-08-15",
+   "effective_to": "2026-12-31",
+   "id": "odfw-732f488d4b768db7",
+   "scope_review": false,
+   "species": [
+    "coho",
+    "steelhead"
+   ],
+   "title": "Deschutes River - Effective August 15, 2026 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "central/deschutes-river",
+    "central/deschutes-river#1",
+    "central/deschutes-river#2"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the John Day River from the mainline railroad bridge at the mouth of the Columbia and all sections upstream, including both the North and Middle Forks of the John Day River, as well as all tributaries:\nAngling for and retention of all steelhead is closed.",
+   "effective": "Effective September 1, 2026 through December 31, 2026",
+   "effective_from": "2026-09-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-90be471b2a2c26ff",
+   "scope_review": false,
+   "species": [
+    "steelhead"
+   ],
+   "title": "John Day River - Effective September 1, 2026 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northeast/john-day-river",
+    "northeast/john-day-river-middle-fork",
+    "northeast/john-day-river-north-fork"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "For all mainstem fall-season salmon/steelhead fisheries between Buoy 10 and the Highway 395 Bridge (Pasco, WA), each legal angler aboard a vessel may continue to use angling gear until the daily adult salmon/steelhead bag limit for all legal anglers aboard has been achieved. However, no individual angler may exceed any personal daily bag limit. Anglers are reminded that it is unlawful to fish in an area while in possession of fish that are not legal for that area.",
+   "effective": "Mainstem fall season boat and individual bag rules",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-3c592dfbd4a9bfef",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye",
+    "steelhead"
+   ],
+   "title": "Columbia River - Mainstem fall season boat and individual bag rules",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Area definition: From the Buoy 10 line upstream to a line at the west end of Puget Island extending from green navigation marker #39 on the Washington shore to green navigation marker #41, then to red navigation marker #42, and terminating at red navigation marker #44A on the Oregon shore.\nWild coho must be released.",
+   "effective": "Buoy 10 upstream to west Puget Island: August 1 through December 31",
+   "effective_from": "2026-08-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-675f2b824689bad2",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Columbia River - Buoy 10 upstream to west Puget Island: August 1 through December 31",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Area definition: From the Buoy 10 line upstream to a line at the west end of Puget Island extending from green navigation marker #39 on the Washington shore to green navigation marker #41, then to red navigation marker #42, and terminating at red navigation marker #44A on the Oregon shore.\nNovember 1 – December 31: Retention of hatchery coho and hatchery steelhead allowed; all Chinook must be released. The daily adult bag limit is two hatchery salmon/steelhead (coho and steelhead only).",
+   "effective": "Buoy 10 upstream to west Puget Island: November 1 – December 31",
+   "effective_from": "2026-11-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-ba5e57c67eaea96c",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye",
+    "steelhead"
+   ],
+   "title": "Columbia River - Buoy 10 upstream to west Puget Island: November 1 – December 31",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Area definition: From a line at the west end of Puget Island extending from green navigation marker #39 on the Washington shore to green navigation marker #41, then to red navigation marker #42, and terminating at red navigation marker #44A on the Oregon shore upstream to a line projected from the Warrior Rock lighthouse on the Oregon shore to the marker atop the piling dolphin located at the downstream end of Bachelor Island on the Washington shore. Note: the definition of the Warrior Rock/Bachelor Island line changed beginning in 2025.\nNovember 1 – December 31: Retention of hatchery coho and hatchery steelhead allowed; all Chinook must be released. The daily adult bag limit is two hatchery salmon/steelhead (coho and steelhead only).",
+   "effective": "West Puget Island upstream to Warrior Rock/Bachelor Island: November 1 – December 31",
+   "effective_from": "2026-11-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-90ebe480058e3cb2",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye",
+    "steelhead"
+   ],
+   "title": "Columbia River - West Puget Island upstream to Warrior Rock/Bachelor Island: November 1 – December 31",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Area definition: From a line projected from the Warrior Rock lighthouse on the Oregon shore to the marker atop the piling dolphin located at the downstream end of Bachelor Island on the Washington shore upstream to Bonneville Dam. Note: the definition of the Warrior Rock/Bachelor Island line changed beginning in 2025.\nNovember 1 – December 31: Retention of hatchery coho and hatchery steelhead allowed; all Chinook must be released. The daily adult bag limit is two hatchery salmon/steelhead (coho and steelhead only).",
+   "effective": "Warrior Rock/Bachelor Island upstream to Bonneville Dam: November 1 – December 31",
+   "effective_from": "2026-11-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-6f648c554ca7cc0c",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye",
+    "steelhead"
+   ],
+   "title": "Columbia River - Warrior Rock/Bachelor Island upstream to Bonneville Dam: November 1 – December 31",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Wild coho caught downstream of the Hood River Bridge from August 1 – September 11 and October 16 – December 31 must be released.",
+   "effective": "Bonneville Dam upstream to The Dalles Dam a: August 1 – September 11 and October 16 – December 31",
+   "effective_from": "2026-10-16",
+   "effective_to": "2026-12-31",
+   "id": "odfw-b5cd9e5a559b88a2",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Columbia River - Bonneville Dam upstream to The Dalles Dam a: August 1 – September 11 and October 16 – December 31",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "November 1 – December 31: Retention of coho and hatchery steelhead allowed; all Chinook must be released. The daily adult bag limit is two salmon/steelhead (coho and steelhead only).",
+   "effective": "Bonneville Dam upstream to The Dalles Dam a: November 1 – December 31",
+   "effective_from": "2026-11-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-a4ae885dd2cff008",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye",
+    "steelhead"
+   ],
+   "title": "Columbia River - Bonneville Dam upstream to The Dalles Dam a: November 1 – December 31",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "All steelhead must be released September 1 – December 31.",
+   "effective": "The Dalles Dam upstream to the Oregon/Washington border (upstream of McNary Dam) a: September 1 – December 31",
+   "effective_from": "2026-09-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-4c7dd5154406223e",
+   "scope_review": false,
+   "species": [
+    "steelhead"
+   ],
+   "title": "Columbia River - The Dalles Dam upstream to the Oregon/Washington border (upstream of McNary Dam) a: September 1 – December 31",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "October 1 – December 31: The retention of coho is allowed; all Chinook must be released. The daily adult bag limit is two coho.",
+   "effective": "The Dalles Dam upstream to the Oregon/Washington border (upstream of McNary Dam) a: October 1 – December 31",
+   "effective_from": "2026-10-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-4eb598aef932cf25",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho"
+   ],
+   "title": "Columbia River - The Dalles Dam upstream to the Oregon/Washington border (upstream of McNary Dam) a: October 1 – December 31",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "columbia-river/columbia-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Necanicum River from the mouth to Hwy 53 bridge at Necanicum Jct including Neawanna Cr tidewater below 12 th Ave Bridge\nEffective December 1 through December 31, angling for, and retention of, all Chinook salmon is closed.",
+   "effective": "Effective December 1 through December 31, angling for, and retention of, all Chinook salmon is closed.",
+   "effective_from": "2026-12-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-663ea714d5bd9b25",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Necanicum River - Effective December 1 through December 31, angling for, and retention of, all Chinook salmon is closed.",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northwest/necanicum-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Yelloweye and quillback rockfish are prohibited at all times and in all waters.",
+   "effective": "2026 season (ODFW page updated December 31, 2025)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-263eeb85d0b45b45",
+   "scope_review": true,
+   "species": [
+    "rockfish"
+   ],
+   "title": "Sport bottomfish — halibut and bottomfish combinations - 2026 season (ODFW page updated December 31, 2025)",
+   "units": [],
+   "url": "https://myodfw.com/sport-bottomfish-seasons",
+   "water_ids": [],
+   "zones": [
+    "marine"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Descending devices are mandatory ; and must be used to release any rockfish outside of the 30-fathom regulatory line .",
+   "effective": "2026 season (ODFW page updated December 31, 2025)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-95218427ca7f336c",
+   "scope_review": true,
+   "species": [
+    "rockfish"
+   ],
+   "title": "Sport bottomfish — halibut and bottomfish combinations - 2026 season (ODFW page updated December 31, 2025)",
+   "units": [],
+   "url": "https://myodfw.com/sport-bottomfish-seasons",
+   "water_ids": [],
+   "zones": [
+    "marine"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Open at all-depths year-round, no seasonal depth restriction.",
+   "effective": "2026 season (ODFW page updated December 31, 2025)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-d8d4365cfc3697c8",
+   "scope_review": true,
+   "species": [
+    "rockfish",
+    "lingcod",
+    "cabezon"
+   ],
+   "title": "Sport bottomfish — Rockfish / Cabezon / Lingcod / Etc. - 2026 season (ODFW page updated December 31, 2025)",
+   "units": [],
+   "url": "https://myodfw.com/sport-bottomfish-seasons",
+   "water_ids": [],
+   "zones": [
+    "marine"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "General marine species (rockfish, cabezon, greenling, skates, etc.): 4-fish daily bag limit per angler beginning January 1, 2026. Canary rockfish: 2-fish daily sub-bag limit per angler as part of the general marine bag limit, beginning January 1, 2026.",
+   "effective": "2026 season (ODFW page updated December 31, 2025)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-c63546f92c961779",
+   "scope_review": true,
+   "species": [
+    "rockfish",
+    "cabezon",
+    "greenling",
+    "shark",
+    "groundfish"
+   ],
+   "title": "Sport bottomfish — Rockfish / Cabezon / Lingcod / Etc. - 2026 season (ODFW page updated December 31, 2025)",
+   "units": [],
+   "url": "https://myodfw.com/sport-bottomfish-seasons",
+   "water_ids": [],
+   "zones": [
+    "marine"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Cabezon: 1-fish daily sub-bag limit per angler as part of the general marine bag limit beginning July 1, 2026. Minimum length of 16 inches. No retention January 1 through June 30.",
+   "effective": "2026 season (ODFW page updated December 31, 2025)",
+   "effective_from": "2026-07-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-8f2fa1849815b0d7",
+   "scope_review": true,
+   "species": [
+    "cabezon"
+   ],
+   "title": "Sport bottomfish — Rockfish / Cabezon / Lingcod / Etc. - 2026 season (ODFW page updated December 31, 2025)",
+   "units": [],
+   "url": "https://myodfw.com/sport-bottomfish-seasons",
+   "water_ids": [],
+   "zones": [
+    "marine"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Lingcod: 3-fish daily bag limit per angler beginning January 1, 2026 with a minimum length limit of 22 inches. Lingcod are not part of the general marine species bag limit.",
+   "effective": "2026 season (ODFW page updated December 31, 2025)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-225d3d8a2b472df5",
+   "scope_review": true,
+   "species": [
+    "lingcod",
+    "groundfish"
+   ],
+   "title": "Sport bottomfish — Rockfish / Cabezon / Lingcod / Etc. - 2026 season (ODFW page updated December 31, 2025)",
+   "units": [],
+   "url": "https://myodfw.com/sport-bottomfish-seasons",
+   "water_ids": [],
+   "zones": [
+    "marine"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Sablefish: 10-fish daily bag limit per angler. Sablefish are not part of the general marine species bag limit.",
+   "effective": "2026 season (ODFW page updated December 31, 2025)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-6ef09cb84dad336a",
+   "scope_review": true,
+   "species": [
+    "sablefish",
+    "groundfish"
+   ],
+   "title": "Sport bottomfish — Rockfish / Cabezon / Lingcod / Etc. - 2026 season (ODFW page updated December 31, 2025)",
+   "units": [],
+   "url": "https://myodfw.com/sport-bottomfish-seasons",
+   "water_ids": [],
+   "zones": [
+    "marine"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Flatfish daily bag limit is 25 fish for species of sanddab, sole, flounder, etc. Does not include Pacific halibut.",
+   "effective": "2026 season (ODFW page updated December 31, 2025)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-1a916b17282d15bb",
+   "scope_review": true,
+   "species": [
+    "flatfish"
+   ],
+   "title": "Sport bottomfish — Flatfish fishery - 2026 season (ODFW page updated December 31, 2025)",
+   "units": [],
+   "url": "https://myodfw.com/sport-bottomfish-seasons",
+   "water_ids": [],
+   "zones": [
+    "marine"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Open at all depths year round.",
+   "effective": "2026 season (ODFW page updated December 31, 2025)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-1de4e2d47adbb727",
+   "scope_review": true,
+   "species": [
+    "flatfish"
+   ],
+   "title": "Sport bottomfish — Flatfish fishery - 2026 season (ODFW page updated December 31, 2025)",
+   "units": [],
+   "url": "https://myodfw.com/sport-bottomfish-seasons",
+   "water_ids": [],
+   "zones": [
+    "marine"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Skates and rays are not part of the flatfish group; they are part of the general marine species group (above) . The general marine species regulations (bag limit, depth restrictions, etc.) apply.",
+   "effective": "2026 season (ODFW page updated December 31, 2025)",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-1fc58a15a7c4a79d",
+   "scope_review": true,
+   "species": [
+    "flatfish",
+    "shark",
+    "groundfish"
+   ],
+   "title": "Sport bottomfish — Flatfish fishery - 2026 season (ODFW page updated December 31, 2025)",
+   "units": [],
+   "url": "https://myodfw.com/sport-bottomfish-seasons",
+   "water_ids": [],
+   "zones": [
+    "marine"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "It is mandatory to have a functional descending device onboard the vessel when fishing for Pacific halibut, and to use the device when releasing any rockfish species when fishing outside (seaward) of the 30-fathom regulatory line .\nMay be taken by angling with a single line, no more than 2 hooks, and by spear.\nDaily bag limit Central Oregon Coast and Southern Oregon subareas: 2 Pacific halibut. No length limit.\nDaily bag limit Columbia River subarea: 1 Pacific halibut. No length Limit.\nPacific halibut possession limit: 1 daily bag limit at sea, 3 daily bag limits on land.\nPacific halibut annual limit: 6.\nFathom lines and conservation areas are defined by waypoints .\nThe Stonewall Bank Yelloweye Rockfish Conservation Area (about 15 miles west of Newport) is closed to Pacific halibut fishing. Anglers on vessels possessing Pacific halibut are prohibited from fishing in the Stonewall Bank YRCA, even when targeting legal species.\nPacific halibut seasons are managed and enforced based on port of landing. Halibut may only be landed into ports located within areas currently open to halibut retention, regardless of area of catch.\nWhen angling for Pacific halibut, salmon, bottomfish, tuna, and most other offshore pelagic species may be in possession or landed when Pacific halibut are onboard the vessel as regulations allow.\nIt is unlawful to fish for or take and retain any species while possessing onboard any species not allowed to be taken in that area at that time.\nDuring all-depth halibut days, either the offshore long-leader gear fishery OR the traditional general marine bottomfish fishery (lingcod and black rockfish) may be combined with halibut. The long-leader gear fishery and traditional bottomfish fishery cannot be combined on the same trip.\nSablefish and Pacific cod can be combined with all-depth halibut and the long-leader gear fishery or traditional bottomfish fishery. When retained, Pacific cod will count towards the bottomfish or long-leader gear bag limit.\nWhen combining Pacific halibut with an offshore long-leader gear trip, once the general marine species bag limit is exceeded with only long-leader approved species onboard, all anglers on the vessel must stop fishing for halibut and switch all halibut fishing gear to long-leader gear.\nAnglers are advised to consult the Oregon Sport Fishing Regulations for General (statewide), Zone, and Special Regulations prior to fishing.",
+   "effective": "2026 season",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-8ba40371cbd62d08",
+   "scope_review": true,
+   "species": [
+    "halibut"
+   ],
+   "title": "Pacific halibut — Statewide regulations - 2026 season",
+   "units": [],
+   "url": "https://myodfw.com/pacific-halibut-sport-regulations",
+   "water_ids": [],
+   "zones": [
+    "marine"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Ocean\n• Anglers fishing for salmon and all anglers fishing from boats with a salmon on board are limited to no more than 2 single point barbless hooks per line, and no more than one line per angler.\nSalmon may only be taken with the gear described above. • It is unlawful to fish for or take and retain any legal species while possessing on board any species not allowed to be taken in that area at that time. • Minimum lengths: Chinook = 22” N. of Cape Falcon, and 24” S. of Cape Falcon; coho = 16”; steelhead = 20”; and no min. length for pink, chum, or sockeye salmon in ocean fishery. • Refer to the “2026 Oregon Sportfishing Regulations” booklet for descriptions of special marine management areas including closed areas and additional restrictions.",
+   "effective": "2026 season",
+   "effective_from": "2026-01-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-07cf6f4fb73aed00",
+   "scope_review": true,
+   "species": [
+    "chinook",
+    "coho",
+    "pink",
+    "chum",
+    "sockeye",
+    "steelhead"
+   ],
+   "title": "Ocean salmon — Statewide regulations - 2026 season",
+   "units": [],
+   "url": "https://www.dfw.state.or.us/mrp/salmon/Regulations/docs/2026_Ocean_Sport_Salmon_Map.pdf",
+   "water_ids": [],
+   "zones": [
+    "marine"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Humbug Mountain to OR/CA Border\nFrom August 19, retention of coho prohibited in this area.",
+   "effective": "Mark-Selective Coho (fin-clipped) Season - Cape Falcon to OR/CA border: 2026-08-19 to 2026-12-31",
+   "effective_from": "2026-08-19",
+   "effective_to": "2026-12-31",
+   "id": "odfw-6a8405908909c44b",
+   "scope_review": true,
+   "species": [
+    "coho"
+   ],
+   "title": "Ocean salmon — Humbug Mountain to OR/CA border - Mark-Selective Coho (fin-clipped) Season - Cape Falcon to OR/CA border: 2026-08-19 to 2026-12-31",
+   "units": [],
+   "url": "https://www.dfw.state.or.us/mrp/salmon/Regulations/docs/2026_Ocean_Sport_Salmon_Map.pdf",
+   "water_ids": [],
+   "zones": [
+    "marine"
+   ]
+  }
+ ],
+ "published": "2026-09-19T12:40:04.000Z",
+ "snapshot_day": "2026-09-19",
+ "source_checked": "2026-09-19T12:40:04.000Z",
+ "state": "OR"
+}
