@@ -1,0 +1,132 @@
+{
+ "closures": [
+  {
+   "activity": "fishing",
+   "detail": "Drought closure: fishing prohibited.\nDrought Closure (fishing prohibited 24 hours) is in effect for the Beaverhead River from Clark Canyon Dam to Pipe Organ FAS starting September 1 .\nThis closure comes from the reduction of outflows from Clark Canyon Reservoir to 50 cfs starting September 1 and 25 cfs starting September 10.\nThe seasonal spawning closure in this reach, which runs Oct.\n1 through the third Saturday in May, will remain in place regardless of river conditions.",
+   "effective": "Beaverhead River",
+   "effective_from": "2026-09-01",
+   "effective_to": null,
+   "id": "fwp-a167bb5d9034cf3c",
+   "scope_review": false,
+   "species": [],
+   "title": "Beaverhead River - Beaverhead River",
+   "units": [],
+   "url": "https://fwp.mt.gov/news/current-closures-restrictions/waterbody-closures",
+   "water_ids": [
+    "central/beaverhead-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Drought closure: fishing prohibited.\nDrought closure (fishing prohibited 24 hrs) is in effect for Section 1 of the Big Hole River from Saginaw Bridge on Skinner Meadow Road to the confluence with the North Fork of the Big Hole River starting August 13 Flows in Section 1 dropped below closure criteria (20 cfs) and remained near or below that threshold since August 5.\nWater temperatures and flows were measured at USGS gage 06024450 near Wisdom.",
+   "effective": "Big Hole River",
+   "effective_from": "2026-08-13",
+   "effective_to": null,
+   "id": "fwp-816855aa6227c263",
+   "scope_review": false,
+   "species": [],
+   "title": "Big Hole River - Big Hole River",
+   "units": [],
+   "url": "https://fwp.mt.gov/news/current-closures-restrictions/waterbody-closures",
+   "water_ids": [
+    "central/big-hole-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Closed to floating.\nClosed to floating from Weigh Station Fishing Access Site downstream to the point where the river crosses under Interstate 90, beginning July 15 due to construction on a railway bridge.\nMore information Map (PDF)",
+   "effective": "Blackfoot River",
+   "effective_from": "2026-07-15",
+   "effective_to": null,
+   "id": "fwp-ceb2557d75ddaad8",
+   "scope_review": false,
+   "species": [],
+   "title": "Blackfoot River - Blackfoot River",
+   "units": [],
+   "url": "https://fwp.mt.gov/news/current-closures-restrictions/waterbody-closures",
+   "water_ids": [
+    "western/blackfoot-river-and-tributaries",
+    "western/north-fork-blackfoot-river-tributary-to-blackfoot-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Spawning closures on some rivers begin October 1 HELENA – Due to improved flows because of rain over the weekend, the angling closure on Section 5 of the Big Hole River has been lifted.\nSection 5 extends from Tony Schoonen Fishing Access Site (Notch) to the confluence with the Beaverhead River.\nThe Section 1 closure will remain in place.\nSection 1 extends from Saginaw Bridge on Skinner Meadows Road to the confluence with the North Fork of the Big Hole River.",
+   "effective": "Angling closure lifted on Section 5 of Big Hole River",
+   "effective_from": "2026-09-22",
+   "effective_to": null,
+   "id": "fwp-1480770ffcb29392",
+   "scope_review": false,
+   "species": [
+    "trout"
+   ],
+   "title": "Angling closure lifted on Section 5 of Big Hole River - Angling closure lifted on Section 5 of Big Hole River",
+   "units": [],
+   "url": "https://fwp.mt.gov/homepage/news/2026/sep/0922-closure-lifted-big-hole",
+   "water_ids": [
+    "central/big-hole-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Closure planned for September 22-25 and September 29-October 1 CORVALLIS– Woodside Bridge Fishing Access Site (FAS) on the Bitterroot River will close to vehicles for several days this month because the nearby highway bridge will be temporarily closed, impacting access.\nThe Montana Department of Transportation (MDT) will close the Woodside Highway 323 bridge from Tuesday, Sept.\n22 through Friday, Sept.\n25, and again from Tuesday, Sept.",
+   "effective": "Woodside Bridge FAS on Bitterroot River will close to vehicles for several days later this month",
+   "effective_from": "2026-09-22",
+   "effective_to": null,
+   "id": "fwp-a8e031ef051b0b36",
+   "scope_review": false,
+   "species": [],
+   "title": "Woodside Bridge FAS on Bitterroot River will close to vehicles for several days later this month - Woodside Bridge FAS on Bitterroot River will close to vehicles for several days later this month",
+   "units": [],
+   "url": "https://fwp.mt.gov/homepage/news/2026/sep/0917-woodside-bridge-fas-on-bitterroot-river-will-close-to-vehicles-for-several-days-later-this-month",
+   "water_ids": [
+    "western/bitterroot-river-note-river-flows-south-to-north"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Drought-related closures still in effect for Beaverhead and Big Hole rivers BOZEMAN – Daily fishing restrictions, commonly known as hoot-owl restrictions, have been lifted for portions of the Madison and Beaverhead rivers due to cooling water temperatures.\nA hoot-owl restriction has been lifted for the Beaverhead River from Selway Bridge Fishing Access Site to the confluence with the Big Hole River.\nA hoot-owl restriction has also been lifted for the Madison River from the Warm Springs Boat Launch to the confluence with the Jefferson River.\nThese restrictions were implemented because of warm water temperatures.",
+   "effective": "Daily fishing restrictions lifted for portions of Madison and Beaverhead rivers",
+   "effective_from": "2026-09-08",
+   "effective_to": null,
+   "id": "fwp-d7cb1b128f7e99e8",
+   "scope_review": false,
+   "species": [],
+   "title": "Daily fishing restrictions lifted for portions of Madison and Beaverhead rivers - Daily fishing restrictions lifted for portions of Madison and Beaverhead rivers",
+   "units": [],
+   "url": "https://fwp.mt.gov/homepage/news/2026/sep/0908-daily-fishing-restrictions-lifted-for-portions-of-madison-and-beaverhead-rivers",
+   "water_ids": [
+    "central/beaverhead-river",
+    "central/madison-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Emergency river closure due to bridge construction (closed to all forms of use) are in effect for the Sun River - beginning 500 feet upstream and ending 500 feet downstream of the Sun River Bridge (also know as Pishkun Road Bridge) starting June 1 .\nAdoption of an emergency rule closing a portion of the Sun River (MAR Notice No.\n2025-301.1).\nThe closure of this portion of the Sun River is in place from June 1 to November 15, 2026.",
+   "effective": "Sun River",
+   "effective_from": "2026-06-01",
+   "effective_to": "2026-11-15",
+   "id": "fwp-cbe04d7d1e57dcdc",
+   "scope_review": false,
+   "species": [],
+   "title": "Sun River - Sun River",
+   "units": [],
+   "url": "https://fwp.mt.gov/news/current-closures-restrictions/waterbody-closures",
+   "water_ids": [
+    "central/north-fork-sun-river-and-tributaries",
+    "central/south-fork-sun-river-and-tributaries"
+   ],
+   "zones": []
+  }
+ ],
+ "published": "2026-09-26T12:41:41.000Z",
+ "snapshot_day": "2026-09-26",
+ "source_checked": "2026-09-26T12:41:41.000Z",
+ "state": "MT"
+}
