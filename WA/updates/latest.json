@@ -422,10 +422,50 @@
     "columbia-basin/icicle-river-and-tributaries-chelan-co"
    ],
    "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Opens winter crab seasons in Marine Area 8-1 (Deception Pass, Hope Island, and Skagit Bay) and Marine Area 8-2 (Ports Susan and Gardner) ; crabbing is allowed seven days a week Oct. 10–Dec. 31 in these areas.",
+   "effective": "Oct. 10–Dec. 31, 2026.",
+   "effective_from": "2026-10-10",
+   "effective_to": "2026-12-31",
+   "id": "wdfw-51a171d166c12e10",
+   "scope_review": true,
+   "species": [
+    "dungeness_crab",
+    "tanner_crab"
+   ],
+   "title": "Marine Areas 8-1 and 8-2. - Oct. 10–Dec. 31, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/marine-area-8-1-deception-pass-hope-island-and-skagit-bay-and-marine-area-8-2-ports-susan-and-2026-10",
+   "water_ids": [],
+   "zones": [
+    "marine-area-8"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Opens winter crab seasons in Marine areas 4 east of the Bonilla-Tatoosh line, 5, 6, 7 (North and South), 9, and 12 north of a line projected due east from Ayock Point; crabbing is allowed seven days a week Oct. 1–Dec. 31 in these areas.",
+   "effective": "Oct. 1–Dec. 31, 2026.",
+   "effective_from": "2026-10-01",
+   "effective_to": "2026-12-31",
+   "id": "wdfw-48a3406489d94c28",
+   "scope_review": true,
+   "species": [
+    "dungeness_crab",
+    "tanner_crab"
+   ],
+   "title": "Marine Area 4 east of the Tatoosh-Bonilla line, Marine Area 5, Marine Area 6, Marine Area 7, Marine Area 9, and Marine Area 12 north of a line projected due east from Ayock Point. - Oct. 1–Dec. 31, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/some-areas-puget-sound-reopening-late-season-recreational-crab-fishing-2026-09",
+   "water_ids": [],
+   "zones": [
+    "marine-area-4"
+   ]
   }
  ],
- "published": "2026-10-10T12:53:32.000Z",
- "snapshot_day": "2026-10-10",
- "source_checked": "2026-10-10T12:53:32.000Z",
+ "published": "2026-10-11T12:58:47.000Z",
+ "snapshot_day": "2026-10-11",
+ "source_checked": "2026-10-11T12:58:47.000Z",
  "state": "WA"
 }
