@@ -21,25 +21,6 @@
   },
   {
    "activity": "fishing",
-   "detail": "Sitka\n(Sitka) – In order to provide increased opportunity for youth anglers during the annual “Swan Lake Junior Trout Derby,” the Alaska Department of Fish and Game has temporarily liberalized trout regulations for Swan Lake.\nDuring the derby, the use of bait is allowed, the daily bag limit is two trout, and there is no size limit. These regulations will be in effect for one day only, Saturday, June 6, from 9:00 a.m. to midnight. Anglers should be aware that these regulations differ from regulations during the remainder of the year, when the 11-inch minimum and 22-inch maximum size limit and regional bait regulations apply in Swan Lake. Wrinkleneck Creek, an inlet to Swan Lake, is closed to fishing at all times.\nEach year, the department stocks Swan Lake with up to 300 wild rainbow trout from a nearby lake to provide increased roadside fishing opportunity for all anglers, including young anglers participating in the annual Junior Trout Derby. This year, the lake was stocked on May 25 with 300 rainbow trout measuring from 6 to 12 inches. Swan Lake also contains populations of cutthroat trout and Dolly Varden.\nAnyone needing further information concerning this announcement please contact the Division of Sport Fish in Sitka at (907) 747-5355 .",
-   "effective": "Regulations for Swan Lake Junior Trout Derby — Sitka",
-   "effective_from": "2026-06-03",
-   "effective_to": null,
-   "id": "adfg-a3981894803c2fae",
-   "scope_review": false,
-   "species": [
-    "trout"
-   ],
-   "title": "Regulations for Swan Lake Junior Trout Derby - Regulations for Swan Lake Junior Trout Derby — Sitka",
-   "units": [],
-   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4042",
-   "water_ids": [
-    "ketchikan-hyder/swan-lake"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
    "detail": "Tanana\n(Fairbanks) – The Alaska Board of Fisheries (BOF) made several changes to sport fishing regulations for the Tanana River drainage at its recent Arctic-Yukon-Kuskokwim finfish meeting held November 18-22 in Fairbanks.\nThe Board adopted seven regulatory proposals pertaining to Tanana River drainage sport fisheries. The new regulations will take effect with the release of the 2026 Northern Alaska Sport Fishing Regulations Summary booklet when it is issued in spring of 2026. The changes are:\nCatch-and-release fishing will be allowed year-round for northern pike in Harding Lake. The sport fishing season for northern pike in the Tolovana River drainage (including Minto Flats, Minto Lakes, Tatalina River, Chatanika River, and Goldstream Creek) will be open from April 15 through October 14 instead of June 1 through October 14. In addition, the provision of the Minto Flats Northern Pike Management Plan that required the Department to reduce the sport daily bag and possession limit from 5 fish to 2 fish by emergency order when subsistence harvest is 750 or more northern pike in the Chatanika Harvest Area was repealed. The Department will continue to monitor sustainability of harvest of the Minto Flats northern pike population, and, the Department will reduce bag limits, if necessary, by emergency order. The daily sport fish bag and possession limit for northern pike in Volkmar Lake will change to general regulations: 5 fish a day 5 in possession, only 1 of which may be 30 inches or longer. Previously, the daily bag and possession limit for northern pike in Volkmar Lake was 2 per day, 2 in possession, only 1 of which could be 30 inches or longer. Ice house registration will no longer be required in the Tanana River drainage. The youth-only fishery for Arctic grayling in the lower Chena River during four weekends in June and July was repealed. Anglers of all ages will now be able to fish for Arctic grayling throughout the summer, allowing families to fish together during those weekends regardless of age. The special regulations for Arctic grayling in the Shaw Creek drainage and the Tanana River within a 2-mile radius of Shaw Creek were repealed. General regulations for Arctic grayling will apply including open year-round to harvest with a bag limit of 5 per day, 5 in possession. Rainbow Lake bag and possession limit for rainbow trout will increase from 5 to 10 fish, of which only 1 may be 18 inches or greater. For additional information, please contact Tanana Area Management Biologist Andrew Gyska at (907) 459-7339 or Brandy Baker, Tanana Assistant Area Management Biologist at (907) 895-4637 .",
    "effective": "Tanana River Drainage Sport Fishing Regulation Changes — Tanana",
    "effective_from": "2025-12-08",
@@ -1017,8 +998,8 @@
    "zones": []
   }
  ],
- "published": "2026-10-11T12:40:02.000Z",
- "snapshot_day": "2026-10-11",
- "source_checked": "2026-10-11T12:40:02.000Z",
+ "published": "2026-10-12T12:40:03.000Z",
+ "snapshot_day": "2026-10-12",
+ "source_checked": "2026-10-12T12:40:03.000Z",
  "state": "AK"
 }

@@ -287,32 +287,6 @@
   },
   {
    "activity": "fishing",
-   "detail": "Catch-and-release for rainbow trout and,\nFlies and artificial lures only for all species.\nAll other permanent rules for Southeast Zone, as stated in the current Oregon Sport Fishing Regulations, remain in effect.",
-   "effective": "Effective June 15, 2026 through October 31, 2026",
-   "effective_from": "2026-06-15",
-   "effective_to": "2026-10-31",
-   "id": "odfw-90b730f92952fb57",
-   "scope_review": false,
-   "species": [
-    "trout"
-   ],
-   "title": "Crystal Creek, Fourmile Creek, Fourmile Canal, Harriman Creek, Klamath Lake, Odessa Creek, Recreation Creek, Short Creek, and Thomason Creek - Effective June 15, 2026 through October 31, 2026",
-   "units": [],
-   "url": "https://myodfw.com/articles/regulation-updates",
-   "water_ids": [
-    "southeast/crystal-creek",
-    "southeast/fourmile-creek",
-    "southeast/harriman-creek",
-    "southeast/klamath-lake",
-    "southeast/odessa-creek",
-    "southeast/recreation-creek",
-    "southeast/short-creek",
-    "southeast/thomason-creek"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
    "detail": "Area definition: From the Buoy 10 line upstream to a line at the west end of Puget Island extending from green navigation marker #39 on the Washington shore to green navigation marker #41, then to red navigation marker #42, and terminating at red navigation marker #44A on the Oregon shore.\nAll steelhead must be released August 1 – October 31.",
    "effective": "Buoy 10 upstream to west Puget Island: August 1 – October 31",
    "effective_from": "2026-08-01",
@@ -1763,8 +1737,8 @@
    ]
   }
  ],
- "published": "2026-10-11T12:55:48.000Z",
- "snapshot_day": "2026-10-11",
- "source_checked": "2026-10-11T12:55:48.000Z",
+ "published": "2026-10-12T12:56:22.000Z",
+ "snapshot_day": "2026-10-12",
+ "source_checked": "2026-10-12T12:56:22.000Z",
  "state": "OR"
 }
