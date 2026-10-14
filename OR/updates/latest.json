@@ -48,27 +48,6 @@
   },
   {
    "activity": "fishing",
-   "detail": "In the Siuslaw River (Mainstem) and Bay up to Lake Creek, North Fork Siuslaw River from the mouth to Meadows Bridge at MP 11, and Sweet Creek from the mouth to head of tidewater\nThe daily adult wild coho salmon bag limit is one fish in aggregate;\nNo more than three adult wild coho salmon may be retained for the period in aggregate; and\nThe daily jack wild coho salmon bag limit is one fish in aggregate.",
-   "effective": "Effective September 19 through October 13, 2026",
-   "effective_from": "2026-09-19",
-   "effective_to": "2026-10-13",
-   "id": "odfw-d4a9126a6f726021",
-   "scope_review": false,
-   "species": [
-    "coho"
-   ],
-   "title": "Siuslaw River (Mainstem) and Bay, North Fork Siuslaw, Sweet Creek - Effective September 19 through October 13, 2026",
-   "units": [],
-   "url": "https://myodfw.com/articles/regulation-updates",
-   "water_ids": [
-    "northwest/siuslaw-river-mainstem-and-bay",
-    "northwest/siuslaw-river-north-fork",
-    "northwest/sweet-creek"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
    "detail": "Area definition: From a line at the west end of Puget Island extending from green navigation marker #39 on the Washington shore to green navigation marker #41, then to red navigation marker #42, and terminating at red navigation marker #44A on the Oregon shore upstream to a line projected from the Warrior Rock lighthouse on the Oregon shore to the marker atop the piling dolphin located at the downstream end of Bachelor Island on the Washington shore. Note: the definition of the Warrior Rock/Bachelor Island line changed beginning in 2025.\nSeptember 28 – October 15: Retention of coho allowed; all Chinook must be released. The daily adult bag limit is two coho.",
    "effective": "West Puget Island upstream to Warrior Rock/Bachelor Island: September 28 – October 15",
    "effective_from": "2026-09-28",
@@ -1737,8 +1716,8 @@
    ]
   }
  ],
- "published": "2026-10-13T12:56:02.000Z",
- "snapshot_day": "2026-10-13",
- "source_checked": "2026-10-13T12:56:02.000Z",
+ "published": "2026-10-14T12:55:38.000Z",
+ "snapshot_day": "2026-10-14",
+ "source_checked": "2026-10-14T12:55:38.000Z",
  "state": "OR"
 }

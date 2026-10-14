@@ -1,0 +1,490 @@
+{
+ "closures": [
+  {
+   "activity": "fishing",
+   "detail": "Extends clam, mussel, and oyster harvest at Belfair State Park, opens clam, mussel and oyster harvest at Duckabush Tidelands and Triton Cove Tidelands, and extends oyster harvest at Point Whitney Tidelands and Point Whitney Lagoon; opens and modifies other previously announced changes to public shellfish beaches in marine areas 9 and 12.\nMarine Area 9 (Admiralty Inlet): All public beaches within Port Gamble Bay south of a line drawn from Teekalet Point (Port Gamble) to Point Julia: closed until further notice. All public beaches from the northern edge of the mouth Mats Mats Bay to Paradise Bay, including Mats Mats Bay and Port Ludlow Bay: closed until further notice. Marine Area 12 (Hood Canal): All public beaches south of a line drawn from Triton Head to Tekiu Point and west of a line extending from Sisters Point due south to 47.34970, -123.04196 on the southern shore of Hood Canal: Closed to harvest. Public beaches north of a line drawn from Triton Head to Tekiu Point and east of line extending from Sisters Point due south to 47.34970, -123.04196 on the southern shore of Hood Canal: Follow seasons listed on WDFW public beach pages, searchable using the WDFW Find a Beach tool or the Washington Shellfish Safety Map . Belfair State Park: Open to clam, mussel, and oyster harvest through Oct. 31. Duckabush: Open to clam, mussel, and oyster harvest until further notice. Point Whitney Tidelands and Point Whitney Lagoon: Open to oyster harvest through Oct. 31. Triton Cove Tidelands: Open to clam and mussel harvest through Oct. 31.",
+   "effective": "Oct. 14, 2026, until further notice.",
+   "effective_from": "2026-10-14",
+   "effective_to": null,
+   "id": "wdfw-4bf3f84bfe8d7837",
+   "scope_review": true,
+   "species": [
+    "oyster"
+   ],
+   "title": "Marine Area 9 (Admiralty Inlet), Marine Area 12 (Hood Canal) shellfish beaches update - Oct. 14, 2026, until further notice.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/marine-area-9-admiralty-inlet-marine-area-12-hood-canal-shellfish-beaches-update-2026-10",
+   "water_ids": [],
+   "zones": [
+    "marine-area-9"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Reopens fishing in the Quillayute River with reduced salmon retention limits and prohibits bait for all species.\nAll game fish: Open under rules described in the Washington Sport Fishing Rules , except bait is prohibited. Salmon: Minimum size 12 inches. Daily limit two including no more than one wild adult. Release sockeye. Bait is prohibited.",
+   "effective": "Oct. 6, 2026, until further notice.",
+   "effective_from": "2026-10-06",
+   "effective_to": null,
+   "id": "wdfw-2f08093290c9ea56",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Quillayute River (Clallam County), from Olympic National Park boundary upstream to confluence of Sol Duc and Bogachiel rivers. - Oct. 6, 2026, until further notice.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/quillayute-river-reopens-fishing-reduced-retention-limits-and-no-bait-2026-10",
+   "water_ids": [
+    "puget-sound-coastal/bogachiel-river-clallam-jefferson-co",
+    "puget-sound-coastal/quillayute-river-clallam-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Reduces hatchery steelhead daily limit.\nOpen daily. Daily limit 1 hatchery steelhead. Barbless hooks required.",
+   "effective": "Sept. 18, 2026, until further notice.",
+   "effective_from": "2026-09-18",
+   "effective_to": null,
+   "id": "wdfw-97f386f196ccab30",
+   "scope_review": false,
+   "species": [
+    "steelhead"
+   ],
+   "title": "Tucannon River from the mouth to the Tucannon Hatchery Road bridge. - Sept. 18, 2026, until further notice.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/tucannon-river-hatchery-steelhead-fishing-update-2026-09",
+   "water_ids": [
+    "columbia-basin/tucannon-river-columbia-garfield-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Reduces hatchery steelhead daily limits.\nFrom the mouth of the Snake River (Burbank to Pasco railroad bridge at Snake River mile 1.25) to the Lower Granite dam (Catch Record Card (CRC) areas 640, 642, 644 and 646): Open daily. Daily limit one hatchery steelhead. Barbless hooks required. From Lower Granite Dam upstream to the Oregon state line (CRC areas 648 and 650): Open daily. Daily limit two hatchery steelhead. Barbless hooks required.",
+   "effective": "Sept. 18, 2026, until further notice. Location and",
+   "effective_from": "2026-09-18",
+   "effective_to": null,
+   "id": "wdfw-5e67270536d0c56e",
+   "scope_review": false,
+   "species": [
+    "steelhead"
+   ],
+   "title": "Snake River hatchery steelhead fishing update - Sept. 18, 2026, until further notice. Location and",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/snake-river-hatchery-steelhead-fishing-update-2026-09",
+   "water_ids": [
+    "columbia-basin/snake-river-columbia-garfield-franklin-walla-walla-whitman-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Closes fishing.\nClosed to all fishing.",
+   "effective": "Sept. 9, 2026, until further notice.",
+   "effective_from": "2026-09-09",
+   "effective_to": null,
+   "id": "wdfw-c4efe37ff2f25033",
+   "scope_review": false,
+   "species": [],
+   "title": "Quillayute River (Clallam County) from the Olympic National Park boundary upstream to the confluence of Sol Duc and Bogachiel rivers. - Sept. 9, 2026, until further notice.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/quillayute-river-closing-all-fishing-due-low-flows-and-poor-water-conditions-2026-09",
+   "water_ids": [
+    "puget-sound-coastal/bogachiel-river-clallam-jefferson-co",
+    "puget-sound-coastal/quillayute-river-clallam-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Closes Chinook salmon retention.\nMinimum size 12 inches. Daily limit six including no more than three of any combination of chum and adult coho. Release Chinook.",
+   "effective": "Aug. 20, 2026, until further notice.",
+   "effective_from": "2026-08-20",
+   "effective_to": null,
+   "id": "wdfw-5a720f43987a4c6e",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum"
+   ],
+   "title": "Green (Duwamish) River from Tukwila International Boulevard/Old Highway 99 to the South 212 th Street Bridge. Salmon - Aug. 20, 2026, until further notice.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/green-duwamish-river-chinook-retention-closed-2026-08",
+   "water_ids": [
+    "puget-sound-coastal/green-duwamish-river-king-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Opens coho retention opportunities from Priest Rapids Dam to Rock Island Dam.\nMinimum size 12 inches. Daily limit six, including no more than two adult Chinook and no more than four coho. Release sockeye.",
+   "effective": "Sept. 30–Oct. 15, 2026.",
+   "effective_from": "2026-09-30",
+   "effective_to": "2026-10-15",
+   "id": "wdfw-f3e047187f655f0d",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "sockeye"
+   ],
+   "title": "From Priest Rapids Dam to Rock Island Dam. Salmon - Sept. 30–Oct. 15, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/upper-columbia-river-salmon-fishery-update-2026-09",
+   "water_ids": [
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Opens the fishery for all shrimp in Marine Area 6 except in the Discovery Bay Shrimp District on August 2. Opens the fishery for shrimp other than spot shrimp in Marine Area 6 except in the Discovery Bay Shrimp District from August 3 through October 15.",
+   "effective": "Opens the fishery for all shrimp in Marine Area 6 except in the Discovery Bay Shrimp District on August 2. Opens the fishery for shrimp other than spot shrimp in Marine Area 6 except in the Discovery Bay Shrimp District from August 3 through October 15.",
+   "effective_from": "2026-08-03",
+   "effective_to": "2026-10-15",
+   "id": "wdfw-4d0117c7a5d3f0a9",
+   "scope_review": true,
+   "species": [
+    "shrimp"
+   ],
+   "title": "Marine Areas 4 east of the Bonilla-Tatoosh line and Marine Area 5: Open through Sept. 15, 2026, for all shrimp species. Daylight hours only. Marine Area 6 (excluding the Discovery Bay Shrimp District): Open on Aug. 2, 2026, for all shrimp species, daylight hours only. Open from Aug. 3 through Oct. 15, 2026, for shrimp species other than spot shrimp. It is unlawful to set or pull shrimp gear in waters greater than 175 feet deep. All spot shrimp caught must be immediately returned to the water unharmed. Discovery Bay Shrimp District: Closed. Marine Area 7 East: Open through Oct. 15, 2026, for shrimp species other than spot shrimp. It is unlawful to set or pull shrimp gear in waters greater than 200 feet deep. All spot shrimp caught must be immediately returned to the water unharmed. Marine Area 7 South: Closed. Marine Area 7 West: Closed. Marine Areas 8-1 and 8-2: Open through Oct. 15, 2026, for shrimp species other than spot shrimp. It is unlawful to set or pull shrimp gear in waters greater than 175 feet deep. All spot shrimp caught must be immediately returned to the water unharmed. Marine Area 9: Open through Oct. 15, 2026, for shrimp species other than spot shrimp. It is unlawful to set or pull shrimp gear in waters greater than 150 feet deep. All spot shrimp caught must be immediately returned to the water unharmed. Marine Area 10: The portion of Marine Area 10 east of a line from West Point to Alki Point (inside Elliott Bay) will remain closed. Marine Area 10: The portion of Marine Area 10 west of a line from West Point to Alki Point will remain closed. Marine Area 11: Open through Oct. 15, 2026, for shrimp species other than spot shrimp. It is unlawful to set or pull shrimp gear in waters greater than 150 feet deep. All spot shrimp caught must be immediately returned to the water unharmed. Marine Area 12: Closed. Marine Area 13: Open through Oct. 15, 2026, for shrimp species other than spot shrimp. It is unlawful to set or pull shrimp gear in waters greater than 200 feet deep. All spot shrimp caught must be immediately returned to the water unharmed. - Opens the fishery for all shrimp in Marine Area 6 except in the Discovery Bay Shrimp District on August 2. Opens the fishery for shrimp other than spot shrimp in Marine Area 6 except in the Discovery Bay Shrimp District from August 3 through October 15.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/puget-sound-shrimp-fishery-update-2026-07",
+   "water_ids": [],
+   "zones": [
+    "marine-area-4"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Opens fishing with no size restrictions or daily limit for all species.\nOpen for fishing with no size restriction or daily limit for all species. Fishing from a vessel equipped with an internal combustion engine is prohibited.",
+   "effective": "Immediately through Oct. 17, 2026.",
+   "effective_from": "2026-10-17",
+   "effective_to": "2026-10-17",
+   "id": "wdfw-c7ca8435e7e0681a",
+   "scope_review": false,
+   "species": [],
+   "title": "Fish Lake (Spokane County) - Immediately through Oct. 17, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/daily-limits-removed-fish-lake-ahead-rehabilitation-2026-09",
+   "water_ids": [
+    "eastside-lakes/fish-lake-okanogan-co",
+    "eastside-lakes/fish-lake-spokane-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Closes retention of wild (unmarked) adult Chinook in Snake River beginning Sept. 18.",
+   "effective": "Lyons Ferry Bubble Fishery: From the red river marker (Marker 28) on the south shore of the Snake River upstream to the Highway 261 bridge (approximately 1.4 miles): Sept. 16: Closed. Sept. 17: Daily limit two adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Sept. 18–Oct. 25, 2026: Open Thursday through Sunday each week: Daily limit two adult hatchery Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than jack Chinook and adult hatchery Chinook. Barbless hooks required. From the downstream edge of the large power lines crossing the Snake River just upstream of West Evans Road on the south shore (approximately three miles downstream of Clarkston), upstream to the Washington/Idaho state line (top of Catch Record Card area 648): Sept. 16–Sept. 17: Open daily. Daily limit three adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Barbless hooks required. Sept. 18–Oct. 15, 2026: Open daily. Daily limit three adult hatchery Chinook. No limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than jack Chinook and adult hatchery Chinook. Barbless hooks required. From the Washington/Idaho state line to the Oregon state line (Catch Record Card area 650): Sept. 16–Sept. 17: Open daily. Daily limit three adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Barbless hooks required. Sept. 18–Oct. 31, 2026: Open daily. Daily limit three adult hatchery Chinook. No limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than jack Chinook and adult hatchery Chinook. Barbless hooks required.",
+   "effective_from": "2026-09-18",
+   "effective_to": "2026-10-25",
+   "id": "wdfw-1e6284b915d3251b",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Lyons Ferry Bubble Fishery: From the red river marker (Marker 28) on the south shore of the Snake River upstream to the Highway 261 bridge (approximately 1.4 miles): Sept. 16: Closed. Sept. 17: Daily limit two adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Sept. 18–Oct. 25, 2026: Open Thursday through Sunday each week: Daily limit two adult hatchery Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than jack Chinook and adult hatchery Chinook. Barbless hooks required. From the downstream edge of the large power lines crossing the Snake River just upstream of West Evans Road on the south shore (approximately three miles downstream of Clarkston), upstream to the Washington/Idaho state line (top of Catch Record Card area 648): Sept. 16–Sept. 17: Open daily. Daily limit three adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Barbless hooks required. Sept. 18–Oct. 15, 2026: Open daily. Daily limit three adult hatchery Chinook. No limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than jack Chinook and adult hatchery Chinook. Barbless hooks required. From the Washington/Idaho state line to the Oregon state line (Catch Record Card area 650): Sept. 16–Sept. 17: Open daily. Daily limit three adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Barbless hooks required. Sept. 18–Oct. 31, 2026: Open daily. Daily limit three adult hatchery Chinook. No limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than jack Chinook and adult hatchery Chinook. Barbless hooks required. - Lyons Ferry Bubble Fishery: From the red river marker (Marker 28) on the south shore of the Snake River upstream to the Highway 261 bridge (approximately 1.4 miles): Sept. 16: Closed. Sept. 17: Daily limit two adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Sept. 18–Oct. 25, 2026: Open Thursday through Sunday each week: Daily limit two adult hatchery Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than jack Chinook and adult hatchery Chinook. Barbless hooks required. From the downstream edge of the large power lines crossing the Snake River just upstream of West Evans Road on the south shore (approximately three miles downstream of Clarkston), upstream to the Washington/Idaho state line (top of Catch Record Card area 648): Sept. 16–Sept. 17: Open daily. Daily limit three adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Barbless hooks required. Sept. 18–Oct. 15, 2026: Open daily. Daily limit three adult hatchery Chinook. No limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than jack Chinook and adult hatchery Chinook. Barbless hooks required. From the Washington/Idaho state line to the Oregon state line (Catch Record Card area 650): Sept. 16–Sept. 17: Open daily. Daily limit three adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Barbless hooks required. Sept. 18–Oct. 31, 2026: Open daily. Daily limit three adult hatchery Chinook. No limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than jack Chinook and adult hatchery Chinook. Barbless hooks required.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/snake-river-fall-chinook-fishery-update-2026-09",
+   "water_ids": [
+    "columbia-basin/snake-river-columbia-garfield-franklin-walla-walla-whitman-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Opens Chinook salmon retention in areas of the Snake River.",
+   "effective": "Lyons Ferry Bubble fishery: From the red river marker (Marker 28) on the south shore of the Snake River, upstream to the Highway 261 bridge (approximately 1.4 miles): Sept. 3–Oct. 25, 2026 Open Thursday through Sunday each week. Daily limit two adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Barbless hooks required. From the downstream edge of the large power lines crossing the Snake River just upstream of West Evans Road on the south shore (approximately three miles downstream of Clarkston), upstream to the Washington/Idaho state line (top of Catch Record Card area 648): Aug. 18–Oct. 15, 2026 Open daily. Daily limit three adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Barbless hooks required. From the Washington/Idaho state line to the Oregon state line (Catch Record Card area 650): Aug. 18–Oct. 31, 2026 Open daily. Daily limit three adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Barbless hooks required.",
+   "effective_from": "2026-09-03",
+   "effective_to": "2026-10-25",
+   "id": "wdfw-89c4d3f2b0c244ca",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Lyons Ferry Bubble fishery: From the red river marker (Marker 28) on the south shore of the Snake River, upstream to the Highway 261 bridge (approximately 1.4 miles): Sept. 3–Oct. 25, 2026 Open Thursday through Sunday each week. Daily limit two adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Barbless hooks required. From the downstream edge of the large power lines crossing the Snake River just upstream of West Evans Road on the south shore (approximately three miles downstream of Clarkston), upstream to the Washington/Idaho state line (top of Catch Record Card area 648): Aug. 18–Oct. 15, 2026 Open daily. Daily limit three adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Barbless hooks required. From the Washington/Idaho state line to the Oregon state line (Catch Record Card area 650): Aug. 18–Oct. 31, 2026 Open daily. Daily limit three adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Barbless hooks required. - Lyons Ferry Bubble fishery: From the red river marker (Marker 28) on the south shore of the Snake River, upstream to the Highway 261 bridge (approximately 1.4 miles): Sept. 3–Oct. 25, 2026 Open Thursday through Sunday each week. Daily limit two adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Barbless hooks required. From the downstream edge of the large power lines crossing the Snake River just upstream of West Evans Road on the south shore (approximately three miles downstream of Clarkston), upstream to the Washington/Idaho state line (top of Catch Record Card area 648): Aug. 18–Oct. 15, 2026 Open daily. Daily limit three adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Barbless hooks required. From the Washington/Idaho state line to the Oregon state line (Catch Record Card area 650): Aug. 18–Oct. 31, 2026 Open daily. Daily limit three adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Barbless hooks required.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/fall-chinook-harvest-open-snake-river-2026-08",
+   "water_ids": [
+    "columbia-basin/snake-river-columbia-garfield-franklin-walla-walla-whitman-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Maintains previously announced bait prohibitions, single-point barbless hooks requirement for salmon, and reduced daily limit of two coho on the upper Skagit River. Maintains previously announced rules for the Cascade River. Updates fishing closure schedule for tribal fisheries in a portion of Skagit River.\nCascade River from mouth to Rockport-Cascade Road Bridge: Salmon daily limit four coho. Minimum size 12 inches. Release all salmon other than coho. Bait prohibited and single-point barbless hooks required for salmon. Closed to all fishing Sundays, Mondays, and Tuesdays. Skagit River from the mouth to Gilligan Creek east of Sedro-Woolley: Salmon daily limit two coho. Minimum size 12 inches. Release all salmon other than coho. Bait prohibited and single-point barbless hooks required for salmon. Skagit River from Gilligan Creek to Baker River: Oct. 9–11: Salmon daily limit two coho. Minimum size 12 inches. Release all salmon other than coho. Bait prohibited and single-point barbless hooks required for salmon. Oct. 12–15: Closed to fishing for all species. Oct. 16–31: Salmon daily limit two coho. Minimum size 12 inches. Release all salmon other than coho. Bait prohibited and single-point barbless hooks required for salmon. Skagit River from Baker River to Marblemount Bridge (Cascade River Road): Salmon daily limit two coho. Minimum size 12 inches. Release all salmon other than coho. Bait prohibited and single-point barbless hooks required for salmon.",
+   "effective": "Oct. 9–31, 2026.",
+   "effective_from": "2026-10-09",
+   "effective_to": "2026-10-31",
+   "id": "wdfw-6578bd8e936667ea",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Skagit River fishing updates - Oct. 9–31, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/skagit-river-fishing-updates-2026-10",
+   "water_ids": [
+    "puget-sound-coastal/skagit-river-skagit-whatcom-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Opens the Mineral Lake game fish season through Oct. 31 annually.\nGame fish is open from the fourth Saturday in April through Oct. 31 annually. Statewide minimum size and daily bag limits apply.",
+   "effective": "Oct. 1–31, 2026.",
+   "effective_from": "2026-10-01",
+   "effective_to": "2026-10-31",
+   "id": "wdfw-bc484a3f256f9b40",
+   "scope_review": false,
+   "species": [],
+   "title": "Mineral Lake (Lewis County). Permanent - Oct. 1–31, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/mineral-lake-fishing-season-extended-through-oct-31-2026-09",
+   "water_ids": [
+    "westside-lakes/mineral-lake-lewis-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Closes all fishing.",
+   "effective": "Sept. 22–Oct. 31, 2026.",
+   "effective_from": "2026-09-22",
+   "effective_to": "2026-10-31",
+   "id": "wdfw-436fd978ec5918aa",
+   "scope_review": false,
+   "species": [],
+   "title": "Deschutes River in Thurston County from the mouth (a line projected across the river 400 feet downstream of the lower Tumwater Falls fish ladder) to the Old Highway 99 (Capital Boulevard Southeast) Bridge. - Sept. 22–Oct. 31, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/lower-deschutes-river-thurston-county-closed-all-fishing-2026-09",
+   "water_ids": [
+    "puget-sound-coastal/deschutes-river-thurston-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Returns Lake Washington to permanent rules listed in the Washington Sport Fishing Rules , reopening salmon fishing.",
+   "effective": "Immediately through Oct. 31, 2026.",
+   "effective_from": "2026-10-31",
+   "effective_to": "2026-10-31",
+   "id": "wdfw-92cc7bd8f4e3720e",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Lake Washington (King County) north of Highway 520 Bridge and east of Montlake Bridge, including the portion of the Sammamish River near Kenmore from 68th Avenue Northeast downstream. - Immediately through Oct. 31, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/lake-washington-reopens-salmon-fishing-2026-09",
+   "water_ids": [
+    "puget-sound-coastal/sammamish-river-king-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Opens the lower Yakima River salmon retention.\nMinimum size 12 inches. Daily limit of one adult. No limit on jacks. Release all salmon other than Chinook and coho. Night closure in effect. Barbless hooks are required.",
+   "effective": "Sept. 15-Oct. 31, 2026.",
+   "effective_from": "2026-09-15",
+   "effective_to": "2026-10-31",
+   "id": "wdfw-e8feed09382713a5",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Yakima River from the Highway 240 bridge in Richland (river mile 2.1) to the Grant Avenue Bridge in Prosser (river mile 47.0). - Sept. 15-Oct. 31, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/yakima-river-fall-salmon-fishery-open-2026-09",
+   "water_ids": [
+    "columbia-basin/yakima-river-benton-kittitas-yakima-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Allows retention of one additional adult hatchery coho as part of the daily limit from the Buoy 10 line upstream to the west end of Puget Island.\nFrom a north-south line through Buoy 10 to the Rocky Point/Tongue Point line (a projected line from Rocky Point on the Washington bank through Red Buoy 44, to the red navigation marker 2 at Tongue Point on the Oregon bank): Sept. 12–30: Salmon and steelhead daily limit three salmon. Coho minimum size 16 inches. Release all salmon and steelhead other than hatchery coho. Oct. 1–31: Salmon and steelhead daily limit six, including up to three adults. Salmon minimum size 12 inches. Release all salmon and steelhead other than hatchery coho. From the Rocky Point/Tongue Point line upstream to a line at the west end of Puget Island, projected from green navigation marker 39 on the Washington bank to green navigation marker 41, then to red navigation marker 42, and terminating at red navigation marker 44A on the Oregon bank: Sept. 12–Oct 31: Salmon and steelhead daily limit six, including up to three adults. Salmon minimum size 12 inches. Release all salmon and steelhead other than hatchery coho.",
+   "effective": "Sept. 12–Oct. 31, 2026. Locations and",
+   "effective_from": "2026-09-12",
+   "effective_to": "2026-10-31",
+   "id": "wdfw-f8acb2af4219332f",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye",
+    "steelhead"
+   ],
+   "title": "Lower Columbia River salmon and steelhead fishery update - Sept. 12–Oct. 31, 2026. Locations and",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/lower-columbia-river-salmon-and-steelhead-fishery-update-2026-09",
+   "water_ids": [
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Rescinds requirement for bait or lure to be suspended below a float, except when trolling from a floating device, beginning Oct. 15.",
+   "effective": "Oct. 15–31, 2026",
+   "effective_from": "2026-10-15",
+   "effective_to": "2026-10-31",
+   "id": "wdfw-d6c6bf9006a8eb77",
+   "scope_review": false,
+   "species": [],
+   "title": "Naselle River, from the confluence of the South Fork upstream to the Highway 4 bridge. - Oct. 15–31, 2026",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/lower-naselle-river-gear-restriction-update-2026-08",
+   "water_ids": [
+    "puget-sound-coastal/naselle-river-pacific-co",
+    "puget-sound-coastal/naselle-river-pacific-wahkiakum-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Closes all fishing.",
+   "effective": "Sept. 16–Oct. 31, 2026.",
+   "effective_from": "2026-09-16",
+   "effective_to": "2026-10-31",
+   "id": "wdfw-433b11a8876f7526",
+   "scope_review": false,
+   "species": [],
+   "title": "Green (Duwamish) River, from Auburn Black Diamond Road Bridge to the Tacoma Municipal Boundary Marker. - Sept. 16–Oct. 31, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/upper-green-duwamish-river-closed-fishing-sept-16-oct-31-2026-08",
+   "water_ids": [
+    "puget-sound-coastal/green-duwamish-river-king-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Closes recreational fishing in the mainstem Stillaguamish River.\nClosed to fishing.",
+   "effective": "Oct. 9 – Nov. 1, 2026.",
+   "effective_from": "2026-10-09",
+   "effective_to": "2026-11-01",
+   "id": "wdfw-431103012b9ea82e",
+   "scope_review": false,
+   "species": [],
+   "title": "Stillaguamish River from Marine Drive (south of Stanwood) upstream to the forks at the confluence of the North Fork and South Fork Stillaguamish rivers near Arlington. - Oct. 9 – Nov. 1, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/stillaguamish-river-close-all-fishing-oct-9-2026-10",
+   "water_ids": [
+    "puget-sound-coastal/stillaguamish-river-snohomish-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Closes all fishing.\nClosed to fishing.",
+   "effective": "Oct. 3–Nov. 1, 2026.",
+   "effective_from": "2026-10-03",
+   "effective_to": "2026-11-01",
+   "id": "wdfw-98198b808305f985",
+   "scope_review": false,
+   "species": [],
+   "title": "Snohomish River, from the mouth to the confluence of the Skykomish and Snoqualmie rivers. - Oct. 3–Nov. 1, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/snohomish-river-close-all-fishing-oct-3-2026-10",
+   "water_ids": [
+    "puget-sound-coastal/snohomish-river-snohomish-co",
+    "puget-sound-coastal/snoqualmie-river-king-snohomish-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Opens the Icicle River to retention of coho salmon.\nMinimum size is 12 inches. Daily limit is two coho. Release all salmon other than coho. Fishing with bait (including scents and flavors) is prohibited. Night closure in effect.",
+   "effective": "Sept. 30–Nov. 30, 2026.",
+   "effective_from": "2026-09-30",
+   "effective_to": "2026-11-30",
+   "id": "wdfw-903d1b5fde054d02",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Icicle River (Chelan County) From the closure signs located 800 feet upstream of the mouth of the river to 500 feet downstream from the Leavenworth National Fish Hatchery Barrier Dam, and; From the shoreline markers where Cyo Road intersects the Icicle River at the Sleeping Lady Resort to the Icicle Peshastin Irrigation Footbridge (approximately 750 feet upstream from the Snow Lakes trailhead parking area). Salmon - Sept. 30–Nov. 30, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/icicle-river-open-coho-salmon-retention-2026-09",
+   "water_ids": [
+    "columbia-basin/icicle-river-and-tributaries-chelan-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Opens winter crab seasons in Marine Area 8-1 (Deception Pass, Hope Island, and Skagit Bay) and Marine Area 8-2 (Ports Susan and Gardner) ; crabbing is allowed seven days a week Oct. 10–Dec. 31 in these areas.",
+   "effective": "Oct. 10–Dec. 31, 2026.",
+   "effective_from": "2026-10-10",
+   "effective_to": "2026-12-31",
+   "id": "wdfw-51a171d166c12e10",
+   "scope_review": true,
+   "species": [
+    "dungeness_crab",
+    "tanner_crab"
+   ],
+   "title": "Marine Areas 8-1 and 8-2. - Oct. 10–Dec. 31, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/marine-area-8-1-deception-pass-hope-island-and-skagit-bay-and-marine-area-8-2-ports-susan-and-2026-10",
+   "water_ids": [],
+   "zones": [
+    "marine-area-8"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Opens winter crab seasons in Marine areas 4 east of the Bonilla-Tatoosh line, 5, 6, 7 (North and South), 9, and 12 north of a line projected due east from Ayock Point; crabbing is allowed seven days a week Oct. 1–Dec. 31 in these areas.",
+   "effective": "Oct. 1–Dec. 31, 2026.",
+   "effective_from": "2026-10-01",
+   "effective_to": "2026-12-31",
+   "id": "wdfw-48a3406489d94c28",
+   "scope_review": true,
+   "species": [
+    "dungeness_crab",
+    "tanner_crab"
+   ],
+   "title": "Marine Area 4 east of the Tatoosh-Bonilla line, Marine Area 5, Marine Area 6, Marine Area 7, Marine Area 9, and Marine Area 12 north of a line projected due east from Ayock Point. - Oct. 1–Dec. 31, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/some-areas-puget-sound-reopening-late-season-recreational-crab-fishing-2026-09",
+   "water_ids": [],
+   "zones": [
+    "marine-area-4"
+   ]
+  }
+ ],
+ "published": "2026-10-14T12:58:41.000Z",
+ "snapshot_day": "2026-10-14",
+ "source_checked": "2026-10-14T12:58:41.000Z",
+ "state": "WA"
+}

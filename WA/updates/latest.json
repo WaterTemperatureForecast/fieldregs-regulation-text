@@ -2,6 +2,25 @@
  "closures": [
   {
    "activity": "fishing",
+   "detail": "Extends clam, mussel, and oyster harvest at Belfair State Park, opens clam, mussel and oyster harvest at Duckabush Tidelands and Triton Cove Tidelands, and extends oyster harvest at Point Whitney Tidelands and Point Whitney Lagoon; opens and modifies other previously announced changes to public shellfish beaches in marine areas 9 and 12.\nMarine Area 9 (Admiralty Inlet): All public beaches within Port Gamble Bay south of a line drawn from Teekalet Point (Port Gamble) to Point Julia: closed until further notice. All public beaches from the northern edge of the mouth Mats Mats Bay to Paradise Bay, including Mats Mats Bay and Port Ludlow Bay: closed until further notice. Marine Area 12 (Hood Canal): All public beaches south of a line drawn from Triton Head to Tekiu Point and west of a line extending from Sisters Point due south to 47.34970, -123.04196 on the southern shore of Hood Canal: Closed to harvest. Public beaches north of a line drawn from Triton Head to Tekiu Point and east of line extending from Sisters Point due south to 47.34970, -123.04196 on the southern shore of Hood Canal: Follow seasons listed on WDFW public beach pages, searchable using the WDFW Find a Beach tool or the Washington Shellfish Safety Map . Belfair State Park: Open to clam, mussel, and oyster harvest through Oct. 31. Duckabush: Open to clam, mussel, and oyster harvest until further notice. Point Whitney Tidelands and Point Whitney Lagoon: Open to oyster harvest through Oct. 31. Triton Cove Tidelands: Open to clam and mussel harvest through Oct. 31.",
+   "effective": "Oct. 14, 2026, until further notice.",
+   "effective_from": "2026-10-14",
+   "effective_to": null,
+   "id": "wdfw-4bf3f84bfe8d7837",
+   "scope_review": true,
+   "species": [
+    "oyster"
+   ],
+   "title": "Marine Area 9 (Admiralty Inlet), Marine Area 12 (Hood Canal) shellfish beaches update - Oct. 14, 2026, until further notice.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/marine-area-9-admiralty-inlet-marine-area-12-hood-canal-shellfish-beaches-update-2026-10",
+   "water_ids": [],
+   "zones": [
+    "marine-area-9"
+   ]
+  },
+  {
+   "activity": "fishing",
    "detail": "Reopens fishing in the Quillayute River with reduced salmon retention limits and prohibits bait for all species.\nAll game fish: Open under rules described in the Washington Sport Fishing Rules , except bait is prohibited. Salmon: Minimum size 12 inches. Daily limit two including no more than one wild adult. Release sockeye. Bait is prohibited.",
    "effective": "Oct. 6, 2026, until further notice.",
    "effective_from": "2026-10-06",
@@ -464,8 +483,8 @@
    ]
   }
  ],
- "published": "2026-10-13T12:59:02.000Z",
- "snapshot_day": "2026-10-13",
- "source_checked": "2026-10-13T12:59:02.000Z",
+ "published": "2026-10-14T12:58:41.000Z",
+ "snapshot_day": "2026-10-14",
+ "source_checked": "2026-10-14T12:58:41.000Z",
  "state": "WA"
 }
