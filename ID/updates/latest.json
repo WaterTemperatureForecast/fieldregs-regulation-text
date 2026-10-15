@@ -47,77 +47,10 @@
     "southwest/salmon-river"
    ],
    "zones": []
-  },
-  {
-   "activity": "fishing",
-   "detail": "Monday, July 20, 2026 - 9:52 AM MDT The forecasted number of wild fall Chinook for 2026 is lower than recent years.\nDuring its July 16 meeting in Jerome, the Idaho Fish and Game Commission approved the recommended modifications to the 2026 fall Chinook salmon fishing season in the following fisheries: Snake River, Lower Salmon River, Salmon River, Mainstem Clearwater River, Middle Fork Clearwater River, North Fork Clearwater River, and South Fork Clearwater River.\nThe total daily bag limit remains at three (3) adult fall Chinook.",
-   "effective": "IDFG Commission modifies daily bag limit for fall Chinook salmon seasons",
-   "effective_from": "2026-07-20",
-   "effective_to": null,
-   "id": "idfg-3d791c084b58bffd",
-   "scope_review": false,
-   "species": [
-    "chinook"
-   ],
-   "title": "IDFG Commission modifies daily bag limit for fall Chinook salmon seasons - IDFG Commission modifies daily bag limit for fall Chinook salmon seasons",
-   "units": [],
-   "url": "https://idfg.idaho.gov/article/idfg-commission-modifies-daily-bag-limit-fall-chinook-salmon-seasons",
-   "water_ids": [
-    "clearwater/clearwater-river",
-    "clearwater/clearwater-river-little-north-fork-and-tributaries",
-    "clearwater/clearwater-river-middle-fork",
-    "clearwater/clearwater-river-north-fork",
-    "clearwater/clearwater-river-south-fork",
-    "clearwater/salmon-river",
-    "clearwater/salmon-river-little",
-    "clearwater/salmon-river-tributaries",
-    "clearwater/snake-river",
-    "magic-valley/snake-river",
-    "panhandle/clearwater-river-little-north-fork-and-tributaries",
-    "salmon/salmon-river",
-    "salmon/salmon-river-east-fork",
-    "salmon/salmon-river-east-fork-tributaries",
-    "salmon/salmon-river-middle-fork-and-all-tributaries",
-    "salmon/salmon-river-north-fork",
-    "salmon/salmon-river-north-fork-tributaries",
-    "salmon/salmon-river-tributaries",
-    "salmon/salmon-river-yankee-fork-and-west-fork-yankee-fork",
-    "salmon/salmon-river-yankee-fork-tributaries",
-    "salmon/yankee-fork-salmon-river-dredge-ponds",
-    "southeast/snake-river",
-    "southwest/salmon-river",
-    "southwest/salmon-river-little",
-    "southwest/salmon-river-middle-fork-and-tributaries",
-    "southwest/salmon-river-south-fork-and-tributaries",
-    "southwest/salmon-river-tributaries",
-    "upper-snake/snake-river"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
-   "detail": "Friday, July 17, 2026 - 2:34 PM MDT The Idaho Fish and Game Commission modified daily bag and possession limits for summer Chinook salmon fishing on the South Fork Salmon River effective July 17.\nNew Daily and Possession Limits South Fork Salmon River Daily : Four Chinook salmon, only two of which may be adults Possession : 12 Chinook salmon, only six of which may be adults For all season details, see the Chinook Fishing Seasons and Rules webpage.\nChinook Salmon Fishing Related Content July 28, 2026 South Fork Salmon River Chinook Update IDFG issues closure order for Chinook salmon fishing on South Fork Salmon River IDFG Commission modifies daily bag limit for fall Chinook salmon seasons July 14, 2026 South Fork Salmon River Chinook Update Upper Salmon River Chinook update - 7/8/2026 July 8, 2026 South Fork Salmon River Chinook Update SF Salmon River Chinook salmon fishery to open seven days per week",
-   "effective": "Commission modifies summer Chinook salmon bag and possession limits for South Fork Salmon River",
-   "effective_from": "2026-07-17",
-   "effective_to": null,
-   "id": "idfg-6d95a9db7a2f9840",
-   "scope_review": false,
-   "species": [
-    "chinook"
-   ],
-   "title": "Commission modifies summer Chinook salmon bag and possession limits for South Fork Salmon River - Commission modifies summer Chinook salmon bag and possession limits for South Fork Salmon River",
-   "units": [],
-   "url": "https://idfg.idaho.gov/article/commission-modifies-summer-chinook-salmon-bag-and-possession-limits-south-fork-salmon-river",
-   "water_ids": [
-    "clearwater/salmon-river",
-    "salmon/salmon-river",
-    "southwest/salmon-river"
-   ],
-   "zones": []
   }
  ],
- "published": "2026-10-14T12:51:32.000Z",
- "snapshot_day": "2026-10-14",
- "source_checked": "2026-10-14T12:51:32.000Z",
+ "published": "2026-10-15T12:58:36.000Z",
+ "snapshot_day": "2026-10-15",
+ "source_checked": "2026-10-15T12:58:36.000Z",
  "state": "ID"
 }
