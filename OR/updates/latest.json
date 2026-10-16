@@ -48,46 +48,6 @@
   },
   {
    "activity": "fishing",
-   "detail": "Area definition: From a line at the west end of Puget Island extending from green navigation marker #39 on the Washington shore to green navigation marker #41, then to red navigation marker #42, and terminating at red navigation marker #44A on the Oregon shore upstream to a line projected from the Warrior Rock lighthouse on the Oregon shore to the marker atop the piling dolphin located at the downstream end of Bachelor Island on the Washington shore. Note: the definition of the Warrior Rock/Bachelor Island line changed beginning in 2025.\nSeptember 28 – October 15: Retention of coho allowed; all Chinook must be released. The daily adult bag limit is two coho.",
-   "effective": "West Puget Island upstream to Warrior Rock/Bachelor Island: September 28 – October 15",
-   "effective_from": "2026-09-28",
-   "effective_to": "2026-10-15",
-   "id": "odfw-9dc4741edaa201db",
-   "scope_review": false,
-   "species": [
-    "chinook",
-    "coho"
-   ],
-   "title": "Columbia River - West Puget Island upstream to Warrior Rock/Bachelor Island: September 28 – October 15",
-   "units": [],
-   "url": "https://myodfw.com/articles/regulation-updates",
-   "water_ids": [
-    "columbia-river/columbia-river"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
-   "detail": "Area definition: From a line projected from the Warrior Rock lighthouse on the Oregon shore to the marker atop the piling dolphin located at the downstream end of Bachelor Island on the Washington shore upstream to Bonneville Dam. Note: the definition of the Warrior Rock/Bachelor Island line changed beginning in 2025.\nSeptember 28 – October 15: Retention of coho allowed; all Chinook must be released. The daily adult bag limit is two coho.",
-   "effective": "Warrior Rock/Bachelor Island upstream to Bonneville Dam: September 28 – October 15",
-   "effective_from": "2026-09-28",
-   "effective_to": "2026-10-15",
-   "id": "odfw-0bef96aeee0f4364",
-   "scope_review": false,
-   "species": [
-    "chinook",
-    "coho"
-   ],
-   "title": "Columbia River - Warrior Rock/Bachelor Island upstream to Bonneville Dam: September 28 – October 15",
-   "units": [],
-   "url": "https://myodfw.com/articles/regulation-updates",
-   "water_ids": [
-    "columbia-river/columbia-river"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
    "detail": "In the Coquille River (Mainstem) from Highway 101 bridge upstream to the Highway 42S bridge at Sturdivant Park\nThe daily adult wild coho salmon bag limit is one fish;\nNo more than three adult wild coho salmon may be retained for the period;\nThe daily wild jack coho salmon bag limit is one fish; and\nThe retention of hatchery Chinook salmon is allowed.",
    "effective": "Effective September 19 through October 18, 2026",
    "effective_from": "2026-09-19",
@@ -1716,8 +1676,8 @@
    ]
   }
  ],
- "published": "2026-10-15T13:02:43.000Z",
- "snapshot_day": "2026-10-15",
- "source_checked": "2026-10-15T13:02:43.000Z",
+ "published": "2026-10-16T12:56:16.000Z",
+ "snapshot_day": "2026-10-16",
+ "source_checked": "2026-10-16T12:56:16.000Z",
  "state": "OR"
 }
