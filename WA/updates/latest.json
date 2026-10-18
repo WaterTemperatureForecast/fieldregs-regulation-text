@@ -123,24 +123,6 @@
   },
   {
    "activity": "fishing",
-   "detail": "Opens fishing with no size restrictions or daily limit for all species.\nOpen for fishing with no size restriction or daily limit for all species. Fishing from a vessel equipped with an internal combustion engine is prohibited.",
-   "effective": "Immediately through Oct. 17, 2026.",
-   "effective_from": "2026-10-17",
-   "effective_to": "2026-10-17",
-   "id": "wdfw-c7ca8435e7e0681a",
-   "scope_review": false,
-   "species": [],
-   "title": "Fish Lake (Spokane County) - Immediately through Oct. 17, 2026.",
-   "units": [],
-   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/daily-limits-removed-fish-lake-ahead-rehabilitation-2026-09",
-   "water_ids": [
-    "eastside-lakes/fish-lake-okanogan-co",
-    "eastside-lakes/fish-lake-spokane-co"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
    "detail": "Closes retention of wild (unmarked) adult Chinook in Snake River beginning Sept. 18.",
    "effective": "Lyons Ferry Bubble Fishery: From the red river marker (Marker 28) on the south shore of the Snake River upstream to the Highway 261 bridge (approximately 1.4 miles): Sept. 16: Closed. Sept. 17: Daily limit two adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Sept. 18–Oct. 25, 2026: Open Thursday through Sunday each week: Daily limit two adult hatchery Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than jack Chinook and adult hatchery Chinook. Barbless hooks required. From the downstream edge of the large power lines crossing the Snake River just upstream of West Evans Road on the south shore (approximately three miles downstream of Clarkston), upstream to the Washington/Idaho state line (top of Catch Record Card area 648): Sept. 16–Sept. 17: Open daily. Daily limit three adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Barbless hooks required. Sept. 18–Oct. 15, 2026: Open daily. Daily limit three adult hatchery Chinook. No limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than jack Chinook and adult hatchery Chinook. Barbless hooks required. From the Washington/Idaho state line to the Oregon state line (Catch Record Card area 650): Sept. 16–Sept. 17: Open daily. Daily limit three adult Chinook, including no more than one wild adult Chinook. No daily limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than Chinook. Barbless hooks required. Sept. 18–Oct. 31, 2026: Open daily. Daily limit three adult hatchery Chinook. No limit for jack Chinook (wild or hatchery). Minimum size 12 inches. Release all salmon other than jack Chinook and adult hatchery Chinook. Barbless hooks required.",
    "effective_from": "2026-09-18",
@@ -419,8 +401,8 @@
    ]
   }
  ],
- "published": "2026-10-17T12:58:42.000Z",
- "snapshot_day": "2026-10-17",
- "source_checked": "2026-10-17T12:58:42.000Z",
+ "published": "2026-10-18T13:00:15.000Z",
+ "snapshot_day": "2026-10-18",
+ "source_checked": "2026-10-18T13:00:15.000Z",
  "state": "WA"
 }
