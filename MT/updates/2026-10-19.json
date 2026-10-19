@@ -1,0 +1,43 @@
+{
+ "closures": [
+  {
+   "activity": "fishing",
+   "detail": "Drought closure: fishing prohibited.\nDrought closure (fishing prohibited 24 hrs) is in effect for Section 1 of the Big Hole River from Saginaw Bridge on Skinner Meadow Road to the confluence with the North Fork of the Big Hole River starting August 13 Flows in Section 1 dropped below closure criteria (20 cfs) and remained near or below that threshold since August 5.\nWater temperatures and flows were measured at USGS gage 06024450 near Wisdom.",
+   "effective": "Big Hole River",
+   "effective_from": "2026-08-13",
+   "effective_to": null,
+   "id": "fwp-816855aa6227c263",
+   "scope_review": false,
+   "species": [],
+   "title": "Big Hole River - Big Hole River",
+   "units": [],
+   "url": "https://fwp.mt.gov/news/current-closures-restrictions/waterbody-closures",
+   "water_ids": [
+    "central/big-hole-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Emergency river closure due to bridge construction (closed to all forms of use) are in effect for the Sun River - beginning 500 feet upstream and ending 500 feet downstream of the Sun River Bridge (also know as Pishkun Road Bridge) starting June 1 .\nAdoption of an emergency rule closing a portion of the Sun River (MAR Notice No.\n2025-301.1).\nThe closure of this portion of the Sun River is in place from June 1 to November 15, 2026.",
+   "effective": "Sun River",
+   "effective_from": "2026-06-01",
+   "effective_to": "2026-11-15",
+   "id": "fwp-cbe04d7d1e57dcdc",
+   "scope_review": false,
+   "species": [],
+   "title": "Sun River - Sun River",
+   "units": [],
+   "url": "https://fwp.mt.gov/news/current-closures-restrictions/waterbody-closures",
+   "water_ids": [
+    "central/north-fork-sun-river-and-tributaries",
+    "central/south-fork-sun-river-and-tributaries"
+   ],
+   "zones": []
+  }
+ ],
+ "published": "2026-10-19T12:54:56.000Z",
+ "snapshot_day": "2026-10-19",
+ "source_checked": "2026-10-19T12:54:56.000Z",
+ "state": "MT"
+}

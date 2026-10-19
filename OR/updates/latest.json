@@ -48,58 +48,6 @@
   },
   {
    "activity": "fishing",
-   "detail": "In the Coquille River (Mainstem) from Highway 101 bridge upstream to the Highway 42S bridge at Sturdivant Park\nThe daily adult wild coho salmon bag limit is one fish;\nNo more than three adult wild coho salmon may be retained for the period;\nThe daily wild jack coho salmon bag limit is one fish; and\nThe retention of hatchery Chinook salmon is allowed.",
-   "effective": "Effective September 19 through October 18, 2026",
-   "effective_from": "2026-09-19",
-   "effective_to": "2026-10-18",
-   "id": "odfw-913d2b0a41089457",
-   "scope_review": false,
-   "species": [
-    "chinook",
-    "coho"
-   ],
-   "title": "Coquille River ( Mainstem ) - Effective September 19 through October 18, 2026",
-   "units": [],
-   "url": "https://myodfw.com/articles/regulation-updates",
-   "water_ids": [
-    "southwest/coquille-river-east-fork",
-    "southwest/coquille-river-mainstem",
-    "southwest/coquille-river-middle-fork",
-    "southwest/coquille-river-north-fork",
-    "southwest/coquille-river-south-fork",
-    "southwest/coquille-valley-wildlife-area"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
-   "detail": "In the Coos River and Bay from the visible tips of jetties upstream to the head of tide or other landmarks including: Larson Slough upstream to Sullivan Cr; Palouse Cr to Elliot Forest Boundary; Catching Slough to Sumner Rd Bridge; Kentuck, North, Isthmus, Coalbank and Davis sloughs to their tidegates; Shinglehouse Slough; and Pony Slough to Newmark Ave, South Fork Coos River (Mouth to head of tide at Dellwood), and Millicoma River (Mainstem) in aggregate\nThe daily adult wild coho salmon bag limit is one fish in aggregate,\nNo more than three adult wild coho salmon may be retained for the period in aggregate;\nThe daily wild jack coho salmon bag limit is one fish in aggregate; and\nThe daily adult salmon bag limit is three fish in aggregate of which no more than two may be wild.",
-   "effective": "Effective September 19 through October 18, 2026",
-   "effective_from": "2026-09-19",
-   "effective_to": "2026-10-18",
-   "id": "odfw-c12c5fca02db4c3e",
-   "scope_review": false,
-   "species": [
-    "chinook",
-    "coho",
-    "chum",
-    "pink",
-    "salmon",
-    "sockeye"
-   ],
-   "title": "Coos Bay - Coos River (Mainstem), South-Fork Coos River, and Millicoma River - Effective September 19 through October 18, 2026",
-   "units": [],
-   "url": "https://myodfw.com/articles/regulation-updates",
-   "water_ids": [
-    "southwest/coos-bay",
-    "southwest/coos-river-mainstem",
-    "southwest/coos-river-south-fork",
-    "southwest/millicoma-river-mainstem"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
    "detail": "In the Yaquina River and Bay from the visible ends of jetty tips to Simpson Creek and Big Elk Creek from the mouth to Bear Creek\nThe daily adult wild coho salmon bag limit is one fish in aggregate;\nNo more than three adult wild coho salmon may be retained for the period in aggregate; and\nThe daily jack wild coho salmon bag limit is one fish in aggregate.",
    "effective": "Effective September 19 through October 25 and November 1 through November 7, 2026",
    "effective_from": "2026-09-19",
@@ -1676,8 +1624,8 @@
    ]
   }
  ],
- "published": "2026-10-18T12:57:20.000Z",
- "snapshot_day": "2026-10-18",
- "source_checked": "2026-10-18T12:57:20.000Z",
+ "published": "2026-10-19T12:56:02.000Z",
+ "snapshot_day": "2026-10-19",
+ "source_checked": "2026-10-19T12:56:02.000Z",
  "state": "OR"
 }
