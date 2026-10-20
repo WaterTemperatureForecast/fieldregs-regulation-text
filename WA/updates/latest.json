@@ -161,6 +161,31 @@
   },
   {
    "activity": "fishing",
+   "detail": "Opens a portion of the Cascade River to fishing seven days per week. Maintains previously announced bait prohibitions, single-point barbless hooks requirement for salmon on Cascade and Skagit rivers, and a reduced daily limit of two coho on the upper Skagit River. Updates temporary fishing closures scheduled for tribal fisheries on Skagit River.\nCascade River from the mouth to the Rockport-Cascade Road Bridge: Salmon open daily. Salmon daily limit is four coho. Minimum size is 12 inches. Release all salmon other than coho. Bait is prohibited and single-point barbless hooks are required for salmon. Gamefish open daily. Skagit River from the mouth to the Gilligan Creek east of Sedro-Woolley: Salmon daily limit is two coho. Minimum size is 12 inches. Release all salmon other than coho. Bait is prohibited and single-point barbless hooks are required for salmon. Skagit River from Gilligan Creek to the Baker River: Oct. 15: Closed to fishing for all species. Oct. 16–18: Salmon daily limit is two coho. Minimum size is 12 inches. Release all salmon other than coho. Bait is prohibited and single-point barbless hooks are required for salmon. Oct. 19–21: Closed to fishing for all species. Oct. 22–31: Salmon daily limit is two coho. Minimum size is 12 inches. Release all salmon other than coho. Bait is prohibited and single-point barbless hooks are required for salmon. Skagit River from the Baker River to the Marblemount Bridge (Cascade River Road): Salmon daily limit is two coho. Minimum size is 12 inches. Release all salmon other than coho. Bait is prohibited and single-point barbless hooks are required for salmon.",
+   "effective": "Immediately through Oct. 31, 2026.",
+   "effective_from": "2026-10-31",
+   "effective_to": "2026-10-31",
+   "id": "wdfw-917695e9f67ab26b",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Cascade River to open seven days per week to fishing, and temporary closure implemented in a portion of the Skagit River - Immediately through Oct. 31, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/cascade-river-open-seven-days-week-fishing-and-temporary-closure-implemented-portion-skagit-river-2026-10",
+   "water_ids": [
+    "puget-sound-coastal/cascade-river-skagit-co",
+    "puget-sound-coastal/skagit-river-skagit-whatcom-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
    "detail": "Opens the Mineral Lake game fish season through Oct. 31 annually.\nGame fish is open from the fourth Saturday in April through Oct. 31 annually. Statewide minimum size and daily bag limits apply.",
    "effective": "Oct. 1–31, 2026.",
    "effective_from": "2026-10-01",
@@ -401,8 +426,8 @@
    ]
   }
  ],
- "published": "2026-10-19T12:59:03.000Z",
- "snapshot_day": "2026-10-19",
- "source_checked": "2026-10-19T12:59:03.000Z",
+ "published": "2026-10-20T12:58:58.000Z",
+ "snapshot_day": "2026-10-20",
+ "source_checked": "2026-10-20T12:58:58.000Z",
  "state": "WA"
 }

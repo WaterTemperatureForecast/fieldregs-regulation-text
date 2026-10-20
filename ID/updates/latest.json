@@ -2,6 +2,33 @@
  "closures": [
   {
    "activity": "fishing",
+   "detail": "Monday, October 19, 2026 - 12:50 PM MDT Idaho Fish and Game is closing all steelhead harvest in the Clearwater River basin, effective at the end of fishing hours on Wednesday, Oct.\n21.\nAnglers will still be able to fish for steelhead in the Clearwater River basin under catch-and-release regulations, but harvest of steelhead will be closed for the remainder of the 2026 season.",
+   "effective": "IDFG closes steelhead harvest in the Clearwater River basin due to low returns",
+   "effective_from": "2026-10-21",
+   "effective_to": null,
+   "id": "idfg-965bc717e1ee5e22",
+   "scope_review": false,
+   "species": [
+    "steelhead"
+   ],
+   "title": "IDFG closes steelhead harvest in the Clearwater River basin due to low returns - IDFG closes steelhead harvest in the Clearwater River basin due to low returns",
+   "units": [],
+   "url": "https://idfg.idaho.gov/article/idfg-closes-steelhead-harvest-clearwater-river-basin-due-low-returns",
+   "water_ids": [
+    "clearwater/clearwater-river",
+    "clearwater/snake-river",
+    "magic-valley/snake-river",
+    "southeast/snake-river",
+    "upper-snake/snake-river",
+    "clearwater/salmon-river",
+    "salmon/salmon-river",
+    "southwest/boise-river",
+    "southwest/salmon-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
    "detail": "Tuesday, September 15, 2026 - 1:49 PM MDT Effective at the end of fishing hours on Sept.\n17, Idaho Fish and Game will modify bag limits for both fall Chinook and steelhead fishing.\n“The bag limit modification for fall Chinook is necessary because the return of natural-origin fish is lower than the preseason forecast, and the fishery is approaching the allowable impacts on natural-origin fish,” said Chris Sullivan, Anadromous Fisheries Coordinator.",
    "effective": "IDFG modifies fall Chinook and steelhead bag limits",
    "effective_from": "2026-09-17",
@@ -49,8 +76,8 @@
    "zones": []
   }
  ],
- "published": "2026-10-19T12:51:59.000Z",
- "snapshot_day": "2026-10-19",
- "source_checked": "2026-10-19T12:51:59.000Z",
+ "published": "2026-10-20T12:51:47.000Z",
+ "snapshot_day": "2026-10-20",
+ "source_checked": "2026-10-20T12:51:47.000Z",
  "state": "ID"
 }
