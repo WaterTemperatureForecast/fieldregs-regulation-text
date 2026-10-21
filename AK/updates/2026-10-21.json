@@ -1,0 +1,987 @@
+{
+ "closures": [
+  {
+   "activity": "fishing",
+   "detail": "Southeast",
+   "effective": "SOUTHEAST ALASKA SPORT, PERSONAL USE AND SUBSISTENCE SHRIMP FISHERIES CLOSURE — Southeast",
+   "effective_from": "2026-02-26",
+   "effective_to": null,
+   "id": "adfg-3a16f3c77a37618b",
+   "scope_review": true,
+   "species": [
+    "shrimp"
+   ],
+   "title": "SOUTHEAST ALASKA SPORT, PERSONAL USE AND SUBSISTENCE SHRIMP FISHERIES CLOSURE - SOUTHEAST ALASKA SPORT, PERSONAL USE AND SUBSISTENCE SHRIMP FISHERIES CLOSURE — Southeast",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3999",
+   "water_ids": [],
+   "zones": [
+    "southeast-saltwater"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Gulf Coast \\ Res. Bay\n(Seward) - To provide youth anglers 15 years of age and younger additional opportunity to harvest king salmon returning to the Seward Lagoon, the Alaska Department of Fish and Game (ADF&G) is extending the season for the youth-only fishery in Seward through 11:59 p.m. Friday, July 31, 2026. The Seward Lagoon and waters draining out of the Seward Lagoon (outfall stream) remain closed to anglers 16 years of age and older.\nAdults can assist youth anglers, but the fish becomes part of the bag limit of the angler who hooks the fish. Each youth angler is allowed a bag limit of two fish per day and may use bait or lures. King salmon that are 20 inches or greater in length must be recorded on a harvest record card and count towards the Cook Inlet annual limit of five king salmon. Snagging is not allowed in freshwaters. While a canoe or kayak can help youth anglers reach more fish, there are also plenty of accessible locations to fish from shore around the Seward Lagoon. For additional information, please contact the Area Management Biologist Brittany Blain-Roth at (907) 267-2186 or Donnie Arthur at (907) 267-2225 .",
+   "effective": "Seward Lagoon Youth-Only Fishery Extended Through July 31 — North Gulf Coast \\ Res. Bay",
+   "effective_from": "2026-06-25",
+   "effective_to": null,
+   "id": "adfg-96c468b3b2d1fac7",
+   "scope_review": true,
+   "species": [
+    "chinook"
+   ],
+   "title": "Seward Lagoon Youth-Only Fishery Extended Through July 31 - Seward Lagoon Youth-Only Fishery Extended Through July 31 — North Gulf Coast \\ Res. Bay",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4062",
+   "water_ids": [],
+   "zones": [
+    "north-gulf-coast"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Juneau\n(Juneau) - The Alaska Department of Fish and Game (ADF&G) is announcing that effective at 12:01 a.m. Tuesday, September 1, sport fishing will be closed for all species in the marine waters of Gastineau Channel south of a line between Salmon Creek Bridge and a regulatory marker across the channel on Douglas Island and north of the Juneau-Douglas Bridge (see map below). Sport fishing is prohibited in this area for all species. This closure means that no sport fishing, including catch and release fishing, can occur in this area. This closure will be in effect through 11:59 p.m. Saturday, October 31, 2026.\nBased on the low number of tag recoveries, and the low number of coho salmon that have returned to the Douglas Island Pink and Chum (DIPAC) Inc. Macaulay Salmon Hatchery to date, a poor run of hatchery produced coho salmon is projected. Currently, the run is not expected to meet hatchery broodstock goals in 2026. This closure is necessary to maximize the number of coho salmon returning to the hatchery for broodstock. If more coho salmon return than projected, this closure may be rescinded or the closed area reduced.",
+   "effective": "North Gastineau Channel Closed to Sport Fishing — Juneau",
+   "effective_from": "2026-08-27",
+   "effective_to": "2026-10-31",
+   "id": "adfg-a59c5b55f57771c3",
+   "scope_review": false,
+   "species": [],
+   "title": "North Gastineau Channel Closed to Sport Fishing - North Gastineau Channel Closed to Sport Fishing — Juneau",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4110",
+   "water_ids": [
+    "juneau-glacier-bay/gastineau-channel-wayside-park-fishing-dock-in-the-waters-of-gastineau"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Sitka\n(Sitka) - Beginning 12:01 a.m. Tuesday, September 15 through 11:59 p.m. Saturday, October 31, 2026; Bear Cove near Medvejie Hatchery and Deep Inlet are closed to sport fishing for coho salmon. The closure includes all waters of Bear Cove east of a line from a point on the Baranof Island shoreline at 57° 00.63' N. lat., 135° 09.80' W. long. to a point on the Baranof Island shoreline at 57° 01.07' N. lat., 135° 09.93' W. long. and the waters of Deep Inlet south of a line defined as 56° 59.342’N. latitude, 135° 18.541’W. longitude. to 56° 59.07’N. latitude, 135° 18.555’W. longitude (see below maps).\nCoho salmon returning to Medvejie Hatchery and Deep Inlet are not expected to meet broodstock goals in 2026. To date, no coho salmon have been collected for broodstock while 2,250 are needed. This closure is necessary to attempt to provide enough coho salmon to meet broodstock needs.\nAnyone needing further information concerning this announcement please contact the Division of Sport Fish in Sitka at (907) 747-5355 .",
+   "effective": "Sport Fishing for Coho Salmon Closed in Bear Cove and Deep Inlet — Sitka",
+   "effective_from": "2026-09-11",
+   "effective_to": "2026-10-31",
+   "id": "adfg-efbbf31ad020c325",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Sport Fishing for Coho Salmon Closed in Bear Cove and Deep Inlet - Sport Fishing for Coho Salmon Closed in Bear Cove and Deep Inlet — Sitka",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4114",
+   "water_ids": [
+    "sitka/bear-cove-in-silver-bay-in-all-waters-east-of-a-line-between-the-adf-g"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Yakutat\n**We apologize for the second email; there was an error in the map key. Please find the fixed map included below.**\n(Yakutat ) - The Alaska Department of Fish and Game announced today that the lingcod sport fishing seasons, bag and possession limits, annual limits, and size limits have been established for the Yakutat area (see attached map). In this area the following regulations apply:\nYakutat Area Alaska Residents\nSeason: May 16 – November 30 . 1 per day, 2 in possession, no size limit. Nonresidents",
+   "effective": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Yakutat Area — Yakutat",
+   "effective_from": "2026-04-06",
+   "effective_to": "2026-11-30",
+   "id": "adfg-903911b81bb8bb8d",
+   "scope_review": true,
+   "species": [
+    "lingcod"
+   ],
+   "title": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Yakutat Area - CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Yakutat Area — Yakutat",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4020",
+   "water_ids": [],
+   "zones": [
+    "yakutat"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Haines/Skagway\n**We apologize for the second email; there was an error in the map key. Please find the fixed map included below.**\n(Haines) - The Alaska Department of Fish and Game announced today that the lingcod sport fishing seasons, bag and possession limits, annual limits, and size limits have been established for the Northern Southeast Area (Haines/Skagway Area - see attached map). In this area the following regulations apply:\nNorthern Southeast Area Alaska Residents\nSeason: May 16 – November 30. 1 per day, 2 in possession, no size limit. Nonresidents",
+   "effective": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Haines and Skagway Area — Haines/Skagway",
+   "effective_from": "2026-04-06",
+   "effective_to": "2026-11-30",
+   "id": "adfg-3e910c81476f7392",
+   "scope_review": true,
+   "species": [
+    "lingcod"
+   ],
+   "title": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Haines and Skagway Area - CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Haines and Skagway Area — Haines/Skagway",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4014",
+   "water_ids": [],
+   "zones": [
+    "haines-skagway"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Juneau\n**We apologize for the second email; there was an error in the map key. Please find the fixed map included below.**\n(Juneau) - The Alaska Department of Fish and Game announced today that the lingcod sport fishing seasons, bag and possession limits, annual limits, and size limits have been established for the Northern Southeast Area (Juneau Area - see attached map). In this area the following regulations apply:\nNorthern Southeast Area Alaska Residents\nSeason: May 16 – November 30. 1 per day, 2 in possession, no size limit. Nonresidents",
+   "effective": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Juneau/Glacier Bay Area — Juneau",
+   "effective_from": "2026-04-06",
+   "effective_to": "2026-11-30",
+   "id": "adfg-6b81f2f7ee14373a",
+   "scope_review": true,
+   "species": [
+    "lingcod"
+   ],
+   "title": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Juneau/Glacier Bay Area - CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Juneau/Glacier Bay Area — Juneau",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4015",
+   "water_ids": [],
+   "zones": [
+    "juneau-glacier-bay"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Petersburg\n**We apologize for the second email; there was an error in the map key. Please find the fixed map included below.**\n(Petersburg) - The Alaska Department of Fish and Game announced today that the lingcod sport fishing seasons, bag and possession limits, annual limits, and size limits have been established for the Southern Southeast Inside Waters (SSEI - Petersburg Area - see attached map). In this area the following regulations apply:\nSouthern Southeast Inside Waters Area Alaska Residents\nSeason: May 16 – November 30. 1 per day, 2 in possession, no size limit. Nonresidents",
+   "effective": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Petersburg Area — Petersburg",
+   "effective_from": "2026-04-06",
+   "effective_to": "2026-11-30",
+   "id": "adfg-eb35a3fe6ebb8b2c",
+   "scope_review": true,
+   "species": [
+    "lingcod"
+   ],
+   "title": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Petersburg Area - CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Petersburg Area — Petersburg",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4017",
+   "water_ids": [],
+   "zones": [
+    "petersberg-wrangell"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Sitka\n**We apologize for the second email; there was an error in the map key. Please find the fixed map included below.**\n(Sitka) - The Alaska Department of Fish and Game announced today that the lingcod sport fishing seasons, bag and possession limits, annual limits, and size limits have been established for the Central Southeast Outside Waters (CSEO - Sitka Area - see attached map). In this area the following regulations apply:\nCentral Southeast Outside Area Alaska Residents\nSeason: May 16 – November 30 1 per day, 2 in possession, no size limit. Nonresidents",
+   "effective": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Sitka Area — Sitka",
+   "effective_from": "2026-04-06",
+   "effective_to": "2026-11-30",
+   "id": "adfg-da2924d99c0498b9",
+   "scope_review": true,
+   "species": [
+    "lingcod"
+   ],
+   "title": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Sitka Area - CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Sitka Area — Sitka",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4019",
+   "water_ids": [],
+   "zones": [
+    "sitka"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Prince of Wales Island\n**We apologize for the second email; there was an error in the map key. Please find the fixed map included below.**\n(Prince of Wales) - The Alaska Department of Fish and Game announced today that the lingcod sport fishing seasons, bag and possession limits, annual limits, and size limits have been established for the Southern Southeast Outer Coast Waters (SSEO – Prince of Wales Area - see attached map). In this area the following regulations apply:\nSouthern Southeast Outer Coast Area Alaska Residents\nSeason: May 16 – November 30. 1 per day, 2 in possession, no size limit. Nonresidents",
+   "effective": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Prince of Wales Area — Prince of Wales Island",
+   "effective_from": "2026-04-06",
+   "effective_to": "2026-11-30",
+   "id": "adfg-3d703e26d6cf6375",
+   "scope_review": true,
+   "species": [
+    "lingcod"
+   ],
+   "title": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Prince of Wales Area - CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Prince of Wales Area — Prince of Wales Island",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4018",
+   "water_ids": [],
+   "zones": [
+    "prince-of-wales-island"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Ketchikan\n**We apologize for the second email; there was an error in the map key. Please find the fixed map included below.**\n(Ketchikan) - The Alaska Department of Fish and Game announced today that the lingcod sport fishing seasons, bag and possession limits, annual limits, and size limits have been established for the Southern Southeast Inside Waters (SSEI - Ketchikan Area - see attached map). In this area the following regulations apply:\nSouthern Southeast Inside Waters Area Alaska Residents\nSeason: May 16 – November 30. 1 per day, 2 in possession, no size limit. Nonresidents",
+   "effective": "CORRECTED- Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Ketchikan Area — Ketchikan",
+   "effective_from": "2026-04-06",
+   "effective_to": "2026-11-30",
+   "id": "adfg-d7d2e0130c767f94",
+   "scope_review": true,
+   "species": [
+    "lingcod"
+   ],
+   "title": "CORRECTED- Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Ketchikan Area - CORRECTED- Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Ketchikan Area — Ketchikan",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4016",
+   "water_ids": [],
+   "zones": [
+    "ketchikan-hyder"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Northern Kenai\n(Soldotna) - The Alaska Department of Fish and Game (ADF&G) is implementing the following sport fishing regulation restriction for the Kenai River drainage effective 12:01 a.m. Tuesday, September 1 through 11:59 p.m. Monday, November 30, 2026:\nThe bag and possession limit for coho salmon, 16 inches or greater in length is two coho salmon. The coho salmon bag and possession limit on the Kenai River increases to three fish by regulation beginning on September 1. This action maintains the current two fish bag and possession limit for the remainder of the coho salmon fishing season.\nAnglers are reminded, fishing for Kenai River coho salmon is allowed from its mouth upstream to Bing’s Landing through November 30 (Southcentral Regulation Summary, Kenai River Lower Section page 45). Coho salmon season is allowed upstream of Bing’s Landing to the outlet of Kenai Lake through October 31 (Southcentral Regulation Summary, Kenai River Middle Section page 53). In the Russian River, fishing for coho salmon is allowed through September 30.\nDue to continued indications of below average coho salmon abundance in Cook Inlet, the Alaska Department of Fish and Game will reduce the sport fishing bag limit for coho salmon in the Kenai River to help ensure adequate escapement and long term sustainability. Escapement monitoring for Kenai Peninsula coho salmon remains limited, adding uncertainty to expectations for the 2026 return. Recent catch rates point to a weak overall return to Cook Inlet, and several major Northern Cook Inlet coho producing systems appear to be experiencing weak returns, even as smaller systems such as Jim Creek, Ship Creek, Fish Creek and Anchor River are experiencing stronger returns. Given the uncertainty surrounding coho salmon productivity and the recent pattern of weak returns, this precautionary reduction in the bag limit is warranted to ensure adequate escapement.",
+   "effective": "Kenai River Drainage Coho Salmon Limit Remains at Two Fish — Northern Kenai",
+   "effective_from": "2026-08-27",
+   "effective_to": "2026-11-30",
+   "id": "adfg-c99138df3b097002",
+   "scope_review": true,
+   "species": [
+    "coho"
+   ],
+   "title": "Kenai River Drainage Coho Salmon Limit Remains at Two Fish - Kenai River Drainage Coho Salmon Limit Remains at Two Fish — Northern Kenai",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4111",
+   "water_ids": [],
+   "zones": [
+    "kenai-river-drainage"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Southeast\n(Sitka) - The Alaska Department of Fish and Game announced today the demersal shelf rockfish sport fishing season for nonresident anglers is being reduced from January 1- December 31 to July 1 – August 25. Seasons, bag, possession and annual limits for Southeast Alaska demersal shelf rockfish are below. Demersal shelf rockfish include yelloweye, quillback, tiger, China, canary, copper and rosethorn species.\nResident : Season: January 1 – December 31; 1 daily, 2 in possession, no annual limit; Nonresident : Season: July 1 – August 25. 1 daily, 1 in possession, annual limit of one fish. Immediately upon landing and retaining a demersal shelf rockfish, a nonresident must enter the species, date and location on the back of their sport fishing license or on a nontransferable harvest record. All anglers: When releasing any rockfish, anglers must use a deepwater release mechanism to return the fish to the depth it was hooked or to a depth of at least 100 feet. All vessels must have at least one functional deepwater release mechanism on board and readily available for use when saltwater sport fishing activities are taking place. When fishing in the exclusive economic zone (generally between 3-200 nautical miles from shore, see map below), all anglers must comply with the nonresident regulations. In January 2025, the Alaska Board of Fisheries modified sport fishing regulations to allow for limited harvest opportunity of demersal shelf rockfish, including yelloweye rockfish.\nWhile limited harvest opportunity is being provided, a conservative management approach continues to be necessary to protect the sustainability of these species. A limited fishing season has been established for nonresident anglers to protect yelloweye rockfish during their reproductive cycle, which mostly occurs during early summer. These regulations are also designed to keep the sport harvest of demersal shelf rockfish within the sport allocation for Southeast Outside Waters. A helpful flyer is available on the Fish and Game website to assist anglers with identification of rockfish.\nFor further information, contact the nearest ADF&G office or visit:",
+   "effective": "Southeast Alaska 2026 Demersal Shelf Rockfish Sport Fishing Season Reduced for Nonresident Anglers — Southeast",
+   "effective_from": "2026-01-26",
+   "effective_to": "2026-12-31",
+   "id": "adfg-1b0abf79b07e4490",
+   "scope_review": true,
+   "species": [
+    "rockfish"
+   ],
+   "title": "Southeast Alaska 2026 Demersal Shelf Rockfish Sport Fishing Season Reduced for Nonresident Anglers - Southeast Alaska 2026 Demersal Shelf Rockfish Sport Fishing Season Reduced for Nonresident Anglers — Southeast",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3966",
+   "water_ids": [],
+   "zones": [
+    "southeast-saltwater"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Juneau\n(Juneau) - The Alaska Department of Fish and Game, Division of Sport Fish is announcing that saltwaters of north Gastineau Channel near the Macaulay Salmon Hatchery previously closed by emergency order will reopen to sport fishing effective 12:01 a.m., Saturday, September 19 through 11:59 p.m. Thursday, December 31. The daily bag and possession limit for coho salmon will be 6 of any size. The hatchery has secured enough coho salmon for broodstock needs making this sport fishing closure unnecessary.",
+   "effective": "North Gastineau Channel Saltwaters Reopening to Sport Fishing September 19, 2026 — Juneau",
+   "effective_from": "2026-09-17",
+   "effective_to": "2026-12-31",
+   "id": "adfg-06a0b8bf50fe7920",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "North Gastineau Channel Saltwaters Reopening to Sport Fishing September 19, 2026 - North Gastineau Channel Saltwaters Reopening to Sport Fishing September 19, 2026 — Juneau",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4115",
+   "water_ids": [
+    "juneau-glacier-bay/gastineau-channel-wayside-park-fishing-dock-in-the-waters-of-gastineau"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Juneau\n(Juneau) - The Alaska Department of Fish and Game (ADF&G) is announcing that effective at 12:01 a.m. Tuesday, September 1, fishing for coho salmon will be closed in Montana Creek including McGinnis Creek and Peterson Creek and Lagoon (north of Juneau; see map below). These closures will be in effect through 11:59 p.m. Thursday, December 31, 2026. Specific restrictions are as follows:\nThe waters of Montana Creek, including McGinnis Creek, are CLOSED to coho salmon fishing. Coho salmon may not be targeted, retained, or possessed. The waters of Peterson Creek, including Peterson Lagoon, from intertidal saltwaters within a 200-yard radius of the creek mouth to the falls approximately 1.5 miles upstream are CLOSED to coho salmon fishing. Coho salmon may not be targeted, retained, or possessed. Based on survey counts, coho salmon returns to Montana Creek have failed to achieve their escapement goal in 6 of the last 7 years. Similarly, Peterson Creek coho salmon have not achieved their escapement goal in 4 of the last 7 years. However, Peterson Creek coho salmon returns are showing signs of improvement by achieving the escapement goal in 2023, 2024, and 2025. Given these trends, conservative measures are necessary to protect the sustainability of coho salmon in both Montana Creek and Peterson Creek. ADF&G will continue to conduct coho salmon surveys on Montana Creek and Peterson Creek, and this action may be reconsidered if coho salmon returns improve.",
+   "effective": "Montana Creek, Peterson Creek and Lagoon Closed to Coho Salmon Fishing — Juneau",
+   "effective_from": "2026-08-27",
+   "effective_to": "2026-12-31",
+   "id": "adfg-8b1b007c6db2f13c",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Montana Creek, Peterson Creek and Lagoon Closed to Coho Salmon Fishing - Montana Creek, Peterson Creek and Lagoon Closed to Coho Salmon Fishing — Juneau",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4109",
+   "water_ids": [
+    "juneau-glacier-bay/montana-creek",
+    "juneau-glacier-bay/peterson-creek-salt-chuck"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Juneau",
+   "effective": "SECTION 11-A AND TENAKEE INLET PERSONAL USE AND SPORT SHRIMP POT FISHERIES REMAIN CLOSED — Juneau",
+   "effective_from": "2025-12-17",
+   "effective_to": "2026-12-31",
+   "id": "adfg-386c4b82ba9754fa",
+   "scope_review": true,
+   "species": [
+    "shrimp"
+   ],
+   "title": "SECTION 11-A AND TENAKEE INLET PERSONAL USE AND SPORT SHRIMP POT FISHERIES REMAIN CLOSED - SECTION 11-A AND TENAKEE INLET PERSONAL USE AND SPORT SHRIMP POT FISHERIES REMAIN CLOSED — Juneau",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3963",
+   "water_ids": [],
+   "zones": [
+    "juneau-glacier-bay"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Sitka",
+   "effective": "REDOUBT BAY AND LAKE SUBSISTENCE AND SPORT SOCKEYE SALMON LIMITS INCREASED — Sitka",
+   "effective_from": "2026-06-30",
+   "effective_to": "2026-12-31",
+   "id": "adfg-c6371d87ee305e2f",
+   "scope_review": false,
+   "species": [
+    "sockeye"
+   ],
+   "title": "REDOUBT BAY AND LAKE SUBSISTENCE AND SPORT SOCKEYE SALMON LIMITS INCREASED - REDOUBT BAY AND LAKE SUBSISTENCE AND SPORT SOCKEYE SALMON LIMITS INCREASED — Sitka",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4070",
+   "water_ids": [
+    "sitka/redoubt-bay-south-of-the-latitude-of-56-54-71-n-see-the-map-on-page-25"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Sitka\n(Sitka) - The Alaska Department of Fish and Game is announcing a reduction in the pelagic rockfish limits for 2026 in the Sitka Area (CSEO). The affected area includes the marine waters west of Baranof and Chichagof Islands between 57˚ 30′ N. Latitude and the Latitude of Cape Ommaney (56˚ 9.60′ N.). These regulations will be effective 12:01 a.m. Saturday, January 31, 2026, through 11:59 p.m. Thursday, December 31, 2026. The regulations are:\nResidents The resident daily bag limit is three pelagic rockfish, six in possession, no size limit. Nonresidents The nonresident daily bag limit is two pelagic rockfish, four in possession, no size limit. An increase in pelagic rockfish harvest by sport anglers since 2009 has led to substantially higher harvest levels than previously seen. In response to the increased harvest and in the interest of conservative management the Board of Fish reduced regional background regulations for all anglers in 2025. The additional emergency order restrictions for 2026 are aimed at stabilizing harvest and are the same as those issued in 2025.\nWhen fishing in the exclusive economic zone (between 3-200 nautical miles from shore), see map below, all anglers must comply with the two fish bag limit and four fish possession limit for pelagic rockfish.\nFor further information, contact the Sitka ADF&G office at 907-747-5355 or visit: Emergency Orders and Press Releases",
+   "effective": "CORRECTED: Sitka Area Pelagic Rockfish Limit Reduced in the Sitka Area in 2026 — Sitka",
+   "effective_from": "2026-01-27",
+   "effective_to": "2026-12-31",
+   "id": "adfg-754901313e01bd12",
+   "scope_review": true,
+   "species": [
+    "rockfish"
+   ],
+   "title": "CORRECTED: Sitka Area Pelagic Rockfish Limit Reduced in the Sitka Area in 2026 - CORRECTED: Sitka Area Pelagic Rockfish Limit Reduced in the Sitka Area in 2026 — Sitka",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3967",
+   "water_ids": [],
+   "zones": [
+    "sitka"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Sitka",
+   "effective": "SECIONS 13-B AND 13-C SUBSISTENCE AND SPORT SHRIMP FISHERIES CLOSURE — Sitka",
+   "effective_from": "2025-12-15",
+   "effective_to": "2026-12-31",
+   "id": "adfg-1ea14c654152a93b",
+   "scope_review": true,
+   "species": [
+    "shrimp"
+   ],
+   "title": "SECIONS 13-B AND 13-C SUBSISTENCE AND SPORT SHRIMP FISHERIES CLOSURE - SECIONS 13-B AND 13-C SUBSISTENCE AND SPORT SHRIMP FISHERIES CLOSURE — Sitka",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3962",
+   "water_ids": [],
+   "zones": [
+    "sitka"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Prince of Wales Island\n(Craig) - The sport shrimp pot fisheries in Kasaan Bay and Skowl Arm will remain closed from 12:01 a.m., Wednesday, January 7, through Thursday, December 31, 2026. The closed waters include all waters of Kasaan Bay and Skowl Arm west of the longitude of Kasaan Point at 132°16.87′ W long.\nThe Kasaan Bay and Skowl Arm personal use and sport shrimp pot fisheries were closed in July 2025. These closures were implemented due to significant decreases in abundance observed in department pot survey catch per unit effort (CPUE) data, commercial shrimp pot fishery data, and poor personal use harvest throughout the area. The department’s most recent shrimp pot survey in the fall of 2025 indicated further decreases in abundance, with CPUE rates being the lowest recorded since the shrimp pot surveys began in 2011. Continued indicators of poor stock health, combined with weak commercial fishery performance in recent seasons, resulted in the closure of the commercial fishery for the 2025 and 2026 seasons. The personal use and sport shrimp pot fisheries closure will extend through the 2026 season.\nThe intention of this closure is to allow spot shrimp abundance in Kasaan Bay and Skowl Arm to rebuild to levels that allow sustainable harvest for all user groups. This closure will remain in effect for the 2026 season and will be reevaluated following completion of the department’s annual shrimp pot survey in the fall of 2026.\nFor further information, contact the Prince of Wales Sport Fish office at 907-826-2498 or visit our website .",
+   "effective": "Kasaan Bay and Skowl Arm Sport Shrimp Pot Fisheries Remain Closed — Prince of Wales Island",
+   "effective_from": "2026-01-06",
+   "effective_to": "2026-12-31",
+   "id": "adfg-d8c3b54f1b1c5119",
+   "scope_review": true,
+   "species": [
+    "shrimp"
+   ],
+   "title": "Kasaan Bay and Skowl Arm Sport Shrimp Pot Fisheries Remain Closed - Kasaan Bay and Skowl Arm Sport Shrimp Pot Fisheries Remain Closed — Prince of Wales Island",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3965",
+   "water_ids": [],
+   "zones": [
+    "prince-of-wales-island"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Mat-Su\n(Palmer) - The Alaska Department of Fish and Game (ADF&G) is prohibiting the retention of coho salmon, 16 inches or greater in length, within the Susitna and Little Susitna River drainages, effective 12:01 a.m. Wednesday, August 19 through the remainder of the year. The use of bait continues to be prohibited in all flowing waters of the Susitna and the Little Susitna River drainage. Only artificial lures are allowed.\nThe Little Susitna coho salmon sustainable escapement goal (SEG) is 9,200–17,700 fish. As of August 17, 1,385 coho salmon have passed the weir with a projected escapement of 2,104 fish. Given the poor performance of coho salmon escapement in the Susitna River drainage in the past 4 years, below average returns to the Little Susitna River, and poor indicators of abundance this year, this action is warranted to conserve coho salmon. The department will continue to monitor coho salmon run strength in Upper Cook Inlet and if run strength improves to a level that can support harvest, restrictions on the sport fishery may be rescinded.\nFor additional information, please contact Area Management Biologist Samantha Oslund in Palmer at (907) 746-6300 .",
+   "effective": "Little Susitna & Susitna River Drainages No Retention of Coho Salmon — Mat-Su",
+   "effective_from": "2026-08-17",
+   "effective_to": "2026-12-31",
+   "id": "adfg-c67dfae08e51891f",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Little Susitna & Susitna River Drainages No Retention of Coho Salmon - Little Susitna & Susitna River Drainages No Retention of Coho Salmon — Mat-Su",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4107",
+   "water_ids": [
+    "upper-copper-river-and-upper-susitna-river-area/susitna-river-drainage-upstream-from-the-oshetna-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Mat-Su\n(Palmer) - The Alaska Department of Fish and Game (ADF&G) is prohibiting the retention of coho salmon, 16 inches or greater in length, within the Susitna and Little Susitna River drainages, effective 12:01 a.m. Wednesday, August 19 through the remainder of the year. The use of bait continues to be prohibited in all flowing waters of the Susitna and the Little Susitna River drainage. Only artificial lures are allowed.\nThe Little Susitna coho salmon sustainable escapement goal (SEG) is 9,200–17,700 fish. As of August 17, 1,385 coho salmon have passed the weir with a projected escapement of 2,104 fish. Given the poor performance of coho salmon escapement in the Susitna River drainage in the past 4 years, below average returns to the Little Susitna River, and poor indicators of abundance this year, this action is warranted to conserve coho salmon. The department will continue to monitor coho salmon run strength in Upper Cook Inlet and if run strength improves to a level that can support harvest, restrictions on the sport fishery may be rescinded.\nFor additional information, please contact Area Management Biologist Samantha Oslund in Palmer at (907) 746-6300 .",
+   "effective": "Susitna and Little Susitna River Drainages No Retention of Coho Salmon — Mat-Su",
+   "effective_from": "2026-08-17",
+   "effective_to": "2026-12-31",
+   "id": "adfg-662f768b71e1abea",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Susitna and Little Susitna River Drainages No Retention of Coho Salmon - Susitna and Little Susitna River Drainages No Retention of Coho Salmon — Mat-Su",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4108",
+   "water_ids": [
+    "knik-arm/little-susitna-river-drainage",
+    "upper-copper-river-and-upper-susitna-river-area/susitna-river-drainage-upstream-from-the-oshetna-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Mat-Su\n(Palmer) – To protect returning king salmon and ensure sport fishing opportunities in the future, the Alaska Department of Fish and Game (ADF&G) is closing all drainages in the West Cook Inlet Area to sport fishing for king salmon for the duration of the king salmon season (May 1 – June 30). Anglers may not target king salmon (including catch and release) at anytime during 2026. Any king salmon caught must be released immediately, a person may not remove a king salmon from the water before releasing the fish.\nKing salmon are experiencing a period of poor productivity and many escapement goals are not expected to be achieved within Cook Inlet during 2026. The Department is taking conservative actions in sport fisheries throughout the region, please see separate advisory announcements for king salmon regulations for the Northern Cook Inlet freshwaters, Cook Inlet salt waters, Kenai River, Anchor River and Deep Creek, Ninilchik and Kasilof Rivers.\nFor additional information, please contact Area Management Biologists Samantha Oslund in Palmer at (907) 746-6300 and Area Manager Mike Booz in Homer at (907) 235-8191 .",
+   "effective": "West Cook Inlet Fresh Waters Closed to King Salmon Fishing — Mat-Su",
+   "effective_from": "2026-02-09",
+   "effective_to": "2026-12-31",
+   "id": "adfg-44e0f34b001771e7",
+   "scope_review": true,
+   "species": [
+    "chinook"
+   ],
+   "title": "West Cook Inlet Fresh Waters Closed to King Salmon Fishing - West Cook Inlet Fresh Waters Closed to King Salmon Fishing — Mat-Su",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=3977",
+   "water_ids": [],
+   "zones": [
+    "west-cook-inlet"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Anchorage\n(Anchorage) – The Alaska Department of Fish and Game (ADF&G) is increasing the sport fish bag and possession limits for salmon, other than king salmon, 16 inches or greater in length, to six fish per day and six fish in possession in the Ship Creek drainage from its mouth upstream to a cable 100 feet downstream of the Chugach Power Plant dam. This regulation change is effective 12:01 a.m. Friday, August 7 through 11:59 p.m. Thursday, December 31, 2026.\nCurrent surveys indicate that more than 1,100 coho salmon have made it upstream of the sport fishery and have reached the section surrounding the William Jack Hernandez Sport Fish Hatchery, with fish still entering the creek daily. Based on current counts, enough coho salmon are expected to fulfill the hatchery coho salmon broodstock needs while also providing for natural spawning and fish viewing at Ship Creek. Therefore, it is justified to increase the salmon bag and possession limits to provide anglers with additional opportunity to harvest surplus hatchery-produced coho salmon still entering Ship Creek.\nThe increased bag and possession limit applies only to salmon other than king salmon. Anglers may retain six salmon per day and six in possession, in combination of coho, chum, sockeye, and pink salmon. Anglers are reminded that, under the emergency order issued on July 1, 2026, king salmon may not be retained for the remainder of the year and must be released immediately.\nFor additional information, please contact Area Management Biologist Brittany Blain-Roth at (907) 267-2186 or Assistant Area Management Biologist Donald Arthur at (907) 267-2225 .",
+   "effective": "Ship Creek Salmon Limits Increased — Anchorage",
+   "effective_from": "2026-08-06",
+   "effective_to": "2026-12-31",
+   "id": "adfg-e9f30303167ff0ff",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Ship Creek Salmon Limits Increased - Ship Creek Salmon Limits Increased — Anchorage",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4101",
+   "water_ids": [
+    "anchorage-bowl/ship-creek"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Anchorage\n(Anchorage) – In favor of protecting king salmon and future fishing opportunities, the Alaska Department of Fish and Game (ADF&G) is implementing a sport fishing regulation change on Ship Creek. Effective 6:00 a.m. Friday, July 3 through 11:59 p.m. Monday, July 13, 2026, Ship Creek is closed to sport fishing from its mouth upstream to a cable 100 feet downstream of the Chugach Power Plant Dam.\nShip Creek will open back up to sport fishing at 12:01 a.m. on Tuesday, July 14. Upon reopening, retention of king salmon will remain prohibited.\nFor additional information, please contact the Anchorage Sport Fish Information Center at (907) 267-2218 .",
+   "effective": "Ship Creek Closed to All Sport Fishing through July 13 — Anchorage",
+   "effective_from": "2026-07-01",
+   "effective_to": "2026-12-31",
+   "id": "adfg-9669fcf62c2d38ad",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Ship Creek Closed to All Sport Fishing through July 13 - Ship Creek Closed to All Sport Fishing through July 13 — Anchorage",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4069",
+   "water_ids": [
+    "anchorage-bowl/ship-creek"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Northern Kenai\n(Soldotna) - To allow anglers additional harvest opportunity of Kasilof River sockeye salmon, the Alaska Department of Fish and Game (ADF&G) is increasing the bag and possession limit for sockeye salmon, 16 inches or greater in length, to six fish per day and twelve fish in possession; however, no more than two salmon per day and two in possession may be coho salmon, in all portions of the Kasilof River open to salmon fishing. These provisions are effective 12:01 a.m. Friday, June 26 through 11:59 p.m. Thursday, December 31, 2026.\nThe biological escapement goal on the Kasilof River is 140,000-320,000 sockeye salmon. Through June 23, a total of 117,665 sockeye salmon have passed the Kasilof River sonar site. The current escapement of sockeye salmon into the Kasilof River is proceeding at a rate that is projected to exceed the biological escapement goal.\nIn addition to increasing the bag and possession limit for sockeye salmon, ADF&G issued emergency order 2-RS-1-32-26 expanding the area open to the personal use dip net fishery on the Kasilof River.\nFor additional information, please contact the Soldotna ADF&G office at (907) 262-9368 .",
+   "effective": "Kasilof River Sockeye Salmon Limits Increased — Northern Kenai",
+   "effective_from": "2026-06-24",
+   "effective_to": "2026-12-31",
+   "id": "adfg-febf35ffceffc829",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Kasilof River Sockeye Salmon Limits Increased - Kasilof River Sockeye Salmon Limits Increased — Northern Kenai",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4058",
+   "water_ids": [
+    "kenai-peninsula/kasilof-river-excluding-crooked-creek-coal-creek-and-tustumena-lake-an"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Bristol Bay\n(Dillingham) - The Alaska Department of Fish and Game (ADF&G) is increasing the bag and possession limits for sockeye salmon to 10 fish in all waters of the Nushagak-Mulchatna River drainage, effective 12:01 a.m. Tuesday, June 30 through 11:59 p.m. Thursday, December 31, 2026. The bag and possession limit for salmon, other than king and sockeye salmon, remains at five fish. These limits are in combination with the more liberal limits for sockeye salmon. The escapement of sockeye salmon in the Nushagak River has exceeded the escapement goal of 370,000 - 900,000 fish. Therefore, it is warranted to increase the bag and possession limit for sockeye salmon in the Nushagak-Mulchatna River sport fishery.\nFor additional information, please contact Assistant Area Management Biologist Greta Hayden-Pless at (907) 842-2427 .",
+   "effective": "Nushagak-Mulchatna Drainage Sockeye Salmon Limits Increased — Bristol Bay",
+   "effective_from": "2026-06-29",
+   "effective_to": "2026-12-31",
+   "id": "adfg-1576942188006cdf",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Nushagak-Mulchatna Drainage Sockeye Salmon Limits Increased - Nushagak-Mulchatna Drainage Sockeye Salmon Limits Increased — Bristol Bay",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4066",
+   "water_ids": [
+    "bristol-bay/nushagak-mulchatna-drainage"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Bristol Bay\n(Dillingham) - The Alaska Department of Fish and Game (ADF&G) is increasing the bag and possession limit for sockeye salmon to 10 fish, with no size limit, in all waters of the Wood River drainage, effective 12:01 a.m. Tuesday, June 30 through 11:59 p.m. Thursday, December 31, 2026. The bag and possession limit for other salmon, except king and sockeye salmon, remains at five fish with no size limit. The limits for salmon, other than king and sockeye salmon, are in combination with the more liberal limits for sockeye salmon. The escapement of sockeye salmon in the Wood River is projecting to exceed the escapement goal of 700,000 – 1,800,000 fish. Therefore, it is warranted to increase the bag and possession limit for sockeye salmon in the Wood River sport fishery.\nFor additional information, please contact Assistant Area Management Biologist Greta Hayden-Pless at (907) 842-2427 .",
+   "effective": "Wood River Drainage Sockeye Salmon Limits Increased — Bristol Bay",
+   "effective_from": "2026-06-29",
+   "effective_to": "2026-12-31",
+   "id": "adfg-7fd8f660edabeb1a",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Wood River Drainage Sockeye Salmon Limits Increased - Wood River Drainage Sockeye Salmon Limits Increased — Bristol Bay",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4065",
+   "water_ids": [
+    "bristol-bay/wood-river-drainage"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Kodiak\n(Kodiak) - In support of increasing harvest opportunities, the Alaska Department of Fish and Game (ADF&G) is restoring the bag and possession limits for sockeye salmon to 5 fish in the Saltery Cove drainage. The salmon bag and possession limit is 5 salmon, other than king salmon, all of which may be any combination of sockeye, chum or pink salmon and only two of which may be coho salmon. This regulatory change is effective 12:01 a.m. Thursday, August 13 through 11:59 p.m. Thursday, December 31, 2026.\nThrough August 10, a total of 17,511 sockeye salmon have passed the Saltery River weir. The escapement goal for sockeye salmon into Saltery Lake is 15,000 to 35,000 fish and typically 90% of the run has passed through the weir by this date. The escapement goal has been exceeded in most of the last 10 years and has now been achieved this season.\nFor additional information, please contact Area Management Biologist Tyler Polum at (907) 486-1880 .",
+   "effective": "Saltery Cove Drainage Sockeye Salmon Limits Restored — Kodiak",
+   "effective_from": "2026-08-12",
+   "effective_to": "2026-12-31",
+   "id": "adfg-43ff44e156b11f54",
+   "scope_review": true,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Saltery Cove Drainage Sockeye Salmon Limits Restored - Saltery Cove Drainage Sockeye Salmon Limits Restored — Kodiak",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4104",
+   "water_ids": [],
+   "zones": [
+    "kodiak-island-fresh-waters"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Kodiak\n(Kodiak) – To protect returning sockeye salmon and ensure fishing opportunities in the future, the Alaska Department of Fish and Game (ADF&G) is reducing the sport fishing limit for sockeye salmon in the Saltery Cove drainage. This emergency order is effective 12:01 a.m. Thursday, July 30 through 11:59 p.m. Thursday, December 31, 2026 and reduces the sockeye salmon limit to two per day and two in possession.\nAdditional action may be taken in the sport fishery to adjust sockeye salmon limits in response to run strength. Limits may be increased if weir counts improve, or further reduced if returns continue to be below expectations.\nFor additional information, please contact Area Management Biologist Tyler Polum at (907) 486-1880 .",
+   "effective": "Saltery Cove Drainage Sockeye Salmon Limits Reduced — Kodiak",
+   "effective_from": "2026-07-28",
+   "effective_to": "2026-12-31",
+   "id": "adfg-0ca8058a4c41f033",
+   "scope_review": true,
+   "species": [
+    "sockeye"
+   ],
+   "title": "Saltery Cove Drainage Sockeye Salmon Limits Reduced - Saltery Cove Drainage Sockeye Salmon Limits Reduced — Kodiak",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4092",
+   "water_ids": [],
+   "zones": [
+    "kodiak-island-fresh-waters"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Kodiak\n(Kodiak) - The Alaska Department of Fish and Game (ADF&G) is increasing the bag limit for sockeye salmon to 10 fish in the Ayakulik River drainage. This regulatory change is effective 12:01 a.m. Friday, June 26 through 11:59 p.m. Thursday, December 31, 2026. The possession limit remains at 10 in the Ayakulik River and all sport fishing for king salmon remains closed. King salmon may not be retained or possessed and must immediately be returned to the water if caught incidentally.\nThrough June 22, a total of 304,580 sockeye salmon have passed the Ayakulik River weir. The escapement goal for sockeye salmon is 200,000 to 400,000 fish and typically 41% of the run has occurred by this date. Based on the current weir counts and recent historical timing of this run, it is projected to exceed the escapement goal.\nFor additional information, please contact Area Management Biologist Mark Witteveen at (907) 486-1880 .",
+   "effective": "Ayakulik River Drainage Sockeye Salmon Limits Increased — Kodiak",
+   "effective_from": "2026-06-24",
+   "effective_to": "2026-12-31",
+   "id": "adfg-ca23af916882c974",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "sockeye"
+   ],
+   "title": "Ayakulik River Drainage Sockeye Salmon Limits Increased - Ayakulik River Drainage Sockeye Salmon Limits Increased — Kodiak",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4059",
+   "water_ids": [
+    "kodiak-island-fresh-waters/ayakulik-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Kodiak\n(Kodiak) - In favor of protecting returning sockeye salmon and ensuring fishing opportunities in the future, the Alaska Department of Fish and Game (ADF&G) is closing sport fishing for sockeye salmon in the Buskin River drainage effective 12:01 a.m. Wednesday, June 24 through 11:59 p.m. Thursday, December 31, 2026. This closure prohibits sport fishing for sockeye salmon, including catch-and-release fishing. During this closure, sockeye salmon may not be targeted, possessed, or retained; sockeye salmon that are caught incidentally while fishing for other species may not be removed from the water and must be released immediately.\nFor additional information, please contact Assistant Area Management Biologist Mark Witteveen at (907) 486-1880 .",
+   "effective": "Buskin River Closed to Sport Fishing for Sockeye Salmon — Kodiak",
+   "effective_from": "2026-06-22",
+   "effective_to": "2026-12-31",
+   "id": "adfg-1bfd512a39b1d5e5",
+   "scope_review": true,
+   "species": [
+    "sockeye"
+   ],
+   "title": "Buskin River Closed to Sport Fishing for Sockeye Salmon - Buskin River Closed to Sport Fishing for Sockeye Salmon — Kodiak",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4052",
+   "water_ids": [],
+   "zones": [
+    "kodiak-island-fresh-waters"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Kodiak\n(Kodiak) - To ensure sustainable harvests of rockfish and implement provisions of the Kodiak Area Rockfish Management Plan, bag and possession limits for rockfish are being modified in the waters of Afognak Island and the Westside and Northeastern parts of Kodiak Island north of Cape Ikolik ( 57° 17.196’ N. lat.), north of the latitude of Dangerous Cape (57° 16.596' N. lat.) and southern Afognak waters south of the latitude of Tonki Cape (58° 21.181’ N. lat.) and south of the latitude of Black Cape (58° 24.583’ N. lat.). This is equivalent to the southern portion of the Afognak District, Westside and Northeast Districts and the part of the Eastside District consisting of groundfish statistical areas 525701 and 525702 north of Dangerous Cape (see attached map). This modification is necessary due to increasing harvest and participation in the fishery, particularly targeting black rockfish, and concerns over long term sustainability of these populations. Preliminary 2025 black rockfish harvests were 8,834 in the Northeast District, 3,595 in the Eastside District, 6,262 in the Afognak District and 5,176 in the Westside District.\nThis regulation restriction is effective 12:01 a.m. Monday, June 1 through 11:59 p.m. Thursday, December 31, 2026. The bag limit for rockfish in this area is five per day, 10 in possession, of which no more than two per day, four in possession may be of a single rockfish species, and no more than one per day, two in possession can be a yelloweye rockfish, and no more than one per day, two in possession can be a black rockfish.\nIn the northern Afognak and Shuyak Islands the harvest of black rockfish has increased significantly since 2019. Bag limits for rockfish in this area will be reduced and will be similar to Cook Inlet rockfish bag limits for regulatory simplicity in management areas that are in close proximity. Recent hydroacoustic surveys aimed at estimating rockfish abundance showed a significant decrease in abundance and density of black rockfish in this area and northern Afognak and Shuyak Islands account for approximately 40% of the harvest of black rockfish in the Afognak District while having the lowest densities of black rockfish found in the Kodiak Management Area.\nIn the waters of northern Afognak and Shuyak Islands, north of the latitude of Tonki Cape (58° 21.181’ N. lat.) and north of the latitude of Black Cape (58° 24.583’ N. lat.), including the waters of Tonki and Perenosa bays between these capes (see attached map), the bag limit for rockfish is 3 per day, of which no more than one may be of a single species effective from 12:01 a.m. Monday, June 1 through 11:59 p.m. Thursday, December 31, 2026.",
+   "effective": "Kodiak and Afognak Islands Rockfish Limits Modified — Kodiak",
+   "effective_from": "2026-03-31",
+   "effective_to": "2026-12-31",
+   "id": "adfg-d15acd3983416ad5",
+   "scope_review": true,
+   "species": [
+    "rockfish"
+   ],
+   "title": "Kodiak and Afognak Islands Rockfish Limits Modified - Kodiak and Afognak Islands Rockfish Limits Modified — Kodiak",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4011",
+   "water_ids": [],
+   "zones": [
+    "kodiak-island-fresh-waters"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Kodiak\n(Kodiak) - To ensure sustainable harvests of lingcod, in the waters of northern Afognak and Shuyak Islands, north of the latitude of Tonki Cape (58° 21.181’ N. lat.) and north of the latitude of Black Cape (58° 24.583’ N. lat.), including the waters of Tonki and Perenosa bays between these capes the bag limit is reduced. This modification is necessary due to increasing harvest and participation in the fishery, particularly with much more restrictive bag limits in adjacent Cook Inlet waters. The bag limit for lingcod is 1 per day, 2 in possession, 35 inches in length or greater. This reduced limit is effective 12:01 a.m. Wednesday, July 1 through 11:59 p.m. Thursday, December 31, 2026.\nIn the northern Afognak and Shuyak Islands the harvest of lingcod has been of particular concern as harvest has increased significantly since 2019. The lingcod bag limit will be similar to the Cook Inlet lingcod bag limit for regulatory simplicity in management areas that are in close proximity. Lingcod harvest in this area accounts for approximately 35% of the total Kodiak Management Area guided lingcod harvest. Little information exists in terms of the population size or structure of lingcod in the Kodiak archipelago, and it is unknown what a sustainable harvest level is for lingcod or how much additional harvest the population can support, particularly in a relatively confined area such as this.\nADF&G will continue to monitor harvests and biological information using saltwater guide logbooks, dockside sampling data, and the Statewide Harvest Survey for this fishery.\nFor additional information, please contact Area Management Biologist Tyler Polum at (907) 486-1880 .",
+   "effective": "Afognak Island Lingcod Limits Reduced — Kodiak",
+   "effective_from": "2026-03-31",
+   "effective_to": "2026-12-31",
+   "id": "adfg-3fb525c09173c673",
+   "scope_review": true,
+   "species": [
+    "lingcod"
+   ],
+   "title": "Afognak Island Lingcod Limits Reduced - Afognak Island Lingcod Limits Reduced — Kodiak",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4009",
+   "water_ids": [],
+   "zones": [
+    "kodiak-island-fresh-waters"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Kuskokwim\n(Fairbanks) – The Alaska Department of Fish and Game is closing the entire Kuskokwim River drainage to sport fishing for coho salmon, effective 12:01 a.m. Sunday, August 9, 2026. This closure prohibits all sport fishing for coho salmon, including catch-and-release fishing. All coho salmon caught incidentally while fishing for other species may not be removed from the water and must be released immediately. In addition, anglers remain limited to using only one unbaited, single-hook, artificial lure when sport fishing for any species in the entire Kuskokwim River drainage.\nThe cumulative count of coho salmon at the Kuskokwim River sonar through August 6, is only 56,293 fish. Historically, 27-54% of the coho salmon run has passed Bethel through August 6. The coho salmon return to the Kuskokwim River drainage appears weak this year. Therefore, a closure of sport fishing for coho salmon in the Kuskokwim River drainage is warranted to help maximize spawning escapement.\nThe department will continue to closely monitor the strength of the coho salmon run. If inseason stock assessment information indicates that coho salmon escapement goals in the Kuskokwim River tributaries will be met, restrictions may be relaxed. For additional information contact John Chythlook, Kuskokwim-Goodnews Area Management Biologist at 907-459-7361 or john.chythlook@alaska.gov.",
+   "effective": "Kuskokwim River Drainage Coho Salmon Sport Fishery Closed — Kuskokwim",
+   "effective_from": "2026-08-07",
+   "effective_to": "2026-12-31",
+   "id": "adfg-108acb87856a127e",
+   "scope_review": false,
+   "species": [
+    "coho"
+   ],
+   "title": "Kuskokwim River Drainage Coho Salmon Sport Fishery Closed - Kuskokwim River Drainage Coho Salmon Sport Fishery Closed — Kuskokwim",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4102",
+   "water_ids": [
+    "kuskokwim-goodnews-drainages/kuskokwim-river-drainage-downstream-of-a-point-located-mile-upstream-o"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Yukon\n(Fairbanks) - To protect chum salmon during periods of low abundance, the Alaska Department of Fish and Game is closing state waters of the Yukon River drainage (excluding the Tanana River drainage) to sport fishing for chum salmon, effective 12:01 a.m. Wednesday, July 22, 2026. This closure prohibits all sport fishing for chum salmon, including catch-and-release fishing. All chum salmon caught incidentally while fishing for other species may not be removed from the water and must be released immediately.\nThe projected return of fall chum salmon is weak, and as a precautionary measure, subsistence and sport fisheries for fall chum salmon will close to attain spawning escapement and meet treaty obligations. Fall chum salmon begin entering the lower river in mid-to-late July. Approximately 15-20% of Yukon River fall chum salmon spawn in Canada, and these fish are managed through the Yukon River Salmon Agreement under the Pacific Salmon Treaty . The treaty requires a minimum number of fish to cross into Canada, and the 2026 run is anticipated to fall below treaty obligations. If inseason stock assessment information indicates that fall chum salmon escapement goals are projected to be achieved and subsistence opportunity in the Yukon River drainage is provided, sport fishing restrictions may be relaxed commensurate with run strength and subsistence restrictions.\nThe U.S. Fish and Wildlife Service Federal Inseason Manager has issued special actions regulating the harvest of salmon for all users in Federal public waters of the Yukon River. Before you go fishing, please look up Yukon River Federal Special Actions at: Fisheries Special Actions:U.S. Department of the Interior or contact the USFWS Federal Yukon River Subsistence Fishery Manager, Holly Carroll; holly_carroll@fws.gov , (907) 351-3029 , or Assistant Manager, Keith Herron; keith_herron@fws.gov, (907) 334-5391 .\nFor additional information, contact Lisa Stuby, Yukon Area Management Biologist, at (907) 459-7202 or lisa.stuby@alaska.gov.",
+   "effective": "Yukon River Drainage Closed to Sport Fishing for Chum Salmon in State Waters — Yukon",
+   "effective_from": "2026-07-15",
+   "effective_to": "2026-12-31",
+   "id": "adfg-f3e6af1509b04937",
+   "scope_review": false,
+   "species": [
+    "chum"
+   ],
+   "title": "Yukon River Drainage Closed to Sport Fishing for Chum Salmon in State Waters - Yukon River Drainage Closed to Sport Fishing for Chum Salmon in State Waters — Yukon",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4082",
+   "water_ids": [
+    "yukon-river-drainage/yukon-river-drainage-from-the-mouth-of-the-tanana-river-upstream-to-an"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Yukon\n(Fairbanks) – Effective July 8, 2026 , the Yukon River drainage (excluding the Tanana River) chum salmon sport fishery will reopen due to a larger-than-anticipated run of summer chum salmon that is forecasted to be well within the escapement goal. As a reminder, an earlier management action closing sport fishing for king salmon in all Yukon River tributaries (i.e. flowing waters, excluding the Tanana River) remains in effect through September 30, 2026. For the remainder of the year, the sport bag and possession limit of salmon (other than king salmon) is 10 fish, no size limit.\nFor additional information contact Lisa Stuby, Yukon Area Management Biologist at 907-459-7202 or lisa.stuby@alaska.gov .",
+   "effective": "Yukon River Drainage Chum Salmon Sport Fishery Closure Rescinded — Yukon",
+   "effective_from": "2026-07-08",
+   "effective_to": "2026-12-31",
+   "id": "adfg-cf3ed83831cf815f",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "chum"
+   ],
+   "title": "Yukon River Drainage Chum Salmon Sport Fishery Closure Rescinded - Yukon River Drainage Chum Salmon Sport Fishery Closure Rescinded — Yukon",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4074",
+   "water_ids": [
+    "yukon-river-drainage/yukon-river-drainage-from-the-mouth-of-the-tanana-river-upstream-to-an"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Yukon\n(Fairbanks) - To protect chum salmon during periods of low abundance, the Alaska Department of Fish and Game is closing the Yukon River drainage (excluding the Tanana River drainage) to sport fishing for chum salmon, effective 12:01 a.m. Friday, May 15 through Thursday, December 31, 2026. This closure prohibits all sport fishing for chum salmon, including catch-and-release fishing. All chum salmon caught incidentally while fishing for other species may not be removed from the water and must be released immediately. As a reminder, an earlier management action closing sport fishing for king salmon in all Yukon River tributaries (i.e. flowing waters, excluding the Tanana River) remains in effect through September 30, 2026.\nThe drainagewide preseason forecast for the summer chum salmon run is 345,600 fish (160,000 to 580,000), which is well-below the escapement goal of 500,000 to 1,200,000. In accordance with the Yukon River Summer Chum Salmon Management Plan (5 AAC 05.362) , when the projected run size of summer chum salmon is 500,000 fish or less, the commercial, personal use, and sport directed chum fisheries will be closed. Also, the primary parent years from 2021 and 2022 did not meet the lower end of the escapement goal with 2021 being the lowest run on record. As a result, the subsistence fishery for summer chum salmon will close on June 1. If inseason stock assessment information indicates that chum salmon spawning escapement goals and subsistence needs in the Yukon River drainage will be met, sport fishing restrictions may be relaxed commensurate with run strength.\nFor additional information contact Lisa Stuby, Yukon Area Management Biologist at 907-459-7202 or lisa.stuby@alaska.gov .",
+   "effective": "Yukon River Drainage Chum Salmon Sport Fishery Closed — Yukon",
+   "effective_from": "2026-05-13",
+   "effective_to": "2026-12-31",
+   "id": "adfg-76176d4c296caff3",
+   "scope_review": false,
+   "species": [
+    "chum"
+   ],
+   "title": "Yukon River Drainage Chum Salmon Sport Fishery Closed - Yukon River Drainage Chum Salmon Sport Fishery Closed — Yukon",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4034",
+   "water_ids": [
+    "yukon-river-drainage/yukon-river-drainage-from-the-mouth-of-the-tanana-river-upstream-to-an"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Tanana\n(Fairbanks) – Effective July 8, 2026 , the Tanana River drainage chum salmon sport fishery will reopen due to a larger-than-anticipated run of summer chum salmon that is forecasted to be well within the escapement goal. As a reminder, an earlier management action closing sport fishing for king salmon in the Tanana River drainage remains in effect through September 30, 2026. For the remainder of the year, the sport bag and possession limit of salmon (other than king salmon) is three fish, no size limit.\nFor additional information, contact Andrew Gryska, Tanana Area Management Biologist, at (907) 459-7339 or andrew.gryska@alaska.gov .",
+   "effective": "Tanana River Drainage Chum Salmon Sport Fishery Closure Rescinded — Tanana",
+   "effective_from": "2026-07-08",
+   "effective_to": "2026-12-31",
+   "id": "adfg-1e4e70ab6c05ba7a",
+   "scope_review": true,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Tanana River Drainage Chum Salmon Sport Fishery Closure Rescinded - Tanana River Drainage Chum Salmon Sport Fishery Closure Rescinded — Tanana",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4076",
+   "water_ids": [],
+   "zones": [
+    "tanana-river-drainage"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Tanana\n(Fairbanks) The Alaska Department of Fish and Game (ADF&G) is closing the Tanana River drainage to sport fishing for chum salmon, effective 12:01 a.m. Monday, June 22, 2026 through Thursday, December 31, 2026. This closure prohibits all sport fishing for chum salmon, including catch-and-release fishing. All chum salmon caught incidentally while fishing for other species may not be removed from the water and must be released immediately. As a reminder, sport fishing for king salmon is closed through September 30.\nThe Yukon River drainagewide summer chum salmon outlook is for a run size of 345,600 fish (range of 160,000 to 580,000 fish), which is below the drainagewide escapement goal of 500,000 to 1,200,000 fish. As of June 16, an estimated 16,632 summer chum salmon were counted past the Pilot Station sonar, compared to the historical median of 60,592. In accordance with the Yukon River Summer Chum Salmon Management Plan (5 AAC 05.362), when the projected run size of summer chum salmon is 500,000 fish or less, the directed commercial, personal use, and sport fish chum fisheries will be closed. The pre-season forecast for fall chum salmon, which enter the Yukon River in late July, is also poor and is not expected to meet spawning escapement goals. If inseason stock assessment information indicates that chum salmon spawning escapement goals and subsistence needs in the Tanana River drainage will be met, sport fishing restrictions may be relaxed commensurate with run strength.\nFor additional information contact Andrew Gryska, Tanana Area Management Biologist, (907) 459-7339 , or Brandy Baker, Tanana Assistant Area Management Biologist (907) 895-4637 .",
+   "effective": "Tanana River Drainage Chum Salmon Sport Fishery Closed — Tanana",
+   "effective_from": "2026-06-17",
+   "effective_to": "2026-12-31",
+   "id": "adfg-182894d1c94dd2b0",
+   "scope_review": true,
+   "species": [
+    "chinook",
+    "chum"
+   ],
+   "title": "Tanana River Drainage Chum Salmon Sport Fishery Closed - Tanana River Drainage Chum Salmon Sport Fishery Closed — Tanana",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4051",
+   "water_ids": [],
+   "zones": [
+    "tanana-river-drainage"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Yakutat\n(Yakutat) - The Alaska Department of Fish and Game is announcing the 2026 sport fishing regulations for king salmon in marine waters of Southeast Alaska and Yakutat. These regulations will be effective 12:01 a.m. Wednesday, April 1, 2026, through 11:59 p.m. Friday, April 30, 2027. The regulations are:\nAlaska Resident The resident bag and possession limit is two king salmon, 28 inches or greater in length; From October 1 through March 31, a resident sport fish angler may use two rods when fishing for king salmon, a person using two rods under this regulation may only retain salmon; Nonresident The nonresident bag and possession limit is one king salmon, 28 inches or greater in length; From January 1 through June 30 , the nonresident annual harvest limit is three king salmon, 28 inches or greater in length; From July 1 through December 31 , the nonresident annual harvest limit is one king salmon, 28 inches or greater in length; any king salmon harvested from January 1 through June 30 will apply towards the one fish annual harvest limit. Immediately upon landing and retaining a king salmon a nonresident must enter the species, date, and location on their sport fishing license or on a nontransferable harvest record. King salmon nonretention areas in the Haines, Skagway, Juneau, Petersburg, Wrangell, and Ketchikan vicinity will be in effect beginning April 1 to protect wild Alaska king salmon stocks. Please see announcements for these areas for additional details.\nWhen fishing in the exclusive economic zone (between 3-200 nautical miles from shore), see map below, all anglers must comply with the regulations established for nonresident anglers, including the annual limits for king salmon.\nFor further information, please contact the Acting Regional Management Coordinator, Troy Tydingco (907) 747-5355 or visit our site .",
+   "effective": "Southeast Alaska Regional King Salmon Sport Fishing Regulations for 2026 — Yakutat",
+   "effective_from": "2026-03-31",
+   "effective_to": "2027-04-30",
+   "id": "adfg-f5d3cf8d0fbedb56",
+   "scope_review": true,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Southeast Alaska Regional King Salmon Sport Fishing Regulations for 2026 - Southeast Alaska Regional King Salmon Sport Fishing Regulations for 2026 — Yakutat",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4005",
+   "water_ids": [],
+   "zones": [
+    "yakutat"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Haines/Skagway\n(Haines) - The Alaska Department of Fish and Game is announcing the 2026 sport fishing regulations for king salmon in marine waters of Southeast Alaska and Yakutat. These regulations will be effective 12:01 a.m. Wednesday, April 1, 2026, through 11:59 p.m. Friday, April 30, 2027. The regulations are:\nAlaska Resident The resident bag and possession limit is two king salmon, 28 inches or greater in length From October 1 through March 31, a resident sport fish angler may use two rods when fishing for king salmon, a person using two rods under this regulation may only retain salmon; Nonresident The nonresident bag and possession limit is one king salmon, 28 inches or greater in length; From April 1 through June 30 , the nonresident annual harvest limit is three king salmon, 28 inches or greater in length; From July 1 through December 31 , the nonresident annual harvest limit is one king salmon, 28 inches or greater in length; any king salmon harvested from January 1 through June 30 will apply towards the one fish annual harvest limit; Immediately upon landing and retaining a king salmon, a nonresident must enter the species, date, and location on their sport fishing license or on a nontransferable harvest record. The Southeast regionwide bag and possession limits above will apply in all areas except as modified below in the vicinity of Haines and Skagway:\nMarine waters near Juneau, Haines, and Skagway, except Seymour Canal : (The waters of District 9 north of a line from Patterson Pt. To Pt. Ellis, District 10, Sections 11-A, 11-B, 11-C, District 12, Portion of Section 13-C southeast of a line between Nismeni Pt. and a point on the Chichagof Island shoreline at 57° 35.59' N. lat., 135° 22.33' W. long., District 14, and District 15)\nApril 1 through June 14: No retention of king salmon. All king salmon caught must be released immediately. In the waters adjacent to the King Salmon River: (Section 11-D, Seymour Canal north of 57° 37' N. latitude, see attached map)",
+   "effective": "Sport Fishing Regulations for King Salmon in Southeast Alaska and the Haines/Skagway Area for 2026 — Haines/Skagway",
+   "effective_from": "2026-03-31",
+   "effective_to": "2027-04-30",
+   "id": "adfg-a893405475ff8245",
+   "scope_review": true,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Sport Fishing Regulations for King Salmon in Southeast Alaska and the Haines/Skagway Area for 2026 - Sport Fishing Regulations for King Salmon in Southeast Alaska and the Haines/Skagway Area for 2026 — Haines/Skagway",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4008",
+   "water_ids": [],
+   "zones": [
+    "haines-skagway"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Juneau\n(Juneau) - The Alaska Department of Fish and Game is announcing the 2026 sport fishing regulations for king salmon in marine waters of Southeast Alaska and Yakutat. These regulations will be effective 12:01 a.m. Wednesday, April 1, 2026, through 11:59 p.m. Friday, April 30, 2027. The regulations are:\nAlaska Resident The resident bag and possession limit is two king salmon, 28 inches or greater in length From October 1 through March 31, a resident sport fish angler may use two rods when fishing for king salmon; a person using two rods under this regulation may only retain salmon. Nonresident The nonresident bag and possession limit is one king salmon, 28 inches or greater in length; From April 1 through June 30 , the nonresident annual harvest limit is three king salmon, 28 inches or greater in length; From July 1 through December 31 , the nonresident annual harvest limit is one king salmon, 28 inches or greater in length; any king salmon harvested from January 1 through June 30 will apply towards the one fish annual harvest limit. Immediately upon landing and retaining a king salmon, a nonresident must enter the species, date, and location on their sport fishing license or on a nontransferable harvest record. The Southeast regionwide bag and possession limits above will apply in all areas except as modified below in the vicinity of Juneau:\nMarine waters near Juneau, Haines, and Skagway, except Seymour Canal : (The waters of District 9 north of a line from Patterson Pt. To Pt. Ellis, District 10, Sections 11-A, 11-B, 11-C, District 12, Portion of Section 13-C southeast of a line between Nismeni Pt. and a point on the Chichagof Island shoreline at 57° 35.59' N. lat., 135° 22.33' W. long., District 14, and District 15)\nApril 1 through June 14: No retention of king salmon. All king salmon caught must be released immediately. In the waters adjacent to the King Salmon River: (Section 11-D, Seymour Canal north of 57° 37' N. latitude, see attached map)",
+   "effective": "Sport Fishing Regulations for King Salmon in Southeast Alaska and the Juneau/Glacier Bay Area for 2026 — Juneau",
+   "effective_from": "2026-03-31",
+   "effective_to": "2027-04-30",
+   "id": "adfg-69b8e13cb9e7e848",
+   "scope_review": true,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Sport Fishing Regulations for King Salmon in Southeast Alaska and the Juneau/Glacier Bay Area for 2026 - Sport Fishing Regulations for King Salmon in Southeast Alaska and the Juneau/Glacier Bay Area for 2026 — Juneau",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4010",
+   "water_ids": [],
+   "zones": [
+    "juneau-glacier-bay"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Petersburg\n(Petersburg) - The Alaska Department of Fish and Game is announcing the 2026 sport fishing regulations for king salmon in marine waters of Southeast Alaska and Yakutat. These regulations will be effective 12:01 a.m. Wednesday, April 1, 2026, through 11:59 p.m. Friday, April 30, 2027. The regulations are:\nAlaska Resident The resident bag and possession limit is two king salmon, 28 inches or greater in length From October 1 through March 31, a resident sport fish angler may use two rods when fishing for king salmon; a person using two rods under this regulation may only retain salmon. Nonresident The nonresident bag and possession limit is one king salmon, 28 inches or greater in length; From April 1 through June 30 , the nonresident annual harvest limit is three king salmon, 28 inches or greater in length; From July 1 through December 31 , the nonresident annual harvest limit is one king salmon, 28 inches or greater in length; any king salmon harvested from January 1 through June 30 will apply towards the one fish annual harvest limit. Immediately upon landing and retaining a king salmon, a nonresident must enter the species, date, and location on their sport fishing license or on a nontransferable harvest record. The Southeast Alaska regionwide bag and possession limits above will apply in all areas except as modified below in the vicinity of Petersburg/Wrangell:\nIn the majority of marine waters within the Petersburg management area:\n(District 6, District 10, and portions of District 5, District 7, and District 9; see attached map)",
+   "effective": "Sport Fishing Regulations for King Salmon in Southeast Alaska and the Petersburg/Wrangell Area for 2026 — Petersburg",
+   "effective_from": "2026-03-31",
+   "effective_to": "2027-04-30",
+   "id": "adfg-024ae3d5aea2eaf4",
+   "scope_review": true,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Sport Fishing Regulations for King Salmon in Southeast Alaska and the Petersburg/Wrangell Area for 2026 - Sport Fishing Regulations for King Salmon in Southeast Alaska and the Petersburg/Wrangell Area for 2026 — Petersburg",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4012",
+   "water_ids": [],
+   "zones": [
+    "petersberg-wrangell"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Sitka\n(Sitka) - The Alaska Department of Fish and Game is announcing the 2026 sport fishing regulations for king salmon in marine waters of Southeast Alaska and Yakutat. These regulations will be effective 12:01 a.m. Wednesday, April 1, 2026, through 11:59 p.m. Friday, April 30, 2027. The regulations are:\nAlaska Resident The resident bag and possession limit is two king salmon, 28 inches or greater in length; From October 1 through March 31, a resident sport fish angler may use two rods when fishing for king salmon; a person using two rods under this regulation may only retain salmon; Nonresident The nonresident bag and possession limit is one king salmon, 28 inches or greater in length; From January 1 through June 30 , the nonresident annual harvest limit is three king salmon, 28 inches or greater in length; From July 1 through December 31 , the nonresident annual harvest limit is one king salmon, 28 inches or greater in length; any king salmon harvested from January 1 through June 30 will apply towards the one fish annual harvest limit. Immediately upon landing and retaining a king salmon a nonresident must enter the species, date, and location on their sport fishing license or on a nontransferable harvest record. King salmon nonretention areas in the Haines, Skagway, Juneau, Petersburg, Wrangell, and Ketchikan vicinity will be in effect beginning April 1 to protect wild Alaska king salmon stocks. Please see announcements for these areas for additional details.\nWhen fishing in the exclusive economic zone (between 3-200 nautical miles from shore), see map below, all anglers must comply with the regulations established for nonresident anglers, including the annual limits for king salmon.\nFor further information, please contact the Acting Regional Management Coordinator, Troy Tydingco (907) 747-5355 or visit our site .",
+   "effective": "Southeast Alaska Regional King Salmon Sport Fishing Regulations for 2026 — Sitka",
+   "effective_from": "2026-03-31",
+   "effective_to": "2027-04-30",
+   "id": "adfg-122212124d7b7eff",
+   "scope_review": true,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Southeast Alaska Regional King Salmon Sport Fishing Regulations for 2026 - Southeast Alaska Regional King Salmon Sport Fishing Regulations for 2026 — Sitka",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4006",
+   "water_ids": [],
+   "zones": [
+    "sitka"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Prince of Wales Island\n(Craig) - The Alaska Department of Fish and Game is announcing the 2026 sport fishing regulations for king salmon in marine waters of Southeast Alaska and Yakutat. These regulations will be effective 12:01 a.m. Wednesday, April 1, 2026, through 11:59 p.m. Friday, April 30, 2027. The regulations are:\nAlaska Resident The resident bag and possession limit is two king salmon, 28 inches or greater in length From October 1 through March 31, a resident sport fish angler may use two rods when fishing for king salmon, a person using two rods under this regulation may only retain salmon. Nonresident The nonresident bag and possession limit is one king salmon, 28 inches or greater in length; From January 1 through June 30 , the nonresident annual harvest limit is three king salmon, 28 inches or greater in length; From July 1 through December 31 , the nonresident annual harvest limit is one king salmon, 28 inches or greater in length; any king salmon harvested from January 1 through June 30 will apply towards the one fish annual harvest limit. King salmon nonretention areas in the Haines, Skagway, Juneau, Petersburg, Wrangell, and Ketchikan vicinity will be in effect beginning April 1 to protect wild Alaska king salmon stocks. Please see announcements for these areas for additional details.\nWhen fishing in the exclusive economic zone (between 3-200 nautical miles from shore), see map below, all anglers must comply with the regulations established for nonresident anglers, including the one fish annual limit for king salmon.\nFor further information, please contact the Prince of Wales Area Management Biologist, Craig Schwanke (907) 826-2498 or visit our site .",
+   "effective": "Southeast Alaska Regional King Salmon Sport Fishing Regulations for 2026 — Prince of Wales Island",
+   "effective_from": "2026-03-31",
+   "effective_to": "2027-04-30",
+   "id": "adfg-eb3861b46626b140",
+   "scope_review": true,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Southeast Alaska Regional King Salmon Sport Fishing Regulations for 2026 - Southeast Alaska Regional King Salmon Sport Fishing Regulations for 2026 — Prince of Wales Island",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4007",
+   "water_ids": [],
+   "zones": [
+    "prince-of-wales-island"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Ketchikan\n(Ketchikan) - The Alaska Department of Fish and Game is announcing the 2026 sport fishing regulations for king salmon in marine waters of Southeast Alaska and Yakutat. These regulations will be effective 12:01 a.m. Wednesday, April 1, 2026 through 11:59 p.m. Friday, April 30, 2027. The regulations are:\nAlaska Resident The resident bag and possession limit is two king salmon, 28 inches or greater in length From October 1 through March 31, a resident sport fish angler may use two rods when fishing for king salmon, a person using two rods under this regulation may only retain salmon; Nonresident The nonresident bag and possession limit is one king salmon, 28 inches or greater in length; From April 1 through June 30 , the nonresident annual harvest limit is three king salmon, 28 inches or greater in length; From July 1 through December 31 , the nonresident annual harvest limit is one king salmon, 28 inches or greater in length; any king salmon harvested from January 1 through June 30 will apply towards the one fish annual harvest limit; Immediately upon landing and retaining a king salmon a nonresident must enter the species, date and location on their sport fishing license or on a nontransferable harvest record. The Southeast Alaska regionwide bag and possession limits above will apply in all areas except as modified below in the vicinity of Ketchikan:\nNorth and Northeast Behm Canal (see map)\nArea Description : In Behm Canal and the contiguous bays enclosed to the north by a line from the western entrance of Bailey Bay to the northern tip of Hassler Island and a line from Fin Point to Dress Point to a line from Cactus Point to Point Eva.",
+   "effective": "Sport Fishing Regulations for King Salmon in Southeast Alaska and the Ketchikan Area for 2026 — Ketchikan",
+   "effective_from": "2026-03-31",
+   "effective_to": "2027-04-30",
+   "id": "adfg-186864fda5de1912",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Sport Fishing Regulations for King Salmon in Southeast Alaska and the Ketchikan Area for 2026 - Sport Fishing Regulations for King Salmon in Southeast Alaska and the Ketchikan Area for 2026 — Ketchikan",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4013",
+   "water_ids": [
+    "ketchikan-hyder/ketchikan-creek-including-schoenbar-creek",
+    "ketchikan-hyder/ketchikan-road-system-all-drainages-crossed-by-the-ketchikan-city-and-"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Upper Copper Upper Susitna\n(Glennallen) - Anglers are not required to register ice fishing houses with the Alaska Department of Fish and Game in the Upper Copper-Upper Susitna Management Area from Wednesday, September 16, 2026 through May 31, 2027.\nAnglers may use ice fishing houses or “pop-ups” without obtaining or displaying an ADF&G ice house registration number.\nIf you have any questions regarding the use of ice houses, please contact the ADF&G office in Glennallen at (907) 822-3309 .",
+   "effective": "Ice House Registration Requirement for the Upper Copper-Upper Susitna Management Area Suspended Through May 31, 2027 — Upper Copper Upper Susitna",
+   "effective_from": "2026-09-14",
+   "effective_to": "2027-05-31",
+   "id": "adfg-38e89e009df887ad",
+   "scope_review": true,
+   "species": [],
+   "title": "Ice House Registration Requirement for the Upper Copper-Upper Susitna Management Area Suspended Through May 31, 2027 - Ice House Registration Requirement for the Upper Copper-Upper Susitna Management Area Suspended Through May 31, 2027 — Upper Copper Upper Susitna",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4113",
+   "water_ids": [],
+   "zones": [
+    "upper-copper-river-and-upper-susitna-river-area"
+   ]
+  }
+ ],
+ "published": "2026-10-21T12:40:05.000Z",
+ "snapshot_day": "2026-10-21",
+ "source_checked": "2026-10-21T12:40:05.000Z",
+ "state": "AK"
+}

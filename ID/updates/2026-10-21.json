@@ -1,0 +1,83 @@
+{
+ "closures": [
+  {
+   "activity": "fishing",
+   "detail": "Monday, October 19, 2026 - 12:50 PM MDT Idaho Fish and Game is closing all steelhead harvest in the Clearwater River basin, effective at the end of fishing hours on Wednesday, Oct.\n21.\nAnglers will still be able to fish for steelhead in the Clearwater River basin under catch-and-release regulations, but harvest of steelhead will be closed for the remainder of the 2026 season.",
+   "effective": "IDFG closes steelhead harvest in the Clearwater River basin due to low returns",
+   "effective_from": "2026-10-21",
+   "effective_to": null,
+   "id": "idfg-965bc717e1ee5e22",
+   "scope_review": false,
+   "species": [
+    "steelhead"
+   ],
+   "title": "IDFG closes steelhead harvest in the Clearwater River basin due to low returns - IDFG closes steelhead harvest in the Clearwater River basin due to low returns",
+   "units": [],
+   "url": "https://idfg.idaho.gov/article/idfg-closes-steelhead-harvest-clearwater-river-basin-due-low-returns",
+   "water_ids": [
+    "clearwater/clearwater-river",
+    "clearwater/snake-river",
+    "magic-valley/snake-river",
+    "southeast/snake-river",
+    "upper-snake/snake-river",
+    "clearwater/salmon-river",
+    "salmon/salmon-river",
+    "southwest/boise-river",
+    "southwest/salmon-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Tuesday, September 15, 2026 - 1:49 PM MDT Effective at the end of fishing hours on Sept.\n17, Idaho Fish and Game will modify bag limits for both fall Chinook and steelhead fishing.\n“The bag limit modification for fall Chinook is necessary because the return of natural-origin fish is lower than the preseason forecast, and the fishery is approaching the allowable impacts on natural-origin fish,” said Chris Sullivan, Anadromous Fisheries Coordinator.",
+   "effective": "IDFG modifies fall Chinook and steelhead bag limits",
+   "effective_from": "2026-09-17",
+   "effective_to": null,
+   "id": "idfg-a7e4ad97cab8090c",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "steelhead"
+   ],
+   "title": "IDFG modifies fall Chinook and steelhead bag limits - IDFG modifies fall Chinook and steelhead bag limits",
+   "units": [],
+   "url": "https://idfg.idaho.gov/article/idfg-modifies-fall-chinook-and-steelhead-bag-limits",
+   "water_ids": [
+    "clearwater/snake-river",
+    "magic-valley/snake-river",
+    "southeast/snake-river",
+    "upper-snake/snake-river",
+    "clearwater/clearwater-river",
+    "clearwater/salmon-river",
+    "salmon/salmon-river",
+    "southwest/salmon-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Monday, July 27, 2026 - 2:40 PM MDT Check out the Chinook Salmon Seasons and Rules page to check the status of all Idaho Chinook salmon fisheries.\nAll Chinook salmon fishing on the South Fork Salmon River will close effective at the end of fishing hours on July 29.\nCheck out the Chinook Salmon Seasons and Rules page to check the status of all Idaho Chinook salmon fisheries.",
+   "effective": "IDFG issues closure order for Chinook salmon fishing on South Fork Salmon River",
+   "effective_from": "2026-07-29",
+   "effective_to": null,
+   "id": "idfg-864e72778ab089aa",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "IDFG issues closure order for Chinook salmon fishing on South Fork Salmon River - IDFG issues closure order for Chinook salmon fishing on South Fork Salmon River",
+   "units": [],
+   "url": "https://idfg.idaho.gov/article/idfg-issues-closure-order-chinook-salmon-fishing-south-fork-salmon-river",
+   "water_ids": [
+    "clearwater/salmon-river",
+    "salmon/salmon-river",
+    "southwest/salmon-river"
+   ],
+   "zones": []
+  }
+ ],
+ "published": "2026-10-21T12:51:32.000Z",
+ "snapshot_day": "2026-10-21",
+ "source_checked": "2026-10-21T12:51:32.000Z",
+ "state": "ID"
+}

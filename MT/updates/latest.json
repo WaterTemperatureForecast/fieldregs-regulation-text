@@ -2,6 +2,23 @@
  "closures": [
   {
    "activity": "fishing",
+   "detail": "A fishing closure has been lifted on a section of the upper Big Hole River.",
+   "effective": "Fishing closure on section of upper Big Hole River lifted",
+   "effective_from": "2026-10-20",
+   "effective_to": null,
+   "id": "fwp-e0617b3bf741b2c8",
+   "scope_review": false,
+   "species": [],
+   "title": "Fishing closure on section of upper Big Hole River lifted - Fishing closure on section of upper Big Hole River lifted",
+   "units": [],
+   "url": "https://fwp.mt.gov/homepage/news/2026/oct/1020-fishing-closure-on-section-of-upper-big-hole-river-lifted",
+   "water_ids": [
+    "central/big-hole-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
    "detail": "Emergency river closure due to bridge construction (closed to all forms of use) are in effect for the Sun River - beginning 500 feet upstream and ending 500 feet downstream of the Sun River Bridge (also know as Pishkun Road Bridge) starting June 1 .\nAdoption of an emergency rule closing a portion of the Sun River (MAR Notice No.\n2025-301.1).\nThe closure of this portion of the Sun River is in place from June 1 to November 15, 2026.",
    "effective": "Sun River",
    "effective_from": "2026-06-01",
@@ -19,8 +36,8 @@
    "zones": []
   }
  ],
- "published": "2026-10-20T12:54:48.000Z",
- "snapshot_day": "2026-10-20",
- "source_checked": "2026-10-20T12:54:48.000Z",
+ "published": "2026-10-21T12:54:31.000Z",
+ "snapshot_day": "2026-10-21",
+ "source_checked": "2026-10-21T12:54:31.000Z",
  "state": "MT"
 }
