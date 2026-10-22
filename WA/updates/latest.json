@@ -2,6 +2,93 @@
  "closures": [
   {
    "activity": "fishing",
+   "detail": "Closes all fishing.",
+   "effective": "Oct. 24, 2026, until further notice.",
+   "effective_from": "2026-10-24",
+   "effective_to": null,
+   "id": "wdfw-1d5c5fcdad5a375a",
+   "scope_review": false,
+   "species": [],
+   "title": "Copalis River, Joe Creek, and Moclips River closing to all fishing - Oct. 24, 2026, until further notice.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/copalis-river-joe-creek-and-moclips-river-closing-all-fishing-2026-10",
+   "water_ids": [
+    "puget-sound-coastal/copalis-river-grays-harbor-co",
+    "puget-sound-coastal/joe-creek-grays-harbor-co",
+    "puget-sound-coastal/moclips-river-grays-harbor-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Closes all fishing.\nClosed to all fishing.",
+   "effective": "Oct. 24, 2026, until further notice.",
+   "effective_from": "2026-10-24",
+   "effective_to": null,
+   "id": "wdfw-f7597114a124220a",
+   "scope_review": false,
+   "species": [],
+   "title": "Upper Quinault River from the mouth at the upper end of Lake Quinault to Olympic National Park Boundary. - Oct. 24, 2026, until further notice.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/upper-quinault-river-closing-all-fishing-2026-10",
+   "water_ids": [
+    "puget-sound-coastal/quinault-river-upper-grays-harbor-jefferson-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Closes all fishing.",
+   "effective": "Oct. 24, 2026, until further notice.",
+   "effective_from": "2026-10-24",
+   "effective_to": null,
+   "id": "wdfw-0c2f7ed07508977a",
+   "scope_review": false,
+   "species": [],
+   "title": "Salmon River, outside of Quinault Indian Reservation and Olympic National Park. - Oct. 24, 2026, until further notice.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/salmon-river-closing-all-fishing-2026-10",
+   "water_ids": [
+    "puget-sound-coastal/salmon-river-jefferson-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Closes all fishing.",
+   "effective": "Oct. 24, 2026, until further notice.",
+   "effective_from": "2026-10-24",
+   "effective_to": null,
+   "id": "wdfw-2b8a2004bb6cd846",
+   "scope_review": true,
+   "species": [],
+   "title": "Marine Area 2-1 (Willapa Bay). - Oct. 24, 2026, until further notice.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/marine-area-2-1-willapa-bay-close-all-recreational-fishing-2026-10",
+   "water_ids": [],
+   "zones": [
+    "marine-area-2"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Closes all fishing.",
+   "effective": "Oct. 24, 2026, until further notice.",
+   "effective_from": "2026-10-24",
+   "effective_to": null,
+   "id": "wdfw-ce35de13593c8362",
+   "scope_review": true,
+   "species": [],
+   "title": "Marine Area 2-2 (Grays Harbor) including Humptulips North Bay and East Grays Harbor but excluding the Ocean Shores and Westport boat basins. - Oct. 24, 2026, until further notice.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/marine-area-2-2-grays-harbor-closing-all-fishing-2026-10",
+   "water_ids": [],
+   "zones": [
+    "marine-area-2"
+   ]
+  },
+  {
+   "activity": "fishing",
    "detail": "Closes all fishing on the Clearwater River.\nClosed to all fishing.",
    "effective": "Oct. 16, 2026, until further notice.",
    "effective_from": "2026-10-16",
@@ -363,6 +450,31 @@
   },
   {
    "activity": "fishing",
+   "detail": "Reduces the salmon daily limit to two hatchery coho salmon.\nThe daily limit is two hatchery coho. Minimum size is 12 inches. Release all salmon other than hatchery coho.",
+   "effective": "Oct. 23–Nov. 30, 2026.",
+   "effective_from": "2026-10-23",
+   "effective_to": "2026-11-30",
+   "id": "wdfw-0cce11695a1b1aa5",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Dungeness River from the mouth to the Gray Wolf River at Dungeness Forks Campground. - Oct. 23–Nov. 30, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/hatchery-coho-daily-limit-reduced-dungeness-river-2026-10",
+   "water_ids": [
+    "puget-sound-coastal/dungeness-river-clallam-co",
+    "puget-sound-coastal/gray-wolf-river-clallam-jefferson-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
    "detail": "Opens the Icicle River to retention of coho salmon.\nMinimum size is 12 inches. Daily limit is two coho. Release all salmon other than coho. Fishing with bait (including scents and flavors) is prohibited. Night closure in effect.",
    "effective": "Sept. 30–Nov. 30, 2026.",
    "effective_from": "2026-09-30",
@@ -426,8 +538,8 @@
    ]
   }
  ],
- "published": "2026-10-21T12:59:16.000Z",
- "snapshot_day": "2026-10-21",
- "source_checked": "2026-10-21T12:59:16.000Z",
+ "published": "2026-10-22T12:58:46.000Z",
+ "snapshot_day": "2026-10-22",
+ "source_checked": "2026-10-22T12:58:46.000Z",
  "state": "WA"
 }

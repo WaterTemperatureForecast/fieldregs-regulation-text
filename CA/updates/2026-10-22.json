@@ -1,0 +1,162 @@
+{
+ "closures": [
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/21/2026 8:40 AM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 22 - Oct 23",
+   "effective_from": "2026-10-22",
+   "effective_to": "2026-10-23",
+   "id": "cdfw-4667761151a4aff5",
+   "scope_review": false,
+   "species": [],
+   "title": "Eel River - Oct 22 - Oct 23",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [
+    "north-coast/eel-river-humboldt-lake-mendocino-and-trinity-cos",
+    "north-coast/eel-river-humboldt-lake-mendocino-and-trinity-cos-section-8-00-low-flo"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/21/2026 8:40 AM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 22 - Oct 23",
+   "effective_from": "2026-10-22",
+   "effective_to": "2026-10-23",
+   "id": "cdfw-84787e64e8b0c46e",
+   "scope_review": true,
+   "species": [],
+   "title": "South Fork Eel River - Oct 22 - Oct 23",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [],
+   "zones": [
+    "north-coast"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/21/2026 8:40 AM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 22 - Oct 23",
+   "effective_from": "2026-10-22",
+   "effective_to": "2026-10-23",
+   "id": "cdfw-fc8e72637ffff0a4",
+   "scope_review": true,
+   "species": [],
+   "title": "Middle Fork Eel River - Oct 22 - Oct 23",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [],
+   "zones": [
+    "north-coast"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/21/2026 8:40 AM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 22 - Oct 23",
+   "effective_from": "2026-10-22",
+   "effective_to": "2026-10-23",
+   "id": "cdfw-8d2efd89611fe870",
+   "scope_review": true,
+   "species": [],
+   "title": "Van Duzen River - Oct 22 - Oct 23",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [],
+   "zones": [
+    "north-coast"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/21/2026 8:40 AM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 22 - Oct 23",
+   "effective_from": "2026-10-22",
+   "effective_to": "2026-10-23",
+   "id": "cdfw-d49f90656be08b9d",
+   "scope_review": false,
+   "species": [],
+   "title": "Mad River - Oct 22 - Oct 23",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [
+    "north-coast/mad-river-and-tributaries-humboldt-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/21/2026 8:40 AM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 22 - Oct 23",
+   "effective_from": "2026-10-22",
+   "effective_to": "2026-10-23",
+   "id": "cdfw-1650a032cb12820a",
+   "scope_review": false,
+   "species": [],
+   "title": "Mattole River - Oct 22 - Oct 23",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [
+    "north-coast/mattole-river-humboldt-co-also-see-ection-8-00-a-low-flow-restrictions"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/21/2026 8:40 AM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 22 - Oct 23",
+   "effective_from": "2026-10-22",
+   "effective_to": "2026-10-23",
+   "id": "cdfw-df936ef1c74a6d9e",
+   "scope_review": false,
+   "species": [],
+   "title": "Redwood Creek - Oct 22 - Oct 23",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [
+    "north-coast/redwood-creek-humboldt-co-also-see-section-8-00-a-low-flow-restriction"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/21/2026 8:40 AM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 22 - Oct 23",
+   "effective_from": "2026-10-22",
+   "effective_to": "2026-10-23",
+   "id": "cdfw-fd653d37c2ca8ec1",
+   "scope_review": false,
+   "species": [],
+   "title": "Smith River - Oct 22 - Oct 23",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [
+    "north-coast/smith-river-del-norte-co-yearly-limits-apply-for-entire-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/21/2026 8:40 AM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 22 - Oct 23",
+   "effective_from": "2026-10-22",
+   "effective_to": "2026-10-23",
+   "id": "cdfw-27a8c690e3d05539",
+   "scope_review": true,
+   "species": [],
+   "title": "Mendocino Coast Streams - Oct 22 - Oct 23",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [],
+   "zones": [
+    "north-coast"
+   ]
+  }
+ ],
+ "published": "2026-10-22T12:48:07.000Z",
+ "snapshot_day": "2026-10-22",
+ "source_checked": "2026-10-22T12:48:07.000Z",
+ "state": "CA"
+}
