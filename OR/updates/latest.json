@@ -48,26 +48,6 @@
   },
   {
    "activity": "fishing",
-   "detail": "In the Yaquina River and Bay from the visible ends of jetty tips to Simpson Creek and Big Elk Creek from the mouth to Bear Creek\nThe daily adult wild coho salmon bag limit is one fish in aggregate;\nNo more than three adult wild coho salmon may be retained for the period in aggregate; and\nThe daily jack wild coho salmon bag limit is one fish in aggregate.",
-   "effective": "Effective September 19 through October 25 and November 1 through November 7, 2026",
-   "effective_from": "2026-09-19",
-   "effective_to": "2026-10-25",
-   "id": "odfw-a8e7cdbcc556291d",
-   "scope_review": false,
-   "species": [
-    "coho"
-   ],
-   "title": "Yaquina River and Bay, Big Elk Creek - Effective September 19 through October 25 and November 1 through November 7, 2026",
-   "units": [],
-   "url": "https://myodfw.com/articles/regulation-updates",
-   "water_ids": [
-    "northwest/big-elk-creek",
-    "northwest/yaquina-river-and-bay"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
    "detail": "In the Nehalem River (mainstem) and Bay from the tips of the jetties upstream to the Miami-Foley Road Bridge and in the North Fork Nehalem River from the mouth upstream to the North Fork Road Bridge at Aldervale\nThe daily adult wild coho salmon bag limit is one fish in aggregate;\nNo more than three adult wild coho salmon may be retained for the period in aggregate; and\nThe daily jack wild coho salmon bag limit is one fish in aggregate",
    "effective": "Effective September 9 through October 28, 2026, on Wednesdays, Saturdays, and Sundays",
    "effective_from": "2026-09-09",
@@ -1624,8 +1604,8 @@
    ]
   }
  ],
- "published": "2026-10-25T12:57:13.000Z",
- "snapshot_day": "2026-10-25",
- "source_checked": "2026-10-25T12:57:13.000Z",
+ "published": "2026-10-26T12:57:00.000Z",
+ "snapshot_day": "2026-10-26",
+ "source_checked": "2026-10-26T12:57:00.000Z",
  "state": "OR"
 }
