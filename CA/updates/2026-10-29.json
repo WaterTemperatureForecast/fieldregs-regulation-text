@@ -1,0 +1,265 @@
+{
+ "closures": [
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/28/2026 9:00 AM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 29 - Oct 30",
+   "effective_from": "2026-10-29",
+   "effective_to": "2026-10-30",
+   "id": "cdfw-7c4f36136e5ba683",
+   "scope_review": false,
+   "species": [],
+   "title": "Eel River - Oct 29 - Oct 30",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [
+    "north-coast/eel-river-humboldt-lake-mendocino-and-trinity-cos",
+    "north-coast/eel-river-humboldt-lake-mendocino-and-trinity-cos-section-8-00-low-flo"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/28/2026 9:00 AM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 29 - Oct 30",
+   "effective_from": "2026-10-29",
+   "effective_to": "2026-10-30",
+   "id": "cdfw-364a3d00a4e1cd34",
+   "scope_review": true,
+   "species": [],
+   "title": "South Fork Eel River - Oct 29 - Oct 30",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [],
+   "zones": [
+    "north-coast"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/28/2026 9:00 AM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 29 - Oct 30",
+   "effective_from": "2026-10-29",
+   "effective_to": "2026-10-30",
+   "id": "cdfw-1ee9e57ef7f504ad",
+   "scope_review": true,
+   "species": [],
+   "title": "Middle Fork Eel River - Oct 29 - Oct 30",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [],
+   "zones": [
+    "north-coast"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/28/2026 9:00 AM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 29 - Oct 30",
+   "effective_from": "2026-10-29",
+   "effective_to": "2026-10-30",
+   "id": "cdfw-27796674cc58e8f8",
+   "scope_review": true,
+   "species": [],
+   "title": "Van Duzen River - Oct 29 - Oct 30",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [],
+   "zones": [
+    "north-coast"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/28/2026 9:00 AM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 29 - Oct 30",
+   "effective_from": "2026-10-29",
+   "effective_to": "2026-10-30",
+   "id": "cdfw-74cf2bc7f72b60ec",
+   "scope_review": false,
+   "species": [],
+   "title": "Mad River - Oct 29 - Oct 30",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [
+    "north-coast/mad-river-and-tributaries-humboldt-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/28/2026 9:00 AM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 29 - Oct 30",
+   "effective_from": "2026-10-29",
+   "effective_to": "2026-10-30",
+   "id": "cdfw-661692698a4cd6df",
+   "scope_review": false,
+   "species": [],
+   "title": "Mattole River - Oct 29 - Oct 30",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [
+    "north-coast/mattole-river-humboldt-co-also-see-ection-8-00-a-low-flow-restrictions"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/28/2026 9:00 AM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 29 - Oct 30",
+   "effective_from": "2026-10-29",
+   "effective_to": "2026-10-30",
+   "id": "cdfw-fd486750db68e135",
+   "scope_review": false,
+   "species": [],
+   "title": "Redwood Creek - Oct 29 - Oct 30",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [
+    "north-coast/redwood-creek-humboldt-co-also-see-section-8-00-a-low-flow-restriction"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/28/2026 9:00 AM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 29 - Oct 30",
+   "effective_from": "2026-10-29",
+   "effective_to": "2026-10-30",
+   "id": "cdfw-e9fd8b7eef15e8ae",
+   "scope_review": false,
+   "species": [],
+   "title": "Smith River - Oct 29 - Oct 30",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [
+    "north-coast/smith-river-del-norte-co-yearly-limits-apply-for-entire-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/28/2026 9:00 AM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 29 - Oct 30",
+   "effective_from": "2026-10-29",
+   "effective_to": "2026-10-30",
+   "id": "cdfw-7e19fae030fe3473",
+   "scope_review": true,
+   "species": [],
+   "title": "Mendocino Coast Streams - Oct 29 - Oct 30",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [],
+   "zones": [
+    "north-coast"
+   ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Central Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/28/2026 12:15 PM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 29 - Oct 30",
+   "effective_from": "2026-10-29",
+   "effective_to": "2026-10-30",
+   "id": "cdfw-39d10dcca85ae479",
+   "scope_review": false,
+   "species": [],
+   "title": "Russian River - Oct 29 - Oct 30",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/Central-Coast",
+   "water_ids": [
+    "north-central/russian-river-and-tributaries-sonoma-and-mendocino-cos-lso-see-section"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Central Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/28/2026 12:15 PM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 29 - Oct 30",
+   "effective_from": "2026-10-29",
+   "effective_to": "2026-10-30",
+   "id": "cdfw-204ffbf6e8e7fbcd",
+   "scope_review": false,
+   "species": [],
+   "title": "Napa River - Oct 29 - Oct 30",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/Central-Coast",
+   "water_ids": [
+    "north-central/napa-river-and-tributaries-napa-co-also-see-section-8-00-b-low-flow-re",
+    "north-central/the-napa-river-napa-county-between-trancas-avenue-in-napa-and-oakville"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Central Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/28/2026 12:15 PM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 29 - Oct 30",
+   "effective_from": "2026-10-29",
+   "effective_to": "2026-10-30",
+   "id": "cdfw-8759f5a2e6fcd779",
+   "scope_review": false,
+   "species": [],
+   "title": "Gualala River - Oct 29 - Oct 30",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/Central-Coast",
+   "water_ids": [
+    "north-central/gualala-river-mendocino-and-sonoma-cos-also-see-section-8-00-b-main-st"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Central Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/28/2026 12:15 PM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 29 - Oct 30",
+   "effective_from": "2026-10-29",
+   "effective_to": "2026-10-30",
+   "id": "cdfw-10f122bb19ed7b88",
+   "scope_review": false,
+   "species": [],
+   "title": "Russian Gulch - Oct 29 - Oct 30",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/Central-Coast",
+   "water_ids": [
+    "north-central/russian-gulch-and-tributaries-sonoma-co-main-stem-below-the-confluence"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Central Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/28/2026 12:15 PM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 29 - Oct 30",
+   "effective_from": "2026-10-29",
+   "effective_to": "2026-10-30",
+   "id": "cdfw-4d75cd89850b0767",
+   "scope_review": false,
+   "species": [],
+   "title": "Salmon Creek - Oct 29 - Oct 30",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/Central-Coast",
+   "water_ids": [
+    "north-central/salmon-creek-and-tributaries-sonoma-co-also-see-section-8-00-b-low-flo"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Central Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 10/28/2026 12:15 PM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Oct 29 - Oct 30",
+   "effective_from": "2026-10-29",
+   "effective_to": "2026-10-30",
+   "id": "cdfw-685b0d61c3dbfa27",
+   "scope_review": true,
+   "species": [],
+   "title": "Walker Creek - Oct 29 - Oct 30",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/Central-Coast",
+   "water_ids": [],
+   "zones": [
+    "north-central"
+   ]
+  }
+ ],
+ "published": "2026-10-29T12:48:00.000Z",
+ "snapshot_day": "2026-10-29",
+ "source_checked": "2026-10-29T12:48:00.000Z",
+ "state": "CA"
+}

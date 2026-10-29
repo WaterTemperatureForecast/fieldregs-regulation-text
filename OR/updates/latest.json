@@ -48,71 +48,6 @@
   },
   {
    "activity": "fishing",
-   "detail": "In the Nehalem River (mainstem) and Bay from the tips of the jetties upstream to the Miami-Foley Road Bridge and in the North Fork Nehalem River from the mouth upstream to the North Fork Road Bridge at Aldervale\nThe daily adult wild coho salmon bag limit is one fish in aggregate;\nNo more than three adult wild coho salmon may be retained for the period in aggregate; and\nThe daily jack wild coho salmon bag limit is one fish in aggregate",
-   "effective": "Effective September 9 through October 28, 2026, on Wednesdays, Saturdays, and Sundays",
-   "effective_from": "2026-09-09",
-   "effective_to": "2026-10-28",
-   "id": "odfw-74ffb9607fa38217",
-   "scope_review": false,
-   "species": [
-    "coho"
-   ],
-   "title": "Nehalem River (Mainstem), Bay, and North Fork - Effective September 9 through October 28, 2026, on Wednesdays, Saturdays, and Sundays",
-   "units": [],
-   "url": "https://myodfw.com/articles/regulation-updates",
-   "water_ids": [
-    "northwest/nehalem-river-mainstem-and-bay",
-    "northwest/nehalem-river-north-fork"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
-   "detail": "In the Tillamook Bay from the tips of the jetties upstream to the Highway 101 bridges on the Miami, Kilchis, Wilson, and Trask Rivers and upstream to the Burton Bridge on the Tillamook River\nThe daily adult wild coho salmon bag limit is one fish in aggregate;\nNo more than three adult wild coho salmon may be retained for the period in aggregate; and\nThe daily jack wild coho salmon bag limit is one fish in aggregate.",
-   "effective": "Effective September 9 through October 28, 2026, on Wednesday, Saturdays, and Sundays",
-   "effective_from": "2026-09-09",
-   "effective_to": "2026-10-28",
-   "id": "odfw-8de5f0e6d2f4314c",
-   "scope_review": false,
-   "species": [
-    "coho"
-   ],
-   "title": "Tillamook Bay - Miami, Kilchis, Wilson, Trask, and Tillamook Rivers - Effective September 9 through October 28, 2026, on Wednesday, Saturdays, and Sundays",
-   "units": [],
-   "url": "https://myodfw.com/articles/regulation-updates",
-   "water_ids": [
-    "northwest/kilchis-river",
-    "northwest/miami-river",
-    "northwest/tillamook-bay",
-    "northwest/tillamook-river",
-    "northwest/trask-river-mainstem",
-    "northwest/wilson-river-mainstem"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
-   "detail": "In the Nestucca River and Bay upstream to the Cloverdale Bridge and in the Little Nestucca River from the Nestucca Bay upstream to the Highway 130 Bridge (MP 1.2):\nThe daily adult wild coho salmon bag limit is one fish in aggregate;\nNo more than three adult wild coho salmon may be retained for the period in aggregate; and\nThe daily jack wild coho salmon bag limit is one fish in aggregate.",
-   "effective": "Effective September 9 through October 28, 2026, on Wednesdays, Saturdays, and Sundays",
-   "effective_from": "2026-09-09",
-   "effective_to": "2026-10-28",
-   "id": "odfw-812bfde11b1ded09",
-   "scope_review": false,
-   "species": [
-    "coho"
-   ],
-   "title": "Nestucca River & Bay, Little Nestucca River, and Three Rivers - Effective September 9 through October 28, 2026, on Wednesdays, Saturdays, and Sundays",
-   "units": [],
-   "url": "https://myodfw.com/articles/regulation-updates",
-   "water_ids": [
-    "northwest/little-nestucca-river",
-    "northwest/nestucca-river-and-bay",
-    "northwest/three-rivers"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
    "detail": "Spears and spear guns may be used to harvest smallmouth bass.\nUse of bait is allowed all year .",
    "effective": "Effective June 1 through October 31, 2026",
    "effective_from": "2026-06-01",
@@ -1604,8 +1539,8 @@
    ]
   }
  ],
- "published": "2026-10-28T12:57:13.000Z",
- "snapshot_day": "2026-10-28",
- "source_checked": "2026-10-28T12:57:13.000Z",
+ "published": "2026-10-29T12:56:49.000Z",
+ "snapshot_day": "2026-10-29",
+ "source_checked": "2026-10-29T12:56:49.000Z",
  "state": "OR"
 }
