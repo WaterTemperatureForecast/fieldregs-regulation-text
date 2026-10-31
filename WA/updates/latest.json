@@ -363,7 +363,7 @@
    "units": [],
    "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/stillaguamish-river-close-all-fishing-oct-9-2026-10",
    "water_ids": [
-    "puget-sound-coastal/stillaguamish-river-snohomish-co"
+    "puget-sound-coastal/stillaguamish-river-south-fork-snohomish-co"
    ],
    "zones": []
   },
@@ -382,6 +382,31 @@
    "water_ids": [
     "puget-sound-coastal/snohomish-river-snohomish-co",
     "puget-sound-coastal/snoqualmie-river-king-snohomish-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Opens salmon retention. Closes Dolly Varden/bull trout retention. Implements a night closure for all species.\nCascade River from mouth to Rockport-Cascade Road Bridge: Salmon daily limit is four coho. Minimum size is 12 inches. Release all salmon other than coho. Release Dolly Varden/bull trout. Night closure in effect for all species. Skagit River from the mouth to Cascade River Road (Marblemount Bridge): Salmon daily limit is two coho. Minimum size is 12 inches. Release all salmon other than coho. Release Dolly Varden/bull trout. Night closure in effect for all species.",
+   "effective": "Nov. 1–15, 2026.",
+   "effective_from": "2026-11-01",
+   "effective_to": "2026-11-15",
+   "id": "wdfw-b227ac6fa44afa54",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye",
+    "bull_trout"
+   ],
+   "title": "Salmon seasons for Skagit and Cascade rivers extended through Nov. 15 - Nov. 1–15, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/salmon-seasons-skagit-and-cascade-rivers-extended-through-nov-15-2026-10",
+   "water_ids": [
+    "puget-sound-coastal/cascade-river-skagit-co"
    ],
    "zones": []
   },
@@ -497,10 +522,27 @@
    "zones": [
     "marine-area-4"
    ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "Opens game fish seasons.\nAll",
+   "effective": "Nov. 1, 2026–Jan. 14, 2027.",
+   "effective_from": "2026-11-01",
+   "effective_to": "2027-01-14",
+   "id": "wdfw-637730e508a94934",
+   "scope_review": false,
+   "species": [],
+   "title": "Tokul Creek, from mouth to the posted boundary marker downstream of diversion dam. - Nov. 1, 2026–Jan. 14, 2027.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/tokul-creek-opens-game-fish-nov-1-2026-10",
+   "water_ids": [
+    "puget-sound-coastal/tokul-creek-king-co"
+   ],
+   "zones": []
   }
  ],
- "published": "2026-10-30T13:00:15.000Z",
- "snapshot_day": "2026-10-30",
- "source_checked": "2026-10-30T13:00:15.000Z",
+ "published": "2026-10-31T14:11:45.000Z",
+ "snapshot_day": "2026-10-31",
+ "source_checked": "2026-10-31T14:11:45.000Z",
  "state": "WA"
 }

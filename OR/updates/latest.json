@@ -22,7 +22,6 @@
    "water_ids": [
     "southwest/coos-bay",
     "southwest/coos-river-mainstem",
-    "southwest/coos-river-south-fork",
     "southwest/millicoma-river-mainstem"
    ],
    "zones": []
@@ -62,11 +61,9 @@
    "url": "https://myodfw.com/articles/regulation-updates",
    "water_ids": [
     "southwest/coquille-river-east-fork",
-    "southwest/coquille-river-mainstem",
     "southwest/coquille-river-middle-fork",
     "southwest/coquille-river-north-fork",
-    "southwest/coquille-river-south-fork",
-    "southwest/coquille-valley-wildlife-area"
+    "southwest/coquille-river-south-fork"
    ],
    "zones": []
   },
@@ -84,6 +81,35 @@
    "url": "https://myodfw.com/articles/regulation-updates",
    "water_ids": [
     "willamette/eagle-creek-clackamas-river"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Catch-and-release for rainbow trout and,\nFlies and artificial lures only for all species.\nAll other permanent rules for Southeast Zone, as stated in the current Oregon Sport Fishing Regulations, remain in effect.",
+   "effective": "Effective June 15, 2026 through October 31, 2026",
+   "effective_from": "2026-06-15",
+   "effective_to": "2026-10-31",
+   "id": "odfw-90b730f92952fb57",
+   "scope_review": false,
+   "species": [
+    "trout",
+    "brook_trout",
+    "cutthroat",
+    "lake_trout"
+   ],
+   "title": "Crystal Creek, Fourmile Creek, Fourmile Canal, Harriman Creek, Klamath Lake, Odessa Creek, Recreation Creek, Short Creek, and Thomason Creek - Effective June 15, 2026 through October 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "southeast/crystal-creek",
+    "southeast/fourmile-creek",
+    "southeast/harriman-creek",
+    "southeast/klamath-lake",
+    "southeast/odessa-creek",
+    "southeast/recreation-creek",
+    "southeast/short-creek",
+    "southeast/thomason-creek"
    ],
    "zones": []
   },
@@ -245,11 +271,11 @@
   },
   {
    "activity": "fishing",
-   "detail": "August 1 through October 31, seven days per week, or until the quota is caught\nDaily bag limit: 2 Pacific halibut",
+   "detail": "August 1 through October 31 , seven days per week, or until the quota is caught\nDaily bag limit: 2 Pacific halibut",
    "effective": "Summer All-Depth Season: August 1 through October 31",
    "effective_from": "2026-08-01",
    "effective_to": "2026-10-31",
-   "id": "odfw-ecfd6b03111a6336",
+   "id": "odfw-31348523c44803b6",
    "scope_review": true,
    "species": [
     "halibut"
@@ -264,11 +290,11 @@
   },
   {
    "activity": "fishing",
-   "detail": "May 1 through October 31, seven days per week, or until the quota is caught\nDaily bag limit: 2 Pacific halibut",
+   "detail": "May 1 through October 31 , seven days per week, or until the quota is caught\nDaily bag limit: 2 Pacific halibut",
    "effective": "Nearshore Season: May 1 through October 31",
    "effective_from": "2026-05-01",
    "effective_to": "2026-10-31",
-   "id": "odfw-d0af4ffd8ab7adeb",
+   "id": "odfw-559e69fac6783755",
    "scope_review": true,
    "species": [
     "halibut"
@@ -283,11 +309,11 @@
   },
   {
    "activity": "fishing",
-   "detail": "May 1 through October 31, seven days per week, or until the quota is caught\nDaily bag limit: 2 Pacific halibut",
+   "detail": "May 1 through October 31 , seven days per week, or until the quota is caught\nDaily bag limit: 2 Pacific halibut",
    "effective": "May 1 through October 31",
    "effective_from": "2026-05-01",
    "effective_to": "2026-10-31",
-   "id": "odfw-822d00282e0360d4",
+   "id": "odfw-ee716f307272f37c",
    "scope_review": true,
    "species": [
     "halibut"
@@ -439,8 +465,7 @@
    "units": [],
    "url": "https://myodfw.com/articles/regulation-updates",
    "water_ids": [
-    "northwest/nehalem-river-mainstem-and-bay",
-    "northwest/nehalem-river-north-fork"
+    "northwest/nehalem-river-mainstem-and-bay"
    ],
    "zones": []
   },
@@ -546,9 +571,8 @@
    "units": [],
    "url": "https://myodfw.com/articles/regulation-updates",
    "water_ids": [
-    "southwest/north-umpqua-river",
     "southwest/smith-river-mainstem-douglas-co",
-    "southwest/south-umpqua-river",
+    "southwest/smith-river-north-fork-douglas-co",
     "southwest/umpqua-river-mainstem"
    ],
    "zones": []
@@ -606,8 +630,7 @@
    "units": [],
    "url": "https://myodfw.com/articles/regulation-updates",
    "water_ids": [
-    "northwest/nehalem-river-mainstem-and-bay",
-    "northwest/nehalem-river-north-fork"
+    "northwest/nehalem-river-mainstem-and-bay"
    ],
    "zones": []
   },
@@ -777,8 +800,6 @@
    "url": "https://myodfw.com/articles/regulation-updates",
    "water_ids": [
     "northwest/alsea-river-mainstem-and-bay",
-    "northwest/alsea-river-north-fork",
-    "northwest/alsea-river-south-fork",
     "northwest/drift-creek-alsea-basin-lincoln-co",
     "northwest/drift-creek-siletz-basin-lincoln-co"
    ],
@@ -841,7 +862,6 @@
    "water_ids": [
     "southwest/coos-bay",
     "southwest/coos-river-mainstem",
-    "southwest/coos-river-south-fork",
     "southwest/millicoma-river-mainstem"
    ],
    "zones": []
@@ -953,7 +973,8 @@
    "scope_review": false,
    "species": [
     "coho",
-    "sturgeon"
+    "sturgeon",
+    "nongame"
    ],
    "title": "Willamette River - Effective August 1, 2026 through December 31, 2026",
    "units": [],
@@ -1539,8 +1560,8 @@
    ]
   }
  ],
- "published": "2026-10-30T12:56:56.000Z",
- "snapshot_day": "2026-10-30",
- "source_checked": "2026-10-30T12:56:56.000Z",
+ "published": "2026-10-31T13:55:31.000Z",
+ "snapshot_day": "2026-10-31",
+ "source_checked": "2026-10-31T13:55:31.000Z",
  "state": "OR"
 }

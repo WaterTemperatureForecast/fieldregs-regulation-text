@@ -7,7 +7,7 @@
    "effective_from": "2026-10-21",
    "effective_to": null,
    "id": "idfg-965bc717e1ee5e22",
-   "scope_review": false,
+   "scope_review": true,
    "species": [
     "steelhead"
    ],
@@ -34,7 +34,7 @@
    "effective_from": "2026-09-17",
    "effective_to": null,
    "id": "idfg-a7e4ad97cab8090c",
-   "scope_review": false,
+   "scope_review": true,
    "species": [
     "chinook",
     "steelhead"
@@ -48,6 +48,9 @@
     "southeast/snake-river",
     "upper-snake/snake-river",
     "clearwater/clearwater-river",
+    "clearwater/clearwater-river-north-fork",
+    "clearwater/clearwater-river-middle-fork",
+    "clearwater/clearwater-river-south-fork",
     "clearwater/salmon-river",
     "salmon/salmon-river",
     "southwest/salmon-river"
@@ -69,15 +72,13 @@
    "units": [],
    "url": "https://idfg.idaho.gov/article/idfg-issues-closure-order-chinook-salmon-fishing-south-fork-salmon-river",
    "water_ids": [
-    "clearwater/salmon-river",
-    "salmon/salmon-river",
-    "southwest/salmon-river"
+    "southwest/salmon-river-south-fork-and-tributaries"
    ],
    "zones": []
   }
  ],
- "published": "2026-10-30T12:51:43.000Z",
- "snapshot_day": "2026-10-30",
- "source_checked": "2026-10-30T12:51:43.000Z",
+ "published": "2026-10-31T13:44:41.000Z",
+ "snapshot_day": "2026-10-31",
+ "source_checked": "2026-10-31T13:44:41.000Z",
  "state": "ID"
 }
