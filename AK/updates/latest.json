@@ -62,42 +62,6 @@
   },
   {
    "activity": "fishing",
-   "detail": "Juneau\n(Juneau) - The Alaska Department of Fish and Game (ADF&G) is announcing that effective at 12:01 a.m. Tuesday, September 1, sport fishing will be closed for all species in the marine waters of Gastineau Channel south of a line between Salmon Creek Bridge and a regulatory marker across the channel on Douglas Island and north of the Juneau-Douglas Bridge (see map below). Sport fishing is prohibited in this area for all species. This closure means that no sport fishing, including catch and release fishing, can occur in this area. This closure will be in effect through 11:59 p.m. Saturday, October 31, 2026.\nBased on the low number of tag recoveries, and the low number of coho salmon that have returned to the Douglas Island Pink and Chum (DIPAC) Inc. Macaulay Salmon Hatchery to date, a poor run of hatchery produced coho salmon is projected. Currently, the run is not expected to meet hatchery broodstock goals in 2026. This closure is necessary to maximize the number of coho salmon returning to the hatchery for broodstock. If more coho salmon return than projected, this closure may be rescinded or the closed area reduced.",
-   "effective": "North Gastineau Channel Closed to Sport Fishing — Juneau",
-   "effective_from": "2026-08-27",
-   "effective_to": "2026-10-31",
-   "id": "adfg-a59c5b55f57771c3",
-   "scope_review": true,
-   "species": [],
-   "title": "North Gastineau Channel Closed to Sport Fishing - North Gastineau Channel Closed to Sport Fishing — Juneau",
-   "units": [],
-   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4110",
-   "water_ids": [],
-   "zones": [
-    "juneau-glacier-bay"
-   ]
-  },
-  {
-   "activity": "fishing",
-   "detail": "Sitka\n(Sitka) - Beginning 12:01 a.m. Tuesday, September 15 through 11:59 p.m. Saturday, October 31, 2026; Bear Cove near Medvejie Hatchery and Deep Inlet are closed to sport fishing for coho salmon. The closure includes all waters of Bear Cove east of a line from a point on the Baranof Island shoreline at 57° 00.63' N. lat., 135° 09.80' W. long. to a point on the Baranof Island shoreline at 57° 01.07' N. lat., 135° 09.93' W. long. and the waters of Deep Inlet south of a line defined as 56° 59.342’N. latitude, 135° 18.541’W. longitude. to 56° 59.07’N. latitude, 135° 18.555’W. longitude (see below maps).\nCoho salmon returning to Medvejie Hatchery and Deep Inlet are not expected to meet broodstock goals in 2026. To date, no coho salmon have been collected for broodstock while 2,250 are needed. This closure is necessary to attempt to provide enough coho salmon to meet broodstock needs.\nAnyone needing further information concerning this announcement please contact the Division of Sport Fish in Sitka at (907) 747-5355 .",
-   "effective": "Sport Fishing for Coho Salmon Closed in Bear Cove and Deep Inlet — Sitka",
-   "effective_from": "2026-09-11",
-   "effective_to": "2026-10-31",
-   "id": "adfg-efbbf31ad020c325",
-   "scope_review": false,
-   "species": [
-    "coho"
-   ],
-   "title": "Sport Fishing for Coho Salmon Closed in Bear Cove and Deep Inlet - Sport Fishing for Coho Salmon Closed in Bear Cove and Deep Inlet — Sitka",
-   "units": [],
-   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4114",
-   "water_ids": [
-    "sitka/bear-cove-in-silver-bay-in-all-waters-east-of-a-line-between-the-adf-g"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
    "detail": "Yakutat\n**We apologize for the second email; there was an error in the map key. Please find the fixed map included below.**\n(Yakutat ) - The Alaska Department of Fish and Game announced today that the lingcod sport fishing seasons, bag and possession limits, annual limits, and size limits have been established for the Yakutat area (see attached map). In this area the following regulations apply:\nYakutat Area Alaska Residents\nSeason: May 16 – November 30 . 1 per day, 2 in possession, no size limit. Nonresidents",
    "effective": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Yakutat Area — Yakutat",
    "effective_from": "2026-04-06",
@@ -697,6 +661,23 @@
   },
   {
    "activity": "fishing",
+   "detail": "Kuskokwim\nIn addition, anglers remain limited to using only one unbaited, single-hook, artificial lure when sport fishing for any species in the entire Kuskokwim River drainage.",
+   "effective": "Kuskokwim River Drainage Coho Salmon Sport Fishery Closed — Kuskokwim",
+   "effective_from": "2026-08-09",
+   "effective_to": "2026-12-31",
+   "id": "adfg-749f9502c1e9cd91",
+   "scope_review": false,
+   "species": [],
+   "title": "Kuskokwim River Drainage Coho Salmon Sport Fishery Closed - Kuskokwim River Drainage Coho Salmon Sport Fishery Closed — Kuskokwim",
+   "units": [],
+   "url": "https://www.adfg.alaska.gov/sf/EONR/index.cfm?ADFG=region.NR&Year=2026&NRID=4102",
+   "water_ids": [
+    "kuskokwim-goodnews-drainages/kuskokwim-river-drainage-downstream-of-a-point-located-mile-upstream-o"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
    "detail": "Yukon\n(Fairbanks) - To protect chum salmon during periods of low abundance, the Alaska Department of Fish and Game is closing state waters of the Yukon River drainage (excluding the Tanana River drainage) to sport fishing for chum salmon, effective 12:01 a.m. Wednesday, July 22, 2026. This closure prohibits all sport fishing for chum salmon, including catch-and-release fishing. All chum salmon caught incidentally while fishing for other species may not be removed from the water and must be released immediately.\nThe projected return of fall chum salmon is weak, and as a precautionary measure, subsistence and sport fisheries for fall chum salmon will close to attain spawning escapement and meet treaty obligations. Fall chum salmon begin entering the lower river in mid-to-late July. Approximately 15-20% of Yukon River fall chum salmon spawn in Canada, and these fish are managed through the Yukon River Salmon Agreement under the Pacific Salmon Treaty . The treaty requires a minimum number of fish to cross into Canada, and the 2026 run is anticipated to fall below treaty obligations. If inseason stock assessment information indicates that fall chum salmon escapement goals are projected to be achieved and subsistence opportunity in the Yukon River drainage is provided, sport fishing restrictions may be relaxed commensurate with run strength and subsistence restrictions.\nThe U.S. Fish and Wildlife Service Federal Inseason Manager has issued special actions regulating the harvest of salmon for all users in Federal public waters of the Yukon River. Before you go fishing, please look up Yukon River Federal Special Actions at: Fisheries Special Actions:U.S. Department of the Interior or contact the USFWS Federal Yukon River Subsistence Fishery Manager, Holly Carroll; holly_carroll@fws.gov , (907) 351-3029 , or Assistant Manager, Keith Herron; keith_herron@fws.gov, (907) 334-5391 .\nFor additional information, contact Lisa Stuby, Yukon Area Management Biologist, at (907) 459-7202 or lisa.stuby@alaska.gov.",
    "effective": "Yukon River Drainage Closed to Sport Fishing for Chum Salmon in State Waters — Yukon",
    "effective_from": "2026-07-22",
@@ -901,8 +882,8 @@
    ]
   }
  ],
- "published": "2026-10-31T12:40:02.000Z",
- "snapshot_day": "2026-10-31",
- "source_checked": "2026-10-31T12:40:02.000Z",
+ "published": "2026-11-01T13:40:03.000Z",
+ "snapshot_day": "2026-11-01",
+ "source_checked": "2026-11-01T13:40:03.000Z",
  "state": "AK"
 }
