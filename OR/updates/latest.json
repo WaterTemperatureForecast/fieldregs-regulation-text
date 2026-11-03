@@ -712,23 +712,77 @@
   },
   {
    "activity": "fishing",
-   "detail": "In the Chetco River From the mouth to Nook Creek, Pistol River from the mouth to Deep Creek, and Winchuck River from the mouth to Wheeler Creek\nThe daily adult wild Chinook salmon bag limit is one fish; and\nNo more than five adult wild Chinook salmon may be retained for the period.",
+   "detail": "In the Pistol River from the mouth to Deep Creek\nThe daily adult wild Chinook salmon bag limit is one fish; and\nNo more than five adult wild Chinook salmon may be retained for the period.",
    "effective": "Effective September 1 through December 31, 2026",
    "effective_from": "2026-09-01",
    "effective_to": "2026-12-31",
-   "id": "odfw-6d40af073095b693",
+   "id": "odfw-819a571039bbc6f3",
    "scope_review": false,
    "species": [
     "chinook"
    ],
-   "title": "Chetco River, Pistol River, and Winchuck River - Effective September 1 through December 31, 2026",
+   "title": "Pistol River - Effective September 1 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "southwest/pistol-river",
+    "southwest/pistol-river#0p"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Chetco River from the mouth to Nook Creek\nThe daily adult wild Chinook salmon bag limit is one fish; and\nNo more than five adult wild Chinook salmon may be retained for the period.",
+   "effective": "Effective September 1 through December 31",
+   "effective_from": "2026-09-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-f840cda1eba9bb5b",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Chetco River - Effective September 1 through December 31",
    "units": [],
    "url": "https://myodfw.com/articles/regulation-updates",
    "water_ids": [
     "southwest/chetco-river",
-    "southwest/chetco-river#0",
-    "southwest/pistol-river",
-    "southwest/pistol-river#0p",
+    "southwest/chetco-river#0"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Chetco River from RM 2.2 to Nook Creek\nAngling is restricted to fly fishing (must include strike indicator) and bobber fishing (see Bobber Fishing Rule, page 18 of 2026 Oregon Sport Fishing Regulations book).",
+   "effective": "Effective September 1 through December 31, 2026",
+   "effective_from": "2026-09-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-0bcb9ef434fca44a",
+   "scope_review": false,
+   "species": [],
+   "title": "Chetco River - Effective September 1 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "southwest/chetco-river",
+    "southwest/chetco-river#0p"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "In the Winchuck River from the Mouth to Wheeler Creek\nThe daily adult wild Chinook salmon bag limit is one fish;\nNo more than five adult wild Chinook salmon may be retained for the period; and\nAngling is restricted to fly fishing (must include strike indicator) and bobber fishing (see Bobber Fishing Rule, page 18 of 2026 Oregon Sport Fishing Regulations book).",
+   "effective": "Effective September 1 through December 31, 2026",
+   "effective_from": "2026-09-01",
+   "effective_to": "2026-12-31",
+   "id": "odfw-98b94b0420b7c3f5",
+   "scope_review": false,
+   "species": [
+    "chinook"
+   ],
+   "title": "Winchuck River - Effective September 1 through December 31, 2026",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
     "southwest/winchuck-river",
     "southwest/winchuck-river#0"
    ],
@@ -1351,8 +1405,8 @@
    ]
   }
  ],
- "published": "2026-11-02T14:40:57.000Z",
- "snapshot_day": "2026-11-02",
- "source_checked": "2026-11-02T14:40:57.000Z",
+ "published": "2026-11-03T14:42:06.000Z",
+ "snapshot_day": "2026-11-03",
+ "source_checked": "2026-11-03T14:42:06.000Z",
  "state": "OR"
 }
