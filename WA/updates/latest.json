@@ -257,6 +257,50 @@
   },
   {
    "activity": "fishing",
+   "detail": "Opens longfin smelt dipping.\nLongfin smelt open. Daily limit 10 pounds. Smelt may only be taken by dip net. No minimum size; all smelt caught must be kept and count towards the daily limit. Each smelt harvester must use a separate container to hold their catch and the container must be in the harvester’s possession or identified with the harvester’s name. Night Closure in effect: closed to fishing from one hour after official sunset to one hour before official sunrise.",
+   "effective": "Nov. 4–Nov. 30, 2026.",
+   "effective_from": "2026-11-04",
+   "effective_to": "2026-11-30",
+   "id": "wdfw-d657ec2a682de8bd",
+   "scope_review": false,
+   "species": [
+    "smelt"
+   ],
+   "title": "Nooksack River, from Lummi Nation Reservation Boundary upstream to the yellow marker approximately 0.65 miles upstream of Slater Road at 48° 49’ 30.1”N, 122° 35' 08.3”W. - Nov. 4–Nov. 30, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/lower-nooksack-smelt-fishery-opens-2026-11",
+   "water_ids": [
+    "puget-sound-coastal/nooksack-river-whatcom-co",
+    "puget-sound-coastal/nooksack-river-whatcom-co#0p"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Closes all recreational salmon fishing.",
+   "effective": "Nov. 5–30, 2026.",
+   "effective_from": "2026-11-05",
+   "effective_to": "2026-11-30",
+   "id": "wdfw-ad39d6154d2686a8",
+   "scope_review": true,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Marine Area 12, including the Hoodsport Hatchery Zone. - Nov. 5–30, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/marine-area-12-hood-canal-salmon-seasons-close-nov-5-2026-11",
+   "water_ids": [],
+   "zones": [
+    "marine-area-12"
+   ]
+  },
+  {
+   "activity": "fishing",
    "detail": "Closes all salmon fishing.",
    "effective": "Nov. 1–30, 2026.",
    "effective_from": "2026-11-01",
@@ -394,8 +438,8 @@
    "zones": []
   }
  ],
- "published": "2026-11-04T14:59:02.000Z",
- "snapshot_day": "2026-11-04",
- "source_checked": "2026-11-04T14:59:02.000Z",
+ "published": "2026-11-05T14:58:03.000Z",
+ "snapshot_day": "2026-11-05",
+ "source_checked": "2026-11-05T14:58:03.000Z",
  "state": "WA"
 }
