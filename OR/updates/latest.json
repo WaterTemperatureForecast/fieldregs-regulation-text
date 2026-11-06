@@ -932,34 +932,11 @@
   },
   {
    "activity": "fishing",
-   "detail": "Area definition: From the Buoy 10 line upstream to a line at the west end of Puget Island extending from green navigation marker #39 on the Washington shore to green navigation marker #41, then to red navigation marker #42, and terminating at red navigation marker #44A on the Oregon shore.\nWild coho must be released.",
-   "effective": "Buoy 10 upstream to west Puget Island: August 1 through December 31",
-   "effective_from": "2026-08-01",
-   "effective_to": "2026-12-31",
-   "id": "odfw-675f2b824689bad2",
-   "scope_review": false,
-   "species": [
-    "coho"
-   ],
-   "title": "Columbia River - Buoy 10 upstream to west Puget Island: August 1 through December 31",
-   "units": [],
-   "url": "https://myodfw.com/articles/regulation-updates",
-   "water_ids": [
-    "columbia-river/columbia-river",
-    "columbia-river/columbia-river#0p",
-    "columbia-river/columbia-river#1p",
-    "columbia-river/columbia-river#2p",
-    "columbia-river/columbia-river#3p"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
-   "detail": "Area definition: From the Buoy 10 line upstream to a line at the west end of Puget Island extending from green navigation marker #39 on the Washington shore to green navigation marker #41, then to red navigation marker #42, and terminating at red navigation marker #44A on the Oregon shore.\nNovember 1 – December 31: Retention of hatchery coho and hatchery steelhead allowed; all Chinook must be released. The daily adult bag limit is two hatchery salmon/steelhead (coho and steelhead only).",
-   "effective": "Buoy 10 upstream to west Puget Island: November 1 – December 31",
+   "detail": "November 1 – December 31: Retention of hatchery coho and hatchery steelhead allowed; all Chinook must be released. The daily adult bag limit is two hatchery salmon/steelhead (coho and steelhead only).",
+   "effective": "Buoy 10 upstream to Bonneville Dam: November 1 – December 31",
    "effective_from": "2026-11-01",
    "effective_to": "2026-12-31",
-   "id": "odfw-ba5e57c67eaea96c",
+   "id": "odfw-b1d3bec3fe03ccf8",
    "scope_review": false,
    "species": [
     "chinook",
@@ -970,87 +947,26 @@
     "sockeye",
     "steelhead"
    ],
-   "title": "Columbia River - Buoy 10 upstream to west Puget Island: November 1 – December 31",
+   "title": "Columbia River - Buoy 10 upstream to Bonneville Dam: November 1 – December 31",
    "units": [],
    "url": "https://myodfw.com/articles/regulation-updates",
    "water_ids": [
-    "columbia-river/columbia-river",
-    "columbia-river/columbia-river#0p",
-    "columbia-river/columbia-river#1p",
-    "columbia-river/columbia-river#2p",
-    "columbia-river/columbia-river#3p"
+    "columbia-river/columbia-river"
    ],
    "zones": []
   },
   {
    "activity": "fishing",
-   "detail": "Area definition: From a line at the west end of Puget Island extending from green navigation marker #39 on the Washington shore to green navigation marker #41, then to red navigation marker #42, and terminating at red navigation marker #44A on the Oregon shore upstream to a line projected from the Warrior Rock lighthouse on the Oregon shore to the marker atop the piling dolphin located at the downstream end of Bachelor Island on the Washington shore. Note: the definition of the Warrior Rock/Bachelor Island line changed beginning in 2025.\nNovember 1 – December 31: Retention of hatchery coho and hatchery steelhead allowed; all Chinook must be released. The daily adult bag limit is two hatchery salmon/steelhead (coho and steelhead only).",
-   "effective": "West Puget Island upstream to Warrior Rock/Bachelor Island: November 1 – December 31",
-   "effective_from": "2026-11-01",
-   "effective_to": "2026-12-31",
-   "id": "odfw-90ebe480058e3cb2",
-   "scope_review": false,
-   "species": [
-    "chinook",
-    "coho",
-    "chum",
-    "pink",
-    "salmon",
-    "sockeye",
-    "steelhead"
-   ],
-   "title": "Columbia River - West Puget Island upstream to Warrior Rock/Bachelor Island: November 1 – December 31",
-   "units": [],
-   "url": "https://myodfw.com/articles/regulation-updates",
-   "water_ids": [
-    "columbia-river/columbia-river",
-    "columbia-river/columbia-river#0p",
-    "columbia-river/columbia-river#1p",
-    "columbia-river/columbia-river#2p",
-    "columbia-river/columbia-river#3p"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
-   "detail": "Area definition: From a line projected from the Warrior Rock lighthouse on the Oregon shore to the marker atop the piling dolphin located at the downstream end of Bachelor Island on the Washington shore upstream to Bonneville Dam. Note: the definition of the Warrior Rock/Bachelor Island line changed beginning in 2025.\nNovember 1 – December 31: Retention of hatchery coho and hatchery steelhead allowed; all Chinook must be released. The daily adult bag limit is two hatchery salmon/steelhead (coho and steelhead only).",
-   "effective": "Warrior Rock/Bachelor Island upstream to Bonneville Dam: November 1 – December 31",
-   "effective_from": "2026-11-01",
-   "effective_to": "2026-12-31",
-   "id": "odfw-6f648c554ca7cc0c",
-   "scope_review": false,
-   "species": [
-    "chinook",
-    "coho",
-    "chum",
-    "pink",
-    "salmon",
-    "sockeye",
-    "steelhead"
-   ],
-   "title": "Columbia River - Warrior Rock/Bachelor Island upstream to Bonneville Dam: November 1 – December 31",
-   "units": [],
-   "url": "https://myodfw.com/articles/regulation-updates",
-   "water_ids": [
-    "columbia-river/columbia-river",
-    "columbia-river/columbia-river#0p",
-    "columbia-river/columbia-river#1p",
-    "columbia-river/columbia-river#2p"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
-   "detail": "Wild coho caught downstream of the Hood River Bridge from August 1 – September 11 and October 16 – December 31 must be released.",
-   "effective": "Bonneville Dam upstream to The Dalles Dam: August 1 – September 11 and October 16 – December 31",
+   "detail": "Wild coho caught downstream of the Hood River Bridge from October 16 – December 31 must be released.",
+   "effective": "Bonneville Dam upstream to The Dalles Dam: October 16 – December 31",
    "effective_from": "2026-10-16",
    "effective_to": "2026-12-31",
-   "id": "odfw-faae079fda30bbf7",
+   "id": "odfw-a5ca4761a5a695b8",
    "scope_review": false,
    "species": [
     "coho"
    ],
-   "title": "Columbia River - Bonneville Dam upstream to The Dalles Dam: August 1 – September 11 and October 16 – December 31",
+   "title": "Columbia River - Bonneville Dam upstream to The Dalles Dam: October 16 – December 31",
    "units": [],
    "url": "https://myodfw.com/articles/regulation-updates",
    "water_ids": [
@@ -1104,17 +1020,17 @@
   },
   {
    "activity": "fishing",
-   "detail": "September 28 – December 31: The retention of coho is allowed; all Chinook must be released. The daily adult bag limit is two coho.",
-   "effective": "The Dalles Dam upstream to the Oregon/Washington border (upstream of McNary Dam): September 28 – December 31",
-   "effective_from": "2026-09-28",
+   "detail": "October 1 – December 31: The retention of coho is allowed; all Chinook must be released. The daily adult bag limit is two coho.",
+   "effective": "The Dalles Dam upstream to the Oregon/Washington border (upstream of McNary Dam): October 1 – December 31",
+   "effective_from": "2026-10-01",
    "effective_to": "2026-12-31",
-   "id": "odfw-c520bd39c5e63df3",
+   "id": "odfw-954e671288f8eff2",
    "scope_review": false,
    "species": [
     "chinook",
     "coho"
    ],
-   "title": "Columbia River - The Dalles Dam upstream to the Oregon/Washington border (upstream of McNary Dam): September 28 – December 31",
+   "title": "Columbia River - The Dalles Dam upstream to the Oregon/Washington border (upstream of McNary Dam): October 1 – December 31",
    "units": [],
    "url": "https://myodfw.com/articles/regulation-updates",
    "water_ids": [
@@ -1405,8 +1321,8 @@
    ]
   }
  ],
- "published": "2026-11-05T14:41:11.000Z",
- "snapshot_day": "2026-11-05",
- "source_checked": "2026-11-05T14:41:11.000Z",
+ "published": "2026-11-06T14:41:52.000Z",
+ "snapshot_day": "2026-11-06",
+ "source_checked": "2026-11-06T14:41:52.000Z",
  "state": "OR"
 }

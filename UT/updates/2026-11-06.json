@@ -1,0 +1,29 @@
+{
+ "closures": [
+  {
+   "activity": "fishing",
+   "detail": "Pineview Reservoir (Weber County): Because Pineview Reservoir will be intentionally drawn down this summer (to prepare for installation of a new drinking water pipeline), we're increasing the daily limits as follows:\n12 largemouth or smallmouth bass (a combined total)\n1 tiger muskellunge over 40 inches\nNo limit, all other species\nThis change went into effect July 2, 2026 and will remain in effect until Dec. 31, 2026. We want anglers to harvest more of the fish in the reservoir. (Reducing the population will also help increase the survival of the remaining fish.)",
+   "effective": "2026-07-02 to 2026-12-31",
+   "effective_from": "2026-07-02",
+   "effective_to": "2026-12-31",
+   "id": "dwr-eef56e45197613d9",
+   "scope_review": false,
+   "species": [
+    "bass",
+    "tiger_muskie",
+    "nongame"
+   ],
+   "title": "Pineview Reservoir (Weber County) - 2026-07-02 to 2026-12-31",
+   "units": [],
+   "url": "https://wildlife.utah.gov/pdf/guidebooks/emergency-changes/emergency-change-2026-07-02-pineview-reservoir.pdf",
+   "water_ids": [
+    "statewide/pineview-reservoir"
+   ],
+   "zones": []
+  }
+ ],
+ "published": "2026-11-06T14:57:21.000Z",
+ "snapshot_day": "2026-11-06",
+ "source_checked": "2026-11-06T14:57:21.000Z",
+ "state": "UT"
+}
