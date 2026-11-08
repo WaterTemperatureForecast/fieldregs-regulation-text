@@ -2,6 +2,26 @@
  "closures": [
   {
    "activity": "fishing",
+   "detail": "Returns to permanent rules listed in the Washington Sport Fishing Rules pamphlet .",
+   "effective": "Nov. 6, 2026, until further notice.",
+   "effective_from": "2026-11-06",
+   "effective_to": null,
+   "id": "wdfw-a60406ff3cdcc4d9",
+   "scope_review": false,
+   "species": [],
+   "title": "Green (Duwamish) River, from Auburn Black Diamond Road Bridge upstream to the Tacoma Municipal Boundary Marker. - Nov. 6, 2026, until further notice.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/upper-green-duwamish-river-fishing-closure-rescinded-2026-11",
+   "water_ids": [
+    "puget-sound-coastal/green-duwamish-river-king-co",
+    "puget-sound-coastal/green-duwamish-river-king-co#4",
+    "puget-sound-coastal/green-duwamish-river-king-co#5",
+    "puget-sound-coastal/green-duwamish-river-king-co#6"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
    "detail": "Closes all fishing.",
    "effective": "Oct. 24, 2026, until further notice.",
    "effective_from": "2026-10-24",
@@ -438,8 +458,8 @@
    "zones": []
   }
  ],
- "published": "2026-11-06T14:58:39.000Z",
- "snapshot_day": "2026-11-06",
- "source_checked": "2026-11-06T14:58:39.000Z",
+ "published": "2026-11-07T14:59:44.000Z",
+ "snapshot_day": "2026-11-07",
+ "source_checked": "2026-11-07T14:59:44.000Z",
  "state": "WA"
 }
