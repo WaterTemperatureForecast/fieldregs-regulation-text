@@ -49,95 +49,6 @@
   },
   {
    "activity": "fishing",
-   "detail": "In the Siletz River and Bay up to the marker sign approximately 1200 feet above the Ojalla Bridge and from the marker sign approximately 1200 feet above the Ojalla Bridge to Illahee boat ramp, Drift Creek (Siletz Basin, Lincoln Co.), and Schooner Creek from the mouth to Erickson Creek\nThe daily adult wild coho salmon bag limit is one fish in aggregate;\nNo more than three adult wild coho salmon may be retained for the period in aggregate; and\nThe daily jack wild coho salmon bag limit is one fish in aggregate.",
-   "effective": "Effective September 19 through November 7, 2026",
-   "effective_from": "2026-09-19",
-   "effective_to": "2026-11-07",
-   "id": "odfw-4b8133cf25047aca",
-   "scope_review": false,
-   "species": [
-    "coho"
-   ],
-   "title": "Siletz River and Bay, Drift Creek (Lincoln County), and Schooner Creek - Effective September 19 through November 7, 2026",
-   "units": [],
-   "url": "https://myodfw.com/articles/regulation-updates",
-   "water_ids": [
-    "northwest/drift-creek-siletz-basin-lincoln-co",
-    "northwest/schooner-creek",
-    "northwest/schooner-creek#0",
-    "northwest/siletz-river-and-bay",
-    "northwest/siletz-river-and-bay#0",
-    "northwest/siletz-river-and-bay#1"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
-   "detail": "In the Siletz River and Bay up to the marker sign approximately 1200 feet above the Ojalla Bridge and from the marker sign approximately 1200 feet above the Ojalla Bridge to Illahee boat ramp, Drift Creek (Siletz Basin, Lincoln Co.), and Schooner Creek from the mouth to Erickson Creek\nCoho retention is allowed from the Siletz River and Bay up to the marker sign approx. 1200 feet above the Ojalla Bridge and from the marker sign approx. 1200 ft above the Ojalla Bridge to Illahee boat ramp, Drift Creek (Siletz Basin, Lincoln Co.) from the mouth to the steel bridge entering Mennonite Camp, and Schooner Creek from the mouth to Erickson Creek..",
-   "effective": "Effective October 7 through November 7, 2026",
-   "effective_from": "2026-10-07",
-   "effective_to": "2026-11-07",
-   "id": "odfw-93cad1bb1ce0cc38",
-   "scope_review": false,
-   "species": [
-    "coho"
-   ],
-   "title": "Siletz River and Bay, Drift Creek (Lincoln County), and Schooner Creek - Effective October 7 through November 7, 2026",
-   "units": [],
-   "url": "https://myodfw.com/articles/regulation-updates",
-   "water_ids": [
-    "northwest/drift-creek-siletz-basin-lincoln-co",
-    "northwest/schooner-creek",
-    "northwest/schooner-creek#0",
-    "northwest/siletz-river-and-bay",
-    "northwest/siletz-river-and-bay#0",
-    "northwest/siletz-river-and-bay#1"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
-   "detail": "In the Yaquina River and Bay from the visible ends of jetty tips to Simpson Creek and Big Elk Creek from the mouth to Bear Creek\nThe daily adult wild coho salmon bag limit is one fish in aggregate;\nNo more than three adult wild coho salmon may be retained for the period in aggregate; and\nThe daily jack wild coho salmon bag limit is one fish in aggregate.",
-   "effective": "Effective September 19 through October 25 and November 1 through November 7, 2026",
-   "effective_from": "2026-11-01",
-   "effective_to": "2026-11-07",
-   "id": "odfw-1be993ac4802454f",
-   "scope_review": false,
-   "species": [
-    "coho"
-   ],
-   "title": "Yaquina River and Bay, Big Elk Creek - Effective September 19 through October 25 and November 1 through November 7, 2026",
-   "units": [],
-   "url": "https://myodfw.com/articles/regulation-updates",
-   "water_ids": [
-    "northwest/big-elk-creek",
-    "northwest/big-elk-creek#0",
-    "northwest/yaquina-river-and-bay",
-    "northwest/yaquina-river-and-bay#0"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
-   "detail": "The daily limit of kokanee is 10 per day with no size limit.",
-   "effective": "Effective May 12 through November 7,2026",
-   "effective_from": "2026-05-12",
-   "effective_to": "2026-11-07",
-   "id": "odfw-290d3ded9f2a17dc",
-   "scope_review": true,
-   "species": [
-    "kokanee"
-   ],
-   "title": "Lemolo Reservoir and Hemlock Lake - Effective May 12 through November 7,2026",
-   "units": [],
-   "url": "https://myodfw.com/articles/regulation-updates",
-   "water_ids": [],
-   "zones": [
-    "southwest"
-   ]
-  },
-  {
-   "activity": "fishing",
    "detail": "In the Necanicum River from the mouth to Hwy 53 bridge at Necanicum Jct including Neawanna Cr tidewater below 12 th Ave Bridge\nThe daily adult wild Chinook salmon bag limit is one fish; and\nNo more than five adult wild Chinook salmon may be retained for the period.",
    "effective": "Effective August 1 through November 30, 2026",
    "effective_from": "2026-08-01",
@@ -1321,8 +1232,8 @@
    ]
   }
  ],
- "published": "2026-11-07T14:42:35.000Z",
- "snapshot_day": "2026-11-07",
- "source_checked": "2026-11-07T14:42:35.000Z",
+ "published": "2026-11-08T14:43:16.000Z",
+ "snapshot_day": "2026-11-08",
+ "source_checked": "2026-11-08T14:43:16.000Z",
  "state": "OR"
 }
