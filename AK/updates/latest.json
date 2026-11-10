@@ -6,6 +6,7 @@
    "effective": "SOUTHEAST ALASKA SPORT, PERSONAL USE AND SUBSISTENCE SHRIMP FISHERIES CLOSURE — Southeast",
    "effective_from": "2026-02-26",
    "effective_to": null,
+   "gear_tokens": [],
    "id": "adfg-3a16f3c77a37618b",
    "scope_review": true,
    "species": [
@@ -25,6 +26,7 @@
    "effective": "Regulations for Swan Lake Junior Trout Derby — Sitka",
    "effective_from": "2026-06-03",
    "effective_to": null,
+   "gear_tokens": [],
    "id": "adfg-a3981894803c2fae",
    "scope_review": false,
    "species": [
@@ -48,6 +50,7 @@
    "effective": "Seward Lagoon Youth-Only Fishery Extended Through July 31 — North Gulf Coast \\ Res. Bay",
    "effective_from": "2026-06-25",
    "effective_to": null,
+   "gear_tokens": [],
    "id": "adfg-96c468b3b2d1fac7",
    "scope_review": true,
    "species": [
@@ -67,6 +70,7 @@
    "effective": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Yakutat Area — Yakutat",
    "effective_from": "2026-04-06",
    "effective_to": "2026-11-30",
+   "gear_tokens": [],
    "id": "adfg-903911b81bb8bb8d",
    "scope_review": true,
    "species": [
@@ -86,6 +90,7 @@
    "effective": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Haines and Skagway Area — Haines/Skagway",
    "effective_from": "2026-04-06",
    "effective_to": "2026-11-30",
+   "gear_tokens": [],
    "id": "adfg-3e910c81476f7392",
    "scope_review": true,
    "species": [
@@ -105,6 +110,7 @@
    "effective": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Juneau/Glacier Bay Area — Juneau",
    "effective_from": "2026-04-06",
    "effective_to": "2026-11-30",
+   "gear_tokens": [],
    "id": "adfg-6b81f2f7ee14373a",
    "scope_review": true,
    "species": [
@@ -124,6 +130,7 @@
    "effective": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Petersburg Area — Petersburg",
    "effective_from": "2026-04-06",
    "effective_to": "2026-11-30",
+   "gear_tokens": [],
    "id": "adfg-eb35a3fe6ebb8b2c",
    "scope_review": true,
    "species": [
@@ -143,6 +150,7 @@
    "effective": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Sitka Area — Sitka",
    "effective_from": "2026-04-06",
    "effective_to": "2026-11-30",
+   "gear_tokens": [],
    "id": "adfg-da2924d99c0498b9",
    "scope_review": true,
    "species": [
@@ -162,6 +170,7 @@
    "effective": "CORRECTED - Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Prince of Wales Area — Prince of Wales Island",
    "effective_from": "2026-04-06",
    "effective_to": "2026-11-30",
+   "gear_tokens": [],
    "id": "adfg-3d703e26d6cf6375",
    "scope_review": true,
    "species": [
@@ -181,6 +190,7 @@
    "effective": "CORRECTED- Southeast Alaska 2026 Lingcod Sport Fishing Regulations for the Ketchikan Area — Ketchikan",
    "effective_from": "2026-04-06",
    "effective_to": "2026-11-30",
+   "gear_tokens": [],
    "id": "adfg-d7d2e0130c767f94",
    "scope_review": true,
    "species": [
@@ -200,6 +210,7 @@
    "effective": "Kenai River Drainage Coho Salmon Limit Remains at Two Fish — Northern Kenai",
    "effective_from": "2026-09-01",
    "effective_to": "2026-11-30",
+   "gear_tokens": [],
    "id": "adfg-cb81e4290ace2f35",
    "scope_review": true,
    "species": [
@@ -219,6 +230,7 @@
    "effective": "Southeast Alaska 2026 Demersal Shelf Rockfish Sport Fishing Season Reduced for Nonresident Anglers — Southeast",
    "effective_from": "2026-01-26",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-1b0abf79b07e4490",
    "scope_review": true,
    "species": [
@@ -238,6 +250,7 @@
    "effective": "North Gastineau Channel Saltwaters Reopening to Sport Fishing September 19, 2026 — Juneau",
    "effective_from": "2026-09-19",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-e37ce4b86198e0be",
    "scope_review": true,
    "species": [
@@ -257,6 +270,7 @@
    "effective": "Montana Creek, Peterson Creek and Lagoon Closed to Coho Salmon Fishing — Juneau",
    "effective_from": "2026-08-27",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-8b1b007c6db2f13c",
    "scope_review": false,
    "species": [
@@ -277,6 +291,7 @@
    "effective": "SECTION 11-A AND TENAKEE INLET PERSONAL USE AND SPORT SHRIMP POT FISHERIES REMAIN CLOSED — Juneau",
    "effective_from": "2025-12-17",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-386c4b82ba9754fa",
    "scope_review": true,
    "species": [
@@ -296,6 +311,7 @@
    "effective": "REDOUBT BAY AND LAKE SUBSISTENCE AND SPORT SOCKEYE SALMON LIMITS INCREASED — Sitka",
    "effective_from": "2026-06-30",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-c6371d87ee305e2f",
    "scope_review": false,
    "species": [
@@ -315,6 +331,7 @@
    "effective": "CORRECTED: Sitka Area Pelagic Rockfish Limit Reduced in the Sitka Area in 2026 — Sitka",
    "effective_from": "2026-01-31",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-977313cbe0cbcb7c",
    "scope_review": true,
    "species": [
@@ -334,6 +351,7 @@
    "effective": "SECIONS 13-B AND 13-C SUBSISTENCE AND SPORT SHRIMP FISHERIES CLOSURE — Sitka",
    "effective_from": "2025-12-15",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-1ea14c654152a93b",
    "scope_review": true,
    "species": [
@@ -353,6 +371,7 @@
    "effective": "Kasaan Bay and Skowl Arm Sport Shrimp Pot Fisheries Remain Closed — Prince of Wales Island",
    "effective_from": "2026-01-06",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-d8c3b54f1b1c5119",
    "scope_review": true,
    "species": [
@@ -372,6 +391,7 @@
    "effective": "Little Susitna & Susitna River Drainages No Retention of Coho Salmon — Mat-Su",
    "effective_from": "2026-08-17",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-c67dfae08e51891f",
    "scope_review": true,
    "species": [
@@ -391,6 +411,7 @@
    "effective": "Susitna and Little Susitna River Drainages No Retention of Coho Salmon — Mat-Su",
    "effective_from": "2026-08-17",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-662f768b71e1abea",
    "scope_review": false,
    "species": [
@@ -412,6 +433,7 @@
    "effective": "West Cook Inlet Fresh Waters Closed to King Salmon Fishing — Mat-Su",
    "effective_from": "2026-02-09",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-44e0f34b001771e7",
    "scope_review": true,
    "species": [
@@ -431,6 +453,7 @@
    "effective": "Ship Creek Salmon Limits Increased — Anchorage",
    "effective_from": "2026-08-07",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-6cd412bdb2243bc4",
    "scope_review": false,
    "species": [
@@ -455,6 +478,7 @@
    "effective": "Kasilof River Sockeye Salmon Limits Increased — Northern Kenai",
    "effective_from": "2026-06-26",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-761761cf969a3da3",
    "scope_review": false,
    "species": [
@@ -479,6 +503,7 @@
    "effective": "Nushagak-Mulchatna Drainage Sockeye Salmon Limits Increased — Bristol Bay",
    "effective_from": "2026-06-30",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-0835afaed940085d",
    "scope_review": false,
    "species": [
@@ -503,6 +528,7 @@
    "effective": "Wood River Drainage Sockeye Salmon Limits Increased — Bristol Bay",
    "effective_from": "2026-06-30",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-9aedf4e0bb81472b",
    "scope_review": false,
    "species": [
@@ -527,6 +553,7 @@
    "effective": "Saltery Cove Drainage Sockeye Salmon Limits Restored — Kodiak",
    "effective_from": "2026-08-13",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-cef2ea91e4bc4f01",
    "scope_review": true,
    "species": [
@@ -551,6 +578,7 @@
    "effective": "Saltery Cove Drainage Sockeye Salmon Limits Reduced — Kodiak",
    "effective_from": "2026-07-30",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-a69b89ea97e65f2a",
    "scope_review": true,
    "species": [
@@ -570,6 +598,7 @@
    "effective": "Ayakulik River Drainage Sockeye Salmon Limits Increased — Kodiak",
    "effective_from": "2026-06-26",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-853c3a73b3e7e7cd",
    "scope_review": false,
    "species": [
@@ -590,6 +619,7 @@
    "effective": "Buskin River Closed to Sport Fishing for Sockeye Salmon — Kodiak",
    "effective_from": "2026-06-24",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-c53a74bc322ba451",
    "scope_review": true,
    "species": [
@@ -609,6 +639,7 @@
    "effective": "Kodiak and Afognak Islands Rockfish Limits Modified — Kodiak",
    "effective_from": "2026-06-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-f72f6d59b698de55",
    "scope_review": true,
    "species": [
@@ -628,6 +659,7 @@
    "effective": "Afognak Island Lingcod Limits Reduced — Kodiak",
    "effective_from": "2026-07-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-f1cc4bc638a6dfdf",
    "scope_review": false,
    "species": [
@@ -647,6 +679,7 @@
    "effective": "Kuskokwim River Drainage Coho Salmon Sport Fishery Closed — Kuskokwim",
    "effective_from": "2026-08-09",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-69a5c877e5ee8a23",
    "scope_review": false,
    "species": [
@@ -666,6 +699,7 @@
    "effective": "Kuskokwim River Drainage Coho Salmon Sport Fishery Closed — Kuskokwim",
    "effective_from": "2026-08-09",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-749f9502c1e9cd91",
    "scope_review": false,
    "species": [],
@@ -683,6 +717,7 @@
    "effective": "Yukon River Drainage Closed to Sport Fishing for Chum Salmon in State Waters — Yukon",
    "effective_from": "2026-07-22",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "adfg-9eae6fe114a0dad8",
    "scope_review": false,
    "species": [
@@ -702,6 +737,7 @@
    "effective": "Southeast Alaska Regional King Salmon Sport Fishing Regulations for 2026 — Yakutat",
    "effective_from": "2026-04-01",
    "effective_to": "2027-04-30",
+   "gear_tokens": [],
    "id": "adfg-cd2fac9432d6b484",
    "scope_review": true,
    "species": [
@@ -726,6 +762,7 @@
    "effective": "Sport Fishing Regulations for King Salmon in Southeast Alaska and the Haines/Skagway Area for 2026 — Haines/Skagway",
    "effective_from": "2026-04-01",
    "effective_to": "2027-04-30",
+   "gear_tokens": [],
    "id": "adfg-6dfcf54af52185e0",
    "scope_review": true,
    "species": [
@@ -750,6 +787,7 @@
    "effective": "Sport Fishing Regulations for King Salmon in Southeast Alaska and the Juneau/Glacier Bay Area for 2026 — Juneau",
    "effective_from": "2026-04-01",
    "effective_to": "2027-04-30",
+   "gear_tokens": [],
    "id": "adfg-29f0c666313313fe",
    "scope_review": true,
    "species": [
@@ -774,6 +812,7 @@
    "effective": "Sport Fishing Regulations for King Salmon in Southeast Alaska and the Petersburg/Wrangell Area for 2026 — Petersburg",
    "effective_from": "2026-04-01",
    "effective_to": "2027-04-30",
+   "gear_tokens": [],
    "id": "adfg-748550e90ea6a0df",
    "scope_review": true,
    "species": [
@@ -798,6 +837,7 @@
    "effective": "Southeast Alaska Regional King Salmon Sport Fishing Regulations for 2026 — Sitka",
    "effective_from": "2026-04-01",
    "effective_to": "2027-04-30",
+   "gear_tokens": [],
    "id": "adfg-a30e6ae686b96fca",
    "scope_review": true,
    "species": [
@@ -822,6 +862,7 @@
    "effective": "Southeast Alaska Regional King Salmon Sport Fishing Regulations for 2026 — Prince of Wales Island",
    "effective_from": "2026-04-01",
    "effective_to": "2027-04-30",
+   "gear_tokens": [],
    "id": "adfg-12fb5333dbc32db6",
    "scope_review": true,
    "species": [
@@ -846,6 +887,7 @@
    "effective": "Sport Fishing Regulations for King Salmon in Southeast Alaska and the Ketchikan Area for 2026 — Ketchikan",
    "effective_from": "2026-04-01",
    "effective_to": "2027-04-30",
+   "gear_tokens": [],
    "id": "adfg-f98e7c377183d7ab",
    "scope_review": false,
    "species": [
@@ -871,6 +913,7 @@
    "effective": "Ice House Registration Requirement for the Upper Copper-Upper Susitna Management Area Suspended Through May 31, 2027 — Upper Copper Upper Susitna",
    "effective_from": "2026-09-14",
    "effective_to": "2027-05-31",
+   "gear_tokens": [],
    "id": "adfg-38e89e009df887ad",
    "scope_review": true,
    "species": [],
@@ -883,8 +926,8 @@
    ]
   }
  ],
- "published": "2026-11-09T17:04:14.000Z",
- "snapshot_day": "2026-11-09",
- "source_checked": "2026-11-09T17:04:14.000Z",
+ "published": "2026-11-10T13:40:04.000Z",
+ "snapshot_day": "2026-11-10",
+ "source_checked": "2026-11-10T13:40:04.000Z",
  "state": "AK"
 }

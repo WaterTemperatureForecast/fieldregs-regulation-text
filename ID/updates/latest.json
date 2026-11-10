@@ -6,6 +6,7 @@
    "effective": "IDFG closes steelhead harvest in the Clearwater River basin due to low returns",
    "effective_from": "2026-10-21",
    "effective_to": null,
+   "gear_tokens": [],
    "id": "idfg-965bc717e1ee5e22",
    "scope_review": true,
    "species": [
@@ -33,6 +34,7 @@
    "effective": "IDFG modifies fall Chinook and steelhead bag limits",
    "effective_from": "2026-09-17",
    "effective_to": null,
+   "gear_tokens": [],
    "id": "idfg-a7e4ad97cab8090c",
    "scope_review": true,
    "species": [
@@ -63,6 +65,7 @@
    "effective": "IDFG issues closure order for Chinook salmon fishing on South Fork Salmon River",
    "effective_from": "2026-07-29",
    "effective_to": null,
+   "gear_tokens": [],
    "id": "idfg-864e72778ab089aa",
    "scope_review": false,
    "species": [

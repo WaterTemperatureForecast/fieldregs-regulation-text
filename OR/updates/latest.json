@@ -6,6 +6,7 @@
    "effective": "October 19 through December 31, 2026",
    "effective_from": null,
    "effective_to": null,
+   "gear_tokens": [],
    "id": "odfw-c5f482678b617675",
    "scope_review": false,
    "species": [
@@ -34,6 +35,7 @@
    "effective": "Columbia River Mainstem and Reservoirs, Buoy 10 to McNary Dam‌",
    "effective_from": null,
    "effective_to": null,
+   "gear_tokens": [],
    "id": "odfw-6b415dc63e61b1ba",
    "scope_review": false,
    "species": [
@@ -53,6 +55,7 @@
    "effective": "Effective August 1 through November 30, 2026",
    "effective_from": "2026-08-01",
    "effective_to": "2026-11-30",
+   "gear_tokens": [],
    "id": "odfw-7b9bedfb004da577",
    "scope_review": false,
    "species": [
@@ -73,6 +76,7 @@
    "effective": "Effective July 1 through November 30, 2026",
    "effective_from": "2026-07-01",
    "effective_to": "2026-11-30",
+   "gear_tokens": [],
    "id": "odfw-eb9d58cbeb9a0673",
    "scope_review": false,
    "species": [
@@ -95,6 +99,7 @@
    "effective": "Effective August 1 through November 30, 2026",
    "effective_from": "2026-08-01",
    "effective_to": "2026-11-30",
+   "gear_tokens": [],
    "id": "odfw-88dafa49e69cf651",
    "scope_review": false,
    "species": [
@@ -129,6 +134,7 @@
    "effective": "Effective August 1 through November 30, 2026",
    "effective_from": "2026-08-01",
    "effective_to": "2026-11-30",
+   "gear_tokens": [],
    "id": "odfw-01ceb7d4c40106c8",
    "scope_review": false,
    "species": [
@@ -155,6 +161,7 @@
    "effective": "Effective October 1 through November 30, 2026",
    "effective_from": "2026-10-01",
    "effective_to": "2026-11-30",
+   "gear_tokens": [],
    "id": "odfw-deed1ed86ea753fd",
    "scope_review": false,
    "species": [
@@ -175,6 +182,7 @@
    "effective": "Effective November 1 through November 30, 2026",
    "effective_from": "2026-11-01",
    "effective_to": "2026-11-30",
+   "gear_tokens": [],
    "id": "odfw-97de51c9d38e2188",
    "scope_review": false,
    "species": [
@@ -195,6 +203,7 @@
    "effective": "Effective July 1 through November 30, 2026",
    "effective_from": "2026-07-01",
    "effective_to": "2026-11-30",
+   "gear_tokens": [],
    "id": "odfw-a89f54827c33abe0",
    "scope_review": false,
    "species": [
@@ -219,6 +228,7 @@
    "effective": "Effective August 10 through November 30, 2026",
    "effective_from": "2026-08-10",
    "effective_to": "2026-11-30",
+   "gear_tokens": [],
    "id": "odfw-7bbe01dd75f1f4c8",
    "scope_review": false,
    "species": [
@@ -244,6 +254,7 @@
    "effective": "Effective September 22, 2026 through November 30, 2026",
    "effective_from": "2026-09-22",
    "effective_to": "2026-11-30",
+   "gear_tokens": [],
    "id": "odfw-8d870ba372bf5a85",
    "scope_review": false,
    "species": [
@@ -264,6 +275,7 @@
    "effective": "Effective December 1 through December 31",
    "effective_from": "2026-12-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-64eca08d3a891059",
    "scope_review": false,
    "species": [
@@ -286,6 +298,7 @@
    "effective": "Effective December 1 through December 31, 2026",
    "effective_from": "2026-12-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-4bfcd595f07d77d7",
    "scope_review": false,
    "species": [
@@ -320,6 +333,7 @@
    "effective": "Effective December 1 through December 31, 2026",
    "effective_from": "2026-12-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-89dd4ff736b25ed0",
    "scope_review": false,
    "species": [
@@ -340,6 +354,7 @@
    "effective": "Effective August 1 through December 31, 2026",
    "effective_from": "2026-08-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-c7c859cc09f4b8c9",
    "scope_review": false,
    "species": [
@@ -361,6 +376,7 @@
    "effective": "Effective August 1 through December 31, 2026",
    "effective_from": "2026-08-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-feea7bd71f2617c2",
    "scope_review": false,
    "species": [
@@ -386,6 +402,7 @@
    "effective": "Effective August 1 though December 31, 2026",
    "effective_from": "2026-08-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-d012e6896d294fcd",
    "scope_review": false,
    "species": [
@@ -411,6 +428,7 @@
    "effective": "Effective October 7 through December 31, 2026",
    "effective_from": "2026-10-07",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-549f4da2db6b1c37",
    "scope_review": false,
    "species": [
@@ -436,6 +454,7 @@
    "effective": "Effective August 1 through December 31, 2026",
    "effective_from": "2026-08-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-39626cb675a38f5c",
    "scope_review": false,
    "species": [
@@ -458,6 +477,7 @@
    "effective": "Effective August 1 through December 31, 2026",
    "effective_from": "2026-08-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-16190d6caadaeac9",
    "scope_review": false,
    "species": [
@@ -480,6 +500,7 @@
    "effective": "Effective August 1 through December 31, 2026",
    "effective_from": "2026-08-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-b6f1104ea11b09c2",
    "scope_review": false,
    "species": [
@@ -500,6 +521,7 @@
    "effective": "Effective August 1 through December 31",
    "effective_from": "2026-08-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-60d6ef8e0c3eb53b",
    "scope_review": false,
    "species": [
@@ -524,6 +546,7 @@
    "effective": "Effective July 1 through December 31, 2026",
    "effective_from": "2026-07-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-c3b2322a2eb9ac38",
    "scope_review": false,
    "species": [
@@ -547,6 +570,7 @@
    "effective": "Effective July 1 through December 31, 2026",
    "effective_from": "2026-07-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-6e63caf7bb5e73dc",
    "scope_review": false,
    "species": [
@@ -567,6 +591,7 @@
    "effective": "Effective August 1 through December 31, 2026",
    "effective_from": "2026-08-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-2534c2c3f1075d39",
    "scope_review": false,
    "species": [
@@ -587,6 +612,7 @@
    "effective": "Effective November 1 through December 31, 2026",
    "effective_from": "2026-11-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-e22c23ae456981cb",
    "scope_review": false,
    "species": [
@@ -607,6 +633,7 @@
    "effective": "Effective October 1 through December 31, 2026",
    "effective_from": "2026-10-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-d14a9283de0ed300",
    "scope_review": false,
    "species": [
@@ -627,6 +654,7 @@
    "effective": "Effective September 1 through December 31, 2026",
    "effective_from": "2026-09-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-819a571039bbc6f3",
    "scope_review": false,
    "species": [
@@ -647,6 +675,7 @@
    "effective": "Effective September 1 through December 31",
    "effective_from": "2026-09-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-f840cda1eba9bb5b",
    "scope_review": false,
    "species": [
@@ -667,6 +696,7 @@
    "effective": "Effective September 1 through December 31, 2026",
    "effective_from": "2026-09-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-0bcb9ef434fca44a",
    "scope_review": false,
    "species": [],
@@ -685,6 +715,7 @@
    "effective": "Effective September 1 through December 31, 2026",
    "effective_from": "2026-09-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-98b94b0420b7c3f5",
    "scope_review": false,
    "species": [
@@ -705,6 +736,7 @@
    "effective": "Effective August 1, 2026 through December 31, 2026",
    "effective_from": "2026-08-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-04916c3b4b92056a",
    "scope_review": false,
    "species": [
@@ -733,6 +765,7 @@
    "effective": "Effective August 15, 2026 through December 31, 2026",
    "effective_from": "2026-08-15",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-c1d7236c4a6595aa",
    "scope_review": false,
    "species": [
@@ -759,6 +792,7 @@
    "effective": "Effective August 15, 2026 through December 31, 2026",
    "effective_from": "2026-08-15",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-74d5c18e26bb32d5",
    "scope_review": false,
    "species": [
@@ -779,6 +813,7 @@
    "effective": "Effective August 15, 2026 through December 31, 2026",
    "effective_from": "2026-08-15",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-732f488d4b768db7",
    "scope_review": false,
    "species": [
@@ -801,6 +836,7 @@
    "effective": "Effective September 1, 2026 through December 31, 2026",
    "effective_from": "2026-09-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-90be471b2a2c26ff",
    "scope_review": false,
    "species": [
@@ -822,6 +858,7 @@
    "effective": "Mainstem fall season boat and individual bag rules",
    "effective_from": "2026-08-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-3c592dfbd4a9bfef",
    "scope_review": false,
    "species": [
@@ -847,6 +884,7 @@
    "effective": "Buoy 10 upstream to Bonneville Dam: November 1 – December 31",
    "effective_from": "2026-11-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-b1d3bec3fe03ccf8",
    "scope_review": false,
    "species": [
@@ -872,6 +910,7 @@
    "effective": "Bonneville Dam upstream to The Dalles Dam: October 16 – December 31",
    "effective_from": "2026-10-16",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-a5ca4761a5a695b8",
    "scope_review": false,
    "species": [
@@ -891,6 +930,7 @@
    "effective": "Bonneville Dam upstream to The Dalles Dam: November 1 – December 31",
    "effective_from": "2026-11-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-b022138ed0b10da2",
    "scope_review": false,
    "species": [
@@ -916,6 +956,7 @@
    "effective": "The Dalles Dam upstream to the Oregon/Washington border (upstream of McNary Dam): September 1 – December 31",
    "effective_from": "2026-09-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-27b4099f73e3beb6",
    "scope_review": false,
    "species": [
@@ -935,6 +976,7 @@
    "effective": "The Dalles Dam upstream to the Oregon/Washington border (upstream of McNary Dam): October 1 – December 31",
    "effective_from": "2026-10-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-954e671288f8eff2",
    "scope_review": false,
    "species": [
@@ -955,6 +997,7 @@
    "effective": "Effective December 1 through December 31, angling for, and retention of, all Chinook salmon is closed.",
    "effective_from": "2026-12-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-663ea714d5bd9b25",
    "scope_review": false,
    "species": [
@@ -975,6 +1018,7 @@
    "effective": "2026 season (ODFW page updated December 31, 2025)",
    "effective_from": "2026-01-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-263eeb85d0b45b45",
    "scope_review": true,
    "species": [
@@ -994,6 +1038,7 @@
    "effective": "2026 season (ODFW page updated December 31, 2025)",
    "effective_from": "2026-01-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-95218427ca7f336c",
    "scope_review": true,
    "species": [
@@ -1013,6 +1058,7 @@
    "effective": "2026 season (ODFW page updated December 31, 2025)",
    "effective_from": "2026-01-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-d8d4365cfc3697c8",
    "scope_review": true,
    "species": [
@@ -1034,6 +1080,7 @@
    "effective": "2026 season (ODFW page updated December 31, 2025)",
    "effective_from": "2026-01-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-c63546f92c961779",
    "scope_review": true,
    "species": [
@@ -1057,6 +1104,7 @@
    "effective": "2026 season (ODFW page updated December 31, 2025)",
    "effective_from": "2026-07-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-8f2fa1849815b0d7",
    "scope_review": true,
    "species": [
@@ -1076,6 +1124,7 @@
    "effective": "2026 season (ODFW page updated December 31, 2025)",
    "effective_from": "2026-01-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-225d3d8a2b472df5",
    "scope_review": true,
    "species": [
@@ -1096,6 +1145,7 @@
    "effective": "2026 season (ODFW page updated December 31, 2025)",
    "effective_from": "2026-01-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-6ef09cb84dad336a",
    "scope_review": true,
    "species": [
@@ -1116,6 +1166,7 @@
    "effective": "2026 season (ODFW page updated December 31, 2025)",
    "effective_from": "2026-01-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-1a916b17282d15bb",
    "scope_review": true,
    "species": [
@@ -1135,6 +1186,7 @@
    "effective": "2026 season (ODFW page updated December 31, 2025)",
    "effective_from": "2026-01-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-1de4e2d47adbb727",
    "scope_review": true,
    "species": [
@@ -1154,6 +1206,7 @@
    "effective": "2026 season (ODFW page updated December 31, 2025)",
    "effective_from": "2026-01-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-1fc58a15a7c4a79d",
    "scope_review": true,
    "species": [
@@ -1175,6 +1228,7 @@
    "effective": "2026 season",
    "effective_from": "2026-01-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-8ba40371cbd62d08",
    "scope_review": true,
    "species": [
@@ -1194,6 +1248,7 @@
    "effective": "2026 season",
    "effective_from": "2026-01-01",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-07cf6f4fb73aed00",
    "scope_review": true,
    "species": [
@@ -1218,6 +1273,7 @@
    "effective": "Mark-Selective Coho (fin-clipped) Season - Cape Falcon to OR/CA border: 2026-08-19 to 2026-12-31",
    "effective_from": "2026-08-19",
    "effective_to": "2026-12-31",
+   "gear_tokens": [],
    "id": "odfw-6a8405908909c44b",
    "scope_review": true,
    "species": [
