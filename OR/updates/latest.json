@@ -692,31 +692,12 @@
   },
   {
    "activity": "fishing",
-   "detail": "In the Chetco River from RM 2.2 to Nook Creek\nAngling is restricted to fly fishing (must include strike indicator) and bobber fishing (see Bobber Fishing Rule, page 18 of 2026 Oregon Sport Fishing Regulations book).",
+   "detail": "In the Winchuck River from the Mouth to Wheeler Creek\nThe daily adult wild Chinook salmon bag limit is one fish;\nNo more than five adult wild Chinook salmon may be retained for the period.",
    "effective": "Effective September 1 through December 31, 2026",
    "effective_from": "2026-09-01",
    "effective_to": "2026-12-31",
    "gear_tokens": [],
-   "id": "odfw-0bcb9ef434fca44a",
-   "scope_review": false,
-   "species": [],
-   "title": "Chetco River - Effective September 1 through December 31, 2026",
-   "units": [],
-   "url": "https://myodfw.com/articles/regulation-updates",
-   "water_ids": [
-    "southwest/chetco-river",
-    "southwest/chetco-river#0p"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
-   "detail": "In the Winchuck River from the Mouth to Wheeler Creek\nThe daily adult wild Chinook salmon bag limit is one fish;\nNo more than five adult wild Chinook salmon may be retained for the period; and\nAngling is restricted to fly fishing (must include strike indicator) and bobber fishing (see Bobber Fishing Rule, page 18 of 2026 Oregon Sport Fishing Regulations book).",
-   "effective": "Effective September 1 through December 31, 2026",
-   "effective_from": "2026-09-01",
-   "effective_to": "2026-12-31",
-   "gear_tokens": [],
-   "id": "odfw-98b94b0420b7c3f5",
+   "id": "odfw-8fbb388b0572e50a",
    "scope_review": false,
    "species": [
     "chinook"
@@ -1038,7 +1019,9 @@
    "effective": "2026 season (ODFW page updated December 31, 2025)",
    "effective_from": "2026-01-01",
    "effective_to": "2026-12-31",
-   "gear_tokens": [],
+   "gear_tokens": [
+    "gear.descending_device"
+   ],
    "id": "odfw-95218427ca7f336c",
    "scope_review": true,
    "species": [
@@ -1228,7 +1211,10 @@
    "effective": "2026 season",
    "effective_from": "2026-01-01",
    "effective_to": "2026-12-31",
-   "gear_tokens": [],
+   "gear_tokens": [
+    "gear.descending_device",
+    "hook.two_hooks"
+   ],
    "id": "odfw-8ba40371cbd62d08",
    "scope_review": true,
    "species": [
@@ -1248,7 +1234,11 @@
    "effective": "2026 season",
    "effective_from": "2026-01-01",
    "effective_to": "2026-12-31",
-   "gear_tokens": [],
+   "gear_tokens": [
+    "hook.barbless",
+    "hook.single_point",
+    "hook.two_hooks"
+   ],
    "id": "odfw-07cf6f4fb73aed00",
    "scope_review": true,
    "species": [
@@ -1286,10 +1276,31 @@
    "zones": [
     "marine"
    ]
+  },
+  {
+   "activity": "fishing",
+   "detail": "From the Hwy 730 bridge near the mouth of the Umatilla River upstream to Threemile Dam:\nThe daily bag limit for hatchery steelhead is one fish.",
+   "effective": "Effective November 13, 2026 through April 30, 2027",
+   "effective_from": "2026-11-13",
+   "effective_to": "2027-04-30",
+   "gear_tokens": [],
+   "id": "odfw-11518b1b77565d22",
+   "scope_review": false,
+   "species": [
+    "steelhead"
+   ],
+   "title": "Umatilla River - Effective November 13, 2026 through April 30, 2027",
+   "units": [],
+   "url": "https://myodfw.com/articles/regulation-updates",
+   "water_ids": [
+    "northeast/umatilla-river",
+    "northeast/umatilla-river#0"
+   ],
+   "zones": []
   }
  ],
- "published": "2026-11-09T18:16:40.000Z",
- "snapshot_day": "2026-11-09",
- "source_checked": "2026-11-09T18:16:40.000Z",
+ "published": "2026-11-15T14:42:58.000Z",
+ "snapshot_day": "2026-11-15",
+ "source_checked": "2026-11-15T14:42:58.000Z",
  "state": "OR"
 }

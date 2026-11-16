@@ -160,7 +160,9 @@
    "effective": "Oct. 6, 2026, until further notice.",
    "effective_from": "2026-10-06",
    "effective_to": null,
-   "gear_tokens": [],
+   "gear_tokens": [
+    "gear.no_bait"
+   ],
    "id": "wdfw-2f08093290c9ea56",
    "scope_review": false,
    "species": [
@@ -186,7 +188,9 @@
    "effective": "Oct. 6, 2026, until further notice.",
    "effective_from": "2026-10-06",
    "effective_to": null,
-   "gear_tokens": [],
+   "gear_tokens": [
+    "gear.no_bait"
+   ],
    "id": "wdfw-f3a12bf4f7f4ca54",
    "scope_review": false,
    "species": [],
@@ -205,7 +209,9 @@
    "effective": "Sept. 18, 2026, until further notice.",
    "effective_from": "2026-09-18",
    "effective_to": null,
-   "gear_tokens": [],
+   "gear_tokens": [
+    "hook.barbless"
+   ],
    "id": "wdfw-97f386f196ccab30",
    "scope_review": false,
    "species": [
@@ -226,7 +232,9 @@
    "effective": "Sept. 18, 2026, until further notice. Location and",
    "effective_from": "2026-09-18",
    "effective_to": null,
-   "gear_tokens": [],
+   "gear_tokens": [
+    "hook.barbless"
+   ],
    "id": "wdfw-5e67270536d0c56e",
    "scope_review": false,
    "species": [
@@ -478,10 +486,40 @@
     "puget-sound-coastal/tokul-creek-king-co#1"
    ],
    "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Closes angling for and retention of steelhead.",
+   "effective": "Jan. 1– March 31, 2027.",
+   "effective_from": "2027-01-01",
+   "effective_to": "2027-03-31",
+   "gear_tokens": [],
+   "id": "wdfw-81445e6169cb48dd",
+   "scope_review": false,
+   "species": [
+    "steelhead"
+   ],
+   "title": "Columbia River from The Dalles Dam to Highway 730 at the Washington/Oregon border . - Jan. 1– March 31, 2027.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/lower-columbia-river-steelhead-fishery-update-2026-11",
+   "water_ids": [
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was",
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was#25",
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was#26",
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was#27",
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was#28",
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was#29",
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was#30",
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was#31",
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was#32",
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was#33",
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was#34"
+   ],
+   "zones": []
   }
  ],
- "published": "2026-11-09T18:38:33.000Z",
- "snapshot_day": "2026-11-09",
- "source_checked": "2026-11-09T18:38:33.000Z",
+ "published": "2026-11-15T15:01:30.000Z",
+ "snapshot_day": "2026-11-15",
+ "source_checked": "2026-11-15T15:01:30.000Z",
  "state": "WA"
 }
