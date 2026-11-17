@@ -273,32 +273,6 @@
   },
   {
    "activity": "fishing",
-   "detail": "Opens salmon retention. Closes Dolly Varden/bull trout retention. Implements a night closure for all species.\nCascade River from mouth to Rockport-Cascade Road Bridge: Salmon daily limit is four coho. Minimum size is 12 inches. Release all salmon other than coho. Release Dolly Varden/bull trout. Night closure in effect for all species. Skagit River from the mouth to Cascade River Road (Marblemount Bridge): Salmon daily limit is two coho. Minimum size is 12 inches. Release all salmon other than coho. Release Dolly Varden/bull trout. Night closure in effect for all species.",
-   "effective": "Nov. 1–15, 2026.",
-   "effective_from": "2026-11-01",
-   "effective_to": "2026-11-15",
-   "gear_tokens": [],
-   "id": "wdfw-b227ac6fa44afa54",
-   "scope_review": false,
-   "species": [
-    "chinook",
-    "coho",
-    "chum",
-    "pink",
-    "salmon",
-    "sockeye",
-    "bull_trout"
-   ],
-   "title": "Salmon seasons for Skagit and Cascade rivers extended through Nov. 15 - Nov. 1–15, 2026.",
-   "units": [],
-   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/salmon-seasons-skagit-and-cascade-rivers-extended-through-nov-15-2026-10",
-   "water_ids": [
-    "puget-sound-coastal/cascade-river-skagit-co"
-   ],
-   "zones": []
-  },
-  {
-   "activity": "fishing",
    "detail": "Opens longfin smelt dipping.\nLongfin smelt open. Daily limit 10 pounds. Smelt may only be taken by dip net. No minimum size; all smelt caught must be kept and count towards the daily limit. Each smelt harvester must use a separate container to hold their catch and the container must be in the harvester’s possession or identified with the harvester’s name. Night Closure in effect: closed to fishing from one hour after official sunset to one hour before official sunrise.",
    "effective": "Nov. 4–Nov. 30, 2026.",
    "effective_from": "2026-11-04",
@@ -518,8 +492,8 @@
    "zones": []
   }
  ],
- "published": "2026-11-15T15:01:30.000Z",
- "snapshot_day": "2026-11-15",
- "source_checked": "2026-11-15T15:01:30.000Z",
+ "published": "2026-11-16T15:01:58.000Z",
+ "snapshot_day": "2026-11-16",
+ "source_checked": "2026-11-16T15:01:58.000Z",
  "state": "WA"
 }
