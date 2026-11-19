@@ -401,6 +401,31 @@
   },
   {
    "activity": "fishing",
+   "detail": "Opens chum salmon retention within portions of Marine Area 13 and Kennedy Creek.\nMarine Area 13 in deep South Sound and Carr Inlet (waters described above): Salmon daily limit is two. Chinook minimum size is 22 inches. Other salmon species no minimum size. Release wild coho and wild Chinook. Anglers may fish with two poles with the Two-pole Endorsement. Kennedy Creek from mouth to the northbound Highway 101 Bridge (described above): Salmon daily limit is two. Minimum size is 12 inches. Release wild coho and wild Chinook. Night closure and selective gear rules in effect.",
+   "effective": "Immediately, through Dec. 7, 2026.",
+   "effective_from": "2026-12-07",
+   "effective_to": "2026-12-07",
+   "gear_tokens": [],
+   "id": "wdfw-dca8320ed41aab90",
+   "scope_review": true,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Marine Area 13 waters northerly and westerly of a line projected from the Johnson Point (47°10'40.8\"N, 122°48'53.3\"W) to Devil’s Head (47°10'01.2\"N, 122°46'01.5\"W). Marine Area 13 waters of Carr Inlet northerly of a line projected from Penrose Point (47°15'53.6\"N, 122°44'11.5\"W) to Green Point (47°16'55.2\"N, 122°41'41.8\"W). Kennedy Creek from mouth (an arc 500 yards east of the midpoint of the northbound Highway 101 Bridge) to the northbound Highway 101 Bridge. Image Salmon - Immediately, through Dec. 7, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/chum-retention-opens-deep-south-sound-kennedy-creek-and-carr-inlet-2026-11",
+   "water_ids": [],
+   "zones": [
+    "marine-area-13"
+   ]
+  },
+  {
+   "activity": "fishing",
    "detail": "Opens winter crab seasons in Marine Area 8-1 (Deception Pass, Hope Island, and Skagit Bay) and Marine Area 8-2 (Ports Susan and Gardner) ; crabbing is allowed seven days a week Oct. 10–Dec. 31 in these areas.",
    "effective": "Oct. 10–Dec. 31, 2026.",
    "effective_from": "2026-10-10",
@@ -492,8 +517,8 @@
    "zones": []
   }
  ],
- "published": "2026-11-17T15:00:13.000Z",
- "snapshot_day": "2026-11-17",
- "source_checked": "2026-11-17T15:00:13.000Z",
+ "published": "2026-11-18T15:00:45.000Z",
+ "snapshot_day": "2026-11-18",
+ "source_checked": "2026-11-18T15:00:45.000Z",
  "state": "WA"
 }
