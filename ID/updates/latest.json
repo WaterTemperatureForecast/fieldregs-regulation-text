@@ -52,16 +52,16 @@
     "magic-valley/snake-river",
     "southeast/snake-river",
     "upper-snake/snake-river",
-    "southwest/boise-river",
     "clearwater/salmon-river",
     "salmon/salmon-river",
-    "southwest/salmon-river"
+    "southwest/salmon-river",
+    "southwest/boise-river"
    ],
    "zones": []
   }
  ],
- "published": "2026-11-19T14:27:56.000Z",
- "snapshot_day": "2026-11-19",
- "source_checked": "2026-11-19T14:27:56.000Z",
+ "published": "2026-11-20T14:28:02.000Z",
+ "snapshot_day": "2026-11-20",
+ "source_checked": "2026-11-20T14:28:02.000Z",
  "state": "ID"
 }

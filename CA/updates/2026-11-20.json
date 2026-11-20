@@ -1,0 +1,109 @@
+{
+ "closures": [
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 11/18/2026 5:00 PM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Nov 20",
+   "effective_from": "2026-11-20",
+   "effective_to": "2026-11-20",
+   "gear_tokens": [],
+   "id": "cdfw-2211ca3954705833",
+   "scope_review": true,
+   "species": [],
+   "title": "Middle Fork Eel River - Nov 20",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [
+    "north-coast/eel-river-humboldt-lake-mendocino-and-trinity-cos-section-8-00-low-flo",
+    "north-coast/eel-river-humboldt-lake-mendocino-and-trinity-cos"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 11/18/2026 5:00 PM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Nov 20",
+   "effective_from": "2026-11-20",
+   "effective_to": "2026-11-20",
+   "gear_tokens": [],
+   "id": "cdfw-4d5643fb4471ad33",
+   "scope_review": true,
+   "species": [],
+   "title": "Van Duzen River - Nov 20",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [
+    "north-coast/eel-river-humboldt-lake-mendocino-and-trinity-cos"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 11/18/2026 5:00 PM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Nov 20",
+   "effective_from": "2026-11-20",
+   "effective_to": "2026-11-20",
+   "gear_tokens": [],
+   "id": "cdfw-2bc4e22fd3d79ab5",
+   "scope_review": false,
+   "species": [],
+   "title": "Mattole River - Nov 20",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [
+    "north-coast/mattole-river-humboldt-co-also-see-ection-8-00-a-low-flow-restrictions"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nLow-flow status: Closed to fishing (CDFW update 11/18/2026 5:00 PM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Nov 20",
+   "effective_from": "2026-11-20",
+   "effective_to": "2026-11-20",
+   "gear_tokens": [],
+   "id": "cdfw-c03034f2b086b067",
+   "scope_review": false,
+   "species": [],
+   "title": "Redwood Creek - Nov 20",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [
+    "north-coast/redwood-creek-humboldt-co-also-see-section-8-00-a-low-flow-restriction"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "North Coast low-flow closures (T14 §8.00)\nMendocino Coast Streams: All rivers, creeks, and streams that flow directly into the Pacific Ocean (and its bays) in Mendocino County, except for the Russian and Gualala rivers (T14 §8.00(b)(2)).\nLow-flow status: Closed to fishing (CDFW update 11/18/2026 5:00 PM).\nStatus is set Monday, Wednesday and Friday from stream flows; check before fishing.",
+   "effective": "Nov 20",
+   "effective_from": "2026-11-20",
+   "effective_to": "2026-11-20",
+   "gear_tokens": [],
+   "id": "cdfw-95c9581e5c0090eb",
+   "scope_review": false,
+   "species": [],
+   "title": "Mendocino Coast Streams - Nov 20",
+   "units": [],
+   "url": "https://wildlife.ca.gov/Fishing/Inland/Low-Flow/North-Coast",
+   "water_ids": [
+    "north-central/albion-river-mendocino-co-also-see-section-8-00-b-low-flow-restriction",
+    "north-central/alder-creek-mendocino-co-also-see-section-8-00-b-low-flow-restrictions",
+    "north-central/big-river-mendocino-co-also-see-section-8-00-b-low-flow-restrictions-m",
+    "north-central/cottoneva-creek-mendocino-co-main-stem-below-the-confluence-of-south-f",
+    "north-central/elk-creek-mendocino-co-also-see-section-8-00-b-low-flow-restrictions-m",
+    "north-central/garcia-river-mendocino-co-also-see-section-8-00-b-low-flow-restriction",
+    "north-central/greenwood-creek-mendocino-co-also-see-section-8-00-b-low-flow-restrict",
+    "north-central/navarro-river-mendocino-co-also-see-section-8-00-b-1-low-flow-restrict",
+    "north-central/noyo-river-mendocino-co-also-see-section-8-00-b-1-low-flow-restriction",
+    "north-central/ten-mile-river-mendocino-co-also-see-section-8-00-b-1-low-flow-restric",
+    "north-central/usal-creek-and-tributaries-mendocino-co-also-see-section-8-00-b-low-fl"
+   ],
+   "zones": []
+  }
+ ],
+ "published": "2026-11-20T14:03:02.000Z",
+ "snapshot_day": "2026-11-20",
+ "source_checked": "2026-11-20T14:03:02.000Z",
+ "state": "CA"
+}
