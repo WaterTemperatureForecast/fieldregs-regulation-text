@@ -1299,8 +1299,46 @@
    "zones": []
   }
  ],
- "published": "2026-11-20T14:42:19.000Z",
- "snapshot_day": "2026-11-20",
- "source_checked": "2026-11-20T14:42:19.000Z",
+ "editions": [
+  {
+   "chapter": "big_game",
+   "effective_from": "2027-01-01",
+   "published": "2026-11-21",
+   "season": "2027",
+   "status": "announced",
+   "title": "2027 Oregon Big Game Hunting Regulations",
+   "url": "https://www.eregulations.com/oregon/hunting"
+  },
+  {
+   "chapter": "fishing",
+   "effective_from": "2027-01-01",
+   "published": "2026-11-21",
+   "season": "2027",
+   "status": "announced",
+   "title": "2027 Oregon Sport Fishing Regulations",
+   "url": "https://www.eregulations.com/oregon/fishing"
+  },
+  {
+   "chapter": "marine",
+   "effective_from": "2027-01-01",
+   "published": "2026-11-21",
+   "season": "2027",
+   "status": "announced",
+   "title": "2027 Oregon Sport Fishing Regulations",
+   "url": "https://www.eregulations.com/oregon/fishing"
+  },
+  {
+   "chapter": "statewide",
+   "effective_from": "2027-01-01",
+   "published": "2026-11-21",
+   "season": "2027",
+   "status": "announced",
+   "title": "2027 Oregon Sport Fishing Regulations",
+   "url": "https://www.eregulations.com/oregon/fishing"
+  }
+ ],
+ "published": "2026-11-21T14:42:27.000Z",
+ "snapshot_day": "2026-11-21",
+ "source_checked": "2026-11-21T14:42:27.000Z",
  "state": "OR"
 }

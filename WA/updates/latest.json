@@ -2,6 +2,32 @@
  "closures": [
   {
    "activity": "fishing",
+   "detail": "Returns game fish seasons to permanent rules listed in the Washington Sport Fishing Rules in portions of the Calawah and Bogachiel rivers. Salmon fishing remains closed. “All species” rules, including gear restrictions, are in effect as listed in the Washington Sport Fishing Rules .\nBogachiel River from the mouth to the confluence with Mill Creek (47.928675, -124.425216), located approximately three-fourths of a mile above the Bogachiel Hatchery: Game fish: Open under permanent rules listed in the Washington Sport Fishing Rules . Salmon: closed Bogachiel River from the confluence of Mill Creek to the Olympic National Park boundary: All",
+   "effective": "Nov. 23, 2026, until further notice",
+   "effective_from": "2026-11-23",
+   "effective_to": null,
+   "gear_tokens": [],
+   "id": "wdfw-17df83903d518fb3",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Lower Calawah and Bogachiel rivers to open for game fish - Nov. 23, 2026, until further notice",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/lower-calawah-and-bogachiel-rivers-open-game-fish-2026-11",
+   "water_ids": [
+    "puget-sound-coastal/bogachiel-river-clallam-jefferson-co",
+    "puget-sound-coastal/calawah-river-clallam-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
    "detail": "Returns to permanent rules listed in the Washington Sport Fishing Rules pamphlet .",
    "effective": "Nov. 6, 2026, until further notice.",
    "effective_from": "2026-11-06",
@@ -488,6 +514,33 @@
   },
   {
    "activity": "fishing",
+   "detail": "Returns game fish seasons to permanent rules listed in the Washington Sport Fishing Rules in the Naselle and Willapa rivers. Opens salmon seasons in the Naselle and Willapa rivers with a reduced adult daily limit. “All species” rules, including gear restrictions, night closures, and areas listed as closed waters, are in effect as listed in the Washington Sport Fishing Rules .\nNaselle River from the U.S. Highway 101 Bridge to the Crown Mainline (Salme) Bridge: Game fish: Open under permanent rules listed in the Washington Sport Fishing Rules . Salmon: Open through Jan. 31. Minimum size 12 inches. Daily limit six including no more than one adult. Release wild Chinook and wild coho. Naselle River from the Crown Mainline (Salme) Bridge to the North Fork: Game fish: Open under permanent rules listed in the Washington Sport Fishing Rules . Willapa River from mouth (City of South Bend boat launch) to the Highway 6 Bridge (near the town of Lebam): Game fish: Open under permanent rules listed in the Washington Sport Fishing Rules . Salmon: Open through Jan. 31. Minimum size 12 inches. Daily limit six including no more than one adult. Release wild Chinook and wild coho.",
+   "effective": "Nov. 23, 2026–March 31, 2027",
+   "effective_from": "2026-11-23",
+   "effective_to": "2027-03-31",
+   "gear_tokens": [],
+   "id": "wdfw-43e68f7df0ba187b",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Fishing seasons to reopen on Naselle and Willapa rivers - Nov. 23, 2026–March 31, 2027",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/fishing-seasons-reopen-naselle-and-willapa-rivers-2026-11",
+   "water_ids": [
+    "puget-sound-coastal/naselle-river-pacific-co",
+    "puget-sound-coastal/naselle-river-pacific-wahkiakum-co",
+    "puget-sound-coastal/willapa-river-pacific-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
    "detail": "Closes angling for and retention of steelhead.",
    "effective": "Jan. 1– March 31, 2027.",
    "effective_from": "2027-01-01",
@@ -517,8 +570,8 @@
    "zones": []
   }
  ],
- "published": "2026-11-20T15:00:44.000Z",
- "snapshot_day": "2026-11-20",
- "source_checked": "2026-11-20T15:00:44.000Z",
+ "published": "2026-11-21T15:01:24.000Z",
+ "snapshot_day": "2026-11-21",
+ "source_checked": "2026-11-21T15:01:24.000Z",
  "state": "WA"
 }
