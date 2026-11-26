@@ -2,6 +2,57 @@
  "closures": [
   {
    "activity": "fishing",
+   "detail": "Returns Hoh River and South Fork Hoh River game fish seasons to permanent rules listed in the Washington Sport Fishing Rules , except prohibits the use of bait downstream of the Oxbow Campground boat launch beginning Dec. 1. Closes all salmon fishing. “All species” rules, including gear restrictions and restrictions to fishing from a floating device, are in effect as listed in the Washington Sport Fishing Rules .\nHoh River, from the Olympic National Park boundary upstream to the Department of Natural Resource’s Oxbow Campground boat launch: Game fish: Open under permanent rules listed in the Washington Sport Fishing Rules , except use of bait is prohibited. Salmon: closed. Hoh River, from the Department of Natural Resource’s Oxbow Campground boat launch upstream to Morgans Crossing boat launch: Game fish: Open under permanent rules listed in the Washington Sport Fishing Rules . Salmon: closed. Hoh River, from Morgans Crossing boat launch upstream to the Olympic National Park boundary below the mouth of the South Fork Hoh River: Game fish: Open under permanent rules listed in the Washington Sport Fishing Rules . South Fork Hoh River, outside Olympic National Park: Game fish: Open under permanent rules listed in the Washington Sport Fishing Rules .",
+   "effective": "Dec. 1, 2026, until further notice.",
+   "effective_from": "2026-12-01",
+   "effective_to": null,
+   "gear_tokens": [],
+   "id": "wdfw-1388c70a9415b57e",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Hoh and South Fork Hoh rivers to open for hatchery steelhead fishing - Dec. 1, 2026, until further notice.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/hoh-and-south-fork-hoh-rivers-open-hatchery-steelhead-fishing-2026-11",
+   "water_ids": [
+    "puget-sound-coastal/hoh-river-south-fork-jefferson-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Closes steelhead fishing.",
+   "effective": "Nov. 30, 2026, until further notice.",
+   "effective_from": "2026-11-30",
+   "effective_to": null,
+   "gear_tokens": [],
+   "id": "wdfw-b049463eb1e70ab5",
+   "scope_review": false,
+   "species": [
+    "steelhead"
+   ],
+   "title": "Columbia River from the I-182 Bridge (Richland) upstream to the Old Hanford townsite powerline crossing. - Nov. 30, 2026, until further notice.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/hanford-reach-steelhead-fishery-close-nov-30-2026-11",
+   "water_ids": [
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was",
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was#39",
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was#40",
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was#41",
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was#42",
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was#43",
+    "columbia-basin/columbia-river-where-the-river-coincides-with-the-boundary-between-was#44"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
    "detail": "Returns game fish seasons to permanent rules listed in the Washington Sport Fishing Rules in portions of the Calawah and Bogachiel rivers. Salmon fishing remains closed. “All species” rules, including gear restrictions, are in effect as listed in the Washington Sport Fishing Rules .\nBogachiel River from the mouth to the confluence with Mill Creek (47.928675, -124.425216), located approximately three-fourths of a mile above the Bogachiel Hatchery: Game fish: Open under permanent rules listed in the Washington Sport Fishing Rules . Salmon: closed Bogachiel River from the confluence of Mill Creek to the Olympic National Park boundary: All",
    "effective": "Nov. 23, 2026, until further notice",
    "effective_from": "2026-11-23",
@@ -570,8 +621,8 @@
    "zones": []
   }
  ],
- "published": "2026-11-24T15:01:11.000Z",
- "snapshot_day": "2026-11-24",
- "source_checked": "2026-11-24T15:01:11.000Z",
+ "published": "2026-11-25T15:00:34.000Z",
+ "snapshot_day": "2026-11-25",
+ "source_checked": "2026-11-25T15:00:34.000Z",
  "state": "WA"
 }

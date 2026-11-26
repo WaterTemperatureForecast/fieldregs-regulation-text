@@ -1,0 +1,39 @@
+{
+ "closures": [
+  {
+   "activity": "fishing",
+   "detail": "Tuesday, September 15, 2026 - 1:49 PM MDT Effective at the end of fishing hours on Sept.\n17, Idaho Fish and Game will modify bag limits for both fall Chinook and steelhead fishing.\n“The bag limit modification for fall Chinook is necessary because the return of natural-origin fish is lower than the preseason forecast, and the fishery is approaching the allowable impacts on natural-origin fish,” said Chris Sullivan, Anadromous Fisheries Coordinator.",
+   "effective": "IDFG modifies fall Chinook and steelhead bag limits",
+   "effective_from": "2026-09-17",
+   "effective_to": null,
+   "gear_tokens": [],
+   "id": "idfg-a7e4ad97cab8090c",
+   "scope_review": true,
+   "species": [
+    "chinook",
+    "steelhead"
+   ],
+   "title": "IDFG modifies fall Chinook and steelhead bag limits - IDFG modifies fall Chinook and steelhead bag limits",
+   "units": [],
+   "url": "https://idfg.idaho.gov/article/idfg-modifies-fall-chinook-and-steelhead-bag-limits",
+   "water_ids": [
+    "clearwater/snake-river",
+    "magic-valley/snake-river",
+    "southeast/snake-river",
+    "upper-snake/snake-river",
+    "clearwater/clearwater-river",
+    "clearwater/clearwater-river-north-fork",
+    "clearwater/clearwater-river-middle-fork",
+    "clearwater/clearwater-river-south-fork",
+    "clearwater/salmon-river",
+    "salmon/salmon-river",
+    "southwest/salmon-river"
+   ],
+   "zones": []
+  }
+ ],
+ "published": "2026-11-25T14:27:17.000Z",
+ "snapshot_day": "2026-11-25",
+ "source_checked": "2026-11-25T14:27:17.000Z",
+ "state": "ID"
+}
