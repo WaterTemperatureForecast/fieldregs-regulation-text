@@ -2,6 +2,26 @@
  "closures": [
   {
    "activity": "fishing",
+   "detail": "Wednesday, November 25, 2026 - 5:50 PM MST Bag limits and size restrictions on bass have been eliminated at this southeast Idaho reservoir.\nA change in bass regulations for Montpelier Reservoir in southeast Idaho has just taken effect.\nDuring the recent Idaho Fish and Game Commission meeting in Lewiston, a proposal to remove length restrictions and both bag and possession limits on bass in Montpelier Reservoir was approved.",
+   "effective": "New rule change for anglers at Montpelier Reservoir to take effect immediately",
+   "effective_from": "2026-11-25",
+   "effective_to": null,
+   "gear_tokens": [],
+   "id": "idfg-7e7965a0f79e4f39",
+   "scope_review": false,
+   "species": [
+    "bass"
+   ],
+   "title": "New rule change for anglers at Montpelier Reservoir to take effect immediately - New rule change for anglers at Montpelier Reservoir to take effect immediately",
+   "units": [],
+   "url": "https://idfg.idaho.gov/article/new-rule-change-anglers-montpelier-reservoir-take-effect-immediately",
+   "water_ids": [
+    "southeast/montpelier-reservoir"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
    "detail": "Tuesday, September 15, 2026 - 1:49 PM MDT Effective at the end of fishing hours on Sept.\n17, Idaho Fish and Game will modify bag limits for both fall Chinook and steelhead fishing.\n“The bag limit modification for fall Chinook is necessary because the return of natural-origin fish is lower than the preseason forecast, and the fishery is approaching the allowable impacts on natural-origin fish,” said Chris Sullivan, Anadromous Fisheries Coordinator.",
    "effective": "IDFG modifies fall Chinook and steelhead bag limits",
    "effective_from": "2026-09-17",
@@ -30,10 +50,28 @@
     "southwest/salmon-river"
    ],
    "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Thursday, September 10, 2026 - 2:40 PM MDT Idaho Fish and Game has issued a salvage order for two southeast Idaho water bodies: Lamont and Johnson Reservoirs in Franklin County.\nThis salvage order is effective from Sept.\n8 through Dec.",
+   "effective": "Fish salvage order issued for two southeast Idaho reservoirs",
+   "effective_from": "2026-09-08",
+   "effective_to": "2026-12-31",
+   "gear_tokens": [],
+   "id": "idfg-7dd87ff001330664",
+   "scope_review": false,
+   "species": [],
+   "title": "Fish salvage order issued for two southeast Idaho reservoirs - Fish salvage order issued for two southeast Idaho reservoirs",
+   "units": [],
+   "url": "https://idfg.idaho.gov/article/fish-salvage-order-issued-two-southeast-idaho-reservoirs",
+   "water_ids": [
+    "southeast/montpelier-reservoir"
+   ],
+   "zones": []
   }
  ],
- "published": "2026-11-25T14:27:17.000Z",
- "snapshot_day": "2026-11-25",
- "source_checked": "2026-11-25T14:27:17.000Z",
+ "published": "2026-11-26T14:27:40.000Z",
+ "snapshot_day": "2026-11-26",
+ "source_checked": "2026-11-26T14:27:40.000Z",
  "state": "ID"
 }

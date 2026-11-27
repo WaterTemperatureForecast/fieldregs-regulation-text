@@ -2,6 +2,70 @@
  "closures": [
   {
    "activity": "fishing",
+   "detail": "Opens game fish and salmon seasons in portions of the Chehalis, Humptulips, Satsop, and Skookumchuck rivers, and opens game fish season in portions of the Wynoochee River. See below for specific areas and rules.\nChehalis River from the mouth to the mouth of the Skookumchuck River, including all channels, sloughs, and interconnected waterways: All",
+   "effective": "Nov. 29, 2026, until further notice",
+   "effective_from": "2026-11-29",
+   "effective_to": null,
+   "gear_tokens": [],
+   "id": "wdfw-0f868dd6c65a656f",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum",
+    "pink",
+    "salmon",
+    "sockeye"
+   ],
+   "title": "Portions of Chehalis, Humptulips, Satsop, Skookumchuck, and Wynoochee rivers to open to angling Nov. 29 - Nov. 29, 2026, until further notice",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/portions-chehalis-humptulips-satsop-skookumchuck-and-wynoochee-rivers-open-angling-nov-29-2026-11",
+   "water_ids": [
+    "puget-sound-coastal/humptulips-river-grays-harbor-co",
+    "puget-sound-coastal/skookumchuck-river-lewis-thurston-co",
+    "puget-sound-coastal/wynoochee-river-grays-harbor-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Opens game fish under permanent rules listed in the Washington Sport Fishing Rules except selective gear rules are in effect.\nAll",
+   "effective": "Dec. 1, 2026, until further notice.",
+   "effective_from": "2026-12-01",
+   "effective_to": null,
+   "gear_tokens": [],
+   "id": "wdfw-b4ce9713b746909b",
+   "scope_review": false,
+   "species": [],
+   "title": "Salmon River (Jefferson County), outside Olympic National Park and Quinault Indian Reservation. - Dec. 1, 2026, until further notice.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/salmon-river-open-hatchery-steelhead-fishing-dec-1-2026-11",
+   "water_ids": [
+    "puget-sound-coastal/salmon-river-jefferson-co"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
+   "detail": "Opens game fish under permanent rules listed in the Washington Sport Fishing Rules except selective gear rules are in effect.\nAll fish",
+   "effective": "Dec. 1, 2026, until further notice.",
+   "effective_from": "2026-12-01",
+   "effective_to": null,
+   "gear_tokens": [],
+   "id": "wdfw-cc73721258358f9b",
+   "scope_review": false,
+   "species": [],
+   "title": "Upper Quinault River (Grays Harbor/Jefferson County) from the mouth at the upper end of Lake Quinault to Olympic National Park boundary. - Dec. 1, 2026, until further notice.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/upper-quinault-river-open-hatchery-steelhead-fishing-beginning-dec-1-2026-11",
+   "water_ids": [
+    "puget-sound-coastal/quinault-river-upper-grays-harbor-jefferson-co",
+    "puget-sound-coastal/quinault-river-upper-grays-harbor-jefferson-co#0"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
    "detail": "Returns Hoh River and South Fork Hoh River game fish seasons to permanent rules listed in the Washington Sport Fishing Rules , except prohibits the use of bait downstream of the Oxbow Campground boat launch beginning Dec. 1. Closes all salmon fishing. “All species” rules, including gear restrictions and restrictions to fishing from a floating device, are in effect as listed in the Washington Sport Fishing Rules .\nHoh River, from the Olympic National Park boundary upstream to the Department of Natural Resource’s Oxbow Campground boat launch: Game fish: Open under permanent rules listed in the Washington Sport Fishing Rules , except use of bait is prohibited. Salmon: closed. Hoh River, from the Department of Natural Resource’s Oxbow Campground boat launch upstream to Morgans Crossing boat launch: Game fish: Open under permanent rules listed in the Washington Sport Fishing Rules . Salmon: closed. Hoh River, from Morgans Crossing boat launch upstream to the Olympic National Park boundary below the mouth of the South Fork Hoh River: Game fish: Open under permanent rules listed in the Washington Sport Fishing Rules . South Fork Hoh River, outside Olympic National Park: Game fish: Open under permanent rules listed in the Washington Sport Fishing Rules .",
    "effective": "Dec. 1, 2026, until further notice.",
    "effective_from": "2026-12-01",
@@ -503,6 +567,30 @@
   },
   {
    "activity": "fishing",
+   "detail": "Closes retention of chum salmon.\nMinimum size 12 inches. Daily limit six including no more than two each of Chinook and wild coho. Release chum.",
+   "effective": "Nov. 28–Dec. 31, 2026.",
+   "effective_from": "2026-11-28",
+   "effective_to": "2026-12-31",
+   "gear_tokens": [],
+   "id": "wdfw-17a09c4873216228",
+   "scope_review": false,
+   "species": [
+    "chinook",
+    "coho",
+    "chum"
+   ],
+   "title": "Nooksack River from the yellow marker approximately 0.65 miles upstream of the Slater Road bridge to the confluence of North and South forks. Salmon - Nov. 28–Dec. 31, 2026.",
+   "units": [],
+   "url": "https://wdfw.wa.gov/fishing/regulations/emergency-rules/nooksack-river-chum-salmon-retention-closes-nov-28-2026-11",
+   "water_ids": [
+    "puget-sound-coastal/nooksack-river-whatcom-co",
+    "puget-sound-coastal/nooksack-river-whatcom-co#1",
+    "puget-sound-coastal/nooksack-river-whatcom-co#2"
+   ],
+   "zones": []
+  },
+  {
+   "activity": "fishing",
    "detail": "Opens winter crab seasons in Marine Area 8-1 (Deception Pass, Hope Island, and Skagit Bay) and Marine Area 8-2 (Ports Susan and Gardner) ; crabbing is allowed seven days a week Oct. 10–Dec. 31 in these areas.",
    "effective": "Oct. 10–Dec. 31, 2026.",
    "effective_from": "2026-10-10",
@@ -621,8 +709,8 @@
    "zones": []
   }
  ],
- "published": "2026-11-25T15:00:34.000Z",
- "snapshot_day": "2026-11-25",
- "source_checked": "2026-11-25T15:00:34.000Z",
+ "published": "2026-11-26T15:00:37.000Z",
+ "snapshot_day": "2026-11-26",
+ "source_checked": "2026-11-26T15:00:37.000Z",
  "state": "WA"
 }
