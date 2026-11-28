@@ -1,0 +1,31 @@
+{
+ "format": 1,
+ "state": "WY",
+ "built": "2026-11-08T19:52:11+00:00",
+ "pack_version": "2026.16",
+ "inputs_sha256": "81bbc3421dcfb6afdde46024b2602e663e6822aeeb3d7bb6143dd14a41f2ba2b",
+ "core": {
+  "file": "3d40bf4affc1b7451ef5ec430b44ace6fa228a60e02b4d4029e2fe96b8cc985d.pmtiles",
+  "bytes": 2408975,
+  "sha256": "3d40bf4affc1b7451ef5ec430b44ace6fa228a60e02b4d4029e2fe96b8cc985d",
+  "minzoom": 3,
+  "maxzoom": 12,
+  "tiles": 6871
+ },
+ "land": {
+  "file": "bc011b2302df5fc384fc289d9d2788278d3df0ce764098f3357749eff57c34c2.pmtiles",
+  "bytes": 9857723,
+  "sha256": "bc011b2302df5fc384fc289d9d2788278d3df0ce764098f3357749eff57c34c2",
+  "minzoom": 3,
+  "maxzoom": 12,
+  "tiles": 6864
+ },
+ "hunt": {
+  "file": "edab1b0848c258e3d39f99cd95e328690c3c7dcdab9ea6533703276755f43a24.pmtiles",
+  "bytes": 6105743,
+  "sha256": "edab1b0848c258e3d39f99cd95e328690c3c7dcdab9ea6533703276755f43a24",
+  "minzoom": 3,
+  "maxzoom": 12,
+  "tiles": 6682
+ }
+}

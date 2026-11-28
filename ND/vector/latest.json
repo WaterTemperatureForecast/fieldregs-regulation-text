@@ -1,0 +1,31 @@
+{
+ "format": 1,
+ "state": "ND",
+ "built": "2026-11-08T19:54:12+00:00",
+ "pack_version": "2026.13",
+ "inputs_sha256": "55cd9ebfb81788ce9f6b110f851dbd5d278e3164f153161828b5191b034658f0",
+ "core": {
+  "file": "bdd5a9f4eb7225fd00ca1b759687c26fc2a49363e5746d3a082c036307c18a5e.pmtiles",
+  "bytes": 974592,
+  "sha256": "bdd5a9f4eb7225fd00ca1b759687c26fc2a49363e5746d3a082c036307c18a5e",
+  "minzoom": 3,
+  "maxzoom": 12,
+  "tiles": 5904
+ },
+ "land": {
+  "file": "77867ff3110ac9775aeb1f2f4978afa568accf4a1cd527c51433d7606713642a.pmtiles",
+  "bytes": 3790963,
+  "sha256": "77867ff3110ac9775aeb1f2f4978afa568accf4a1cd527c51433d7606713642a",
+  "minzoom": 3,
+  "maxzoom": 12,
+  "tiles": 5880
+ },
+ "hunt": {
+  "file": "4ded50258f8f12e6bcefb5039c5ebe6d8badfdc6b684c77f778738cd9a6a2b0d.pmtiles",
+  "bytes": 963531,
+  "sha256": "4ded50258f8f12e6bcefb5039c5ebe6d8badfdc6b684c77f778738cd9a6a2b0d",
+  "minzoom": 3,
+  "maxzoom": 12,
+  "tiles": 5901
+ }
+}

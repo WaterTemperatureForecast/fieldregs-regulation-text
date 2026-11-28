@@ -1,0 +1,31 @@
+{
+ "format": 1,
+ "state": "CO",
+ "built": "2026-11-08T19:50:55+00:00",
+ "pack_version": "2026.16",
+ "inputs_sha256": "054609a69f878604ca26358b7c8691be2fe9b5f3c0ccdc55db2fa2ac47e9d709",
+ "core": {
+  "file": "2242324eaea5361754f7632f9b2c784ee4a284f6337575e06131e7bc5eae3719.pmtiles",
+  "bytes": 3896747,
+  "sha256": "2242324eaea5361754f7632f9b2c784ee4a284f6337575e06131e7bc5eae3719",
+  "minzoom": 3,
+  "maxzoom": 12,
+  "tiles": 6571
+ },
+ "land": {
+  "file": "563e0037d5718a411134446007f97799a076da15e35ab5f8214be2161f90030e.pmtiles",
+  "bytes": 10683892,
+  "sha256": "563e0037d5718a411134446007f97799a076da15e35ab5f8214be2161f90030e",
+  "minzoom": 3,
+  "maxzoom": 12,
+  "tiles": 6548
+ },
+ "hunt": {
+  "file": "6473fd01760166b4531c5407633476dda08e5206327cc95948c8548f44787cf4.pmtiles",
+  "bytes": 2141336,
+  "sha256": "6473fd01760166b4531c5407633476dda08e5206327cc95948c8548f44787cf4",
+  "minzoom": 3,
+  "maxzoom": 12,
+  "tiles": 6563
+ }
+}
