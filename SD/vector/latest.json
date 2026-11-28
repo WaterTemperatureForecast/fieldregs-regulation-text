@@ -3,7 +3,7 @@
  "state": "SD",
  "built": "2026-11-08T19:54:10+00:00",
  "pack_version": "2026.12",
- "inputs_sha256": "01efec98d7c16fae4ad07301b9617ad3dfc30a045bcfd89939aa6cb49b1b1e08",
+ "inputs_sha256": "9c6e2570347b423fda5828427cb0f5b7a23a5f89421bc44bb9f6ad2141539a4f",
  "core": {
   "file": "df2190368b469787af1f48ba544b7a646eb781ae0cc2cb9e9ac2678ab970ef55.pmtiles",
   "bytes": 1711547,
@@ -13,9 +13,9 @@
   "tiles": 5743
  },
  "land": {
-  "file": "960543fa34e0d7a5cd9e78609d9bb3ae4abc8459cf48be1763cbf3f4fb2cea4f.pmtiles",
-  "bytes": 4904784,
-  "sha256": "960543fa34e0d7a5cd9e78609d9bb3ae4abc8459cf48be1763cbf3f4fb2cea4f",
+  "file": "5caa0d415870338d69daa26be3987a4dfcb47e3e7dc406deffefba4d411facb5.pmtiles",
+  "bytes": 4960309,
+  "sha256": "5caa0d415870338d69daa26be3987a4dfcb47e3e7dc406deffefba4d411facb5",
   "minzoom": 3,
   "maxzoom": 12,
   "tiles": 5708
